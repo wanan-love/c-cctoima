@@ -58,6 +58,32 @@
     }
    },
    "last_sync": "2026-09-04T18:44:57+0000"
+  },
+  "ctcc": {
+   "files": {
+    "河北电信_加装包.md": {
+     "hash": "03d5c59cd429d3e8a60f87946c84e09ddc5cc0101b9d0a755d384d95866f0be3",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_939d472ae0bdb45a4c7effe744572a897501655876598264",
+     "uploaded_as": "河北电信_加装包.md",
+     "uploaded_at": "2026-09-04T20:45:19+0000",
+     "count": 496
+    },
+    "河北电信_套餐.md": {
+     "hash": "5e329be71295b5ffc334f583c91bc3e4a521fb56d6002b7ffd1bbe0a2242cac5",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_22b68076e027119de4dcff0187f397a07501655876598264",
+     "uploaded_as": "河北电信_套餐.md",
+     "uploaded_at": "2026-09-04T20:45:25+0000",
+     "count": 68
+    },
+    "河北电信_营销活动.md": {
+     "hash": "c15516dd0c5cdb3766bdd454b81fbe5040d48b9f781efd569262dbffa9ff9d9b",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_39a30af16a5369803c4b27d41049232b7501655876598264",
+     "uploaded_as": "河北电信_营销活动.md",
+     "uploaded_at": "2026-09-04T20:45:32+0000",
+     "count": 313
+    }
+   },
+   "last_sync": "2026-09-04T20:45:33+0000"
   }
  }
 }
