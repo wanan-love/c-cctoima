@@ -1,0 +1,331 @@
+{
+ "id": null,
+ "regionalList": [
+  {
+   "areaCode": "AH00",
+   "areaByname": "安徽省",
+   "areaName": "安徽省",
+   "areaType": null,
+   "areaNumber": "AH00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "BJ00",
+   "areaByname": "北京市",
+   "areaName": "北京市",
+   "areaType": null,
+   "areaNumber": "010",
+   "regionExtId": "0",
+   "sort": 1,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "CQ00",
+   "areaByname": "重庆市",
+   "areaName": "重庆市",
+   "areaType": null,
+   "areaNumber": "023",
+   "regionExtId": "0",
+   "sort": 1,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "FJ00",
+   "areaByname": "福建省",
+   "areaName": "福建省",
+   "areaType": null,
+   "areaNumber": "FJ00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "GZ00",
+   "areaByname": "广州市",
+   "areaName": "广州市",
+   "areaNumber": "GZ00",
+   "regionExtId": "0",
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "SZ00",
+   "areaByname": "深圳市",
+   "areaName": "深圳市",
+   "areaNumber": "SZ00",
+   "regionExtId": "0",
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "GD00",
+   "areaByname": "广东省",
+   "areaName": "广东省",
+   "areaType": null,
+   "areaNumber": "GD00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "GS00",
+   "areaByname": "甘肃省",
+   "areaName": "甘肃省",
+   "areaType": null,
+   "areaNumber": "GS00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "GX00",
+   "areaByname": "广西壮族自治区",
+   "areaName": "广西壮族自治区",
+   "areaType": null,
+   "areaNumber": "GX00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "GZ01",
+   "areaByname": "贵州省",
+   "areaName": "贵州省",
+   "areaType": null,
+   "areaNumber": "GZ01",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "HB00",
+   "areaByname": "河北省",
+   "areaName": "河北省",
+   "areaType": null,
+   "areaNumber": "HB00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "HB01",
+   "areaByname": "湖北省",
+   "areaName": "湖北省",
+   "areaType": null,
+   "areaNumber": "HB01",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "HLJ0",
+   "areaByname": "黑龙江省",
+   "areaName": "黑龙江省",
+   "areaType": null,
+   "areaNumber": "HLJ0",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "HN00",
+   "areaByname": "湖南省",
+   "areaName": "湖南省",
+   "areaType": null,
+   "areaNumber": "HN00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "HN01",
+   "areaByname": "河南省",
+   "areaName": "河南省",
+   "areaType": null,
+   "areaNumber": "HN01",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "HN02",
+   "areaByname": "海南省",
+   "areaName": "海南省",
+   "areaType": null,
+   "areaNumber": "HN02",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "JL00",
+   "areaByname": "吉林省",
+   "areaName": "吉林省",
+   "areaType": null,
+   "areaNumber": "JL00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "JS00",
+   "areaByname": "江苏省",
+   "areaName": "江苏省",
+   "areaType": null,
+   "areaNumber": "JS00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "JX00",
+   "areaByname": "江西省",
+   "areaName": "江西省",
+   "areaType": null,
+   "areaNumber": "JX00",
+   "regionExtId": "1",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "LN00",
+   "areaByname": "辽宁省",
+   "areaName": "辽宁省",
+   "areaType": null,
+   "areaNumber": "LN00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "NMG0",
+   "areaByname": "内蒙古自治区",
+   "areaName": "内蒙古自治区",
+   "areaType": null,
+   "areaNumber": "NMG0",
+   "regionExtId": "0",
+   "sort": 0,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "NX00",
+   "areaByname": "宁夏回族自治区",
+   "areaName": "宁夏回族自治区",
+   "areaType": null,
+   "areaNumber": "NX00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "QH00",
+   "areaByname": "青海省",
+   "areaName": "青海省",
+   "areaType": null,
+   "areaNumber": "QH00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "SC00",
+   "areaByname": "四川省",
+   "areaName": "四川省",
+   "areaType": null,
+   "areaNumber": "SC00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "SD00",
+   "areaByname": "山东省",
+   "areaName": "山东省",
+   "areaType": null,
+   "areaNumber": "SD00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "SH00",
+   "areaByname": "上海市",
+   "areaName": "上海市",
+   "areaType": null,
+   "areaNumber": "021",
+   "regionExtId": "0",
+   "sort": 1,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "SX00",
+   "areaByname": "山西省",
+   "areaName": "山西省",
+   "areaType": null,
+   "areaNumber": "SX00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "SX01",
+   "areaByname": "陕西省",
+   "areaName": "陕西省",
+   "areaType": null,
+   "areaNumber": "SX01",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "TJ00",
+   "areaByname": "天津市",
+   "areaName": "天津市",
+   "areaType": null,
+   "areaNumber": "022",
+   "regionExtId": "0",
+   "sort": 1,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "XJ00",
+   "areaByname": "新疆维吾尔自治区",
+   "areaName": "新疆维吾尔自治区",
+   "areaType": null,
+   "areaNumber": "XJ00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "XZ00",
+   "areaByname": "西藏自治区",
+   "areaName": "西藏自治区",
+   "areaType": null,
+   "areaNumber": "XZ00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "YN00",
+   "areaByname": "云南省",
+   "areaName": "云南省",
+   "areaType": null,
+   "areaNumber": "YN00",
+   "regionExtId": "0",
+   "sort": 1,
+   "showFlag": "Y"
+  },
+  {
+   "areaCode": "ZJ00",
+   "areaByname": "浙江省",
+   "areaName": "浙江省",
+   "areaType": null,
+   "areaNumber": "ZJ00",
+   "regionExtId": "1",
+   "sort": null,
+   "showFlag": "Y"
+  }
+ ]
+}

@@ -1,0 +1,382 @@
+{
+ "provinceList": [
+  {
+   "cityIndex": 1,
+   "provName": "北京",
+   "cityName": "北京",
+   "provCode": "011",
+   "cityCode": "110",
+   "provIndex": 1
+  },
+  {
+   "cityIndex": 1,
+   "provName": "天津",
+   "cityName": "天津",
+   "provCode": "013",
+   "cityCode": "130",
+   "provIndex": 2
+  },
+  {
+   "cityIndex": 10,
+   "provName": "河北",
+   "cityName": "沧州",
+   "provCode": "018",
+   "cityCode": "180",
+   "provIndex": 3
+  },
+  {
+   "cityIndex": 1,
+   "provName": "山西",
+   "cityName": "太原",
+   "provCode": "019",
+   "cityCode": "190",
+   "provIndex": 4
+  },
+  {
+   "cityIndex": 1,
+   "provName": "内蒙古",
+   "cityName": "呼和浩特",
+   "provCode": "010",
+   "cityCode": "101",
+   "provIndex": 5
+  },
+  {
+   "cityIndex": 1,
+   "provName": "辽宁",
+   "cityName": "沈阳",
+   "provCode": "091",
+   "cityCode": "910",
+   "provIndex": 6
+  },
+  {
+   "cityIndex": 1,
+   "provName": "吉林",
+   "cityName": "长春",
+   "provCode": "090",
+   "cityCode": "901",
+   "provIndex": 7
+  },
+  {
+   "cityIndex": 1,
+   "provName": "黑龙江",
+   "cityName": "哈尔滨",
+   "provCode": "097",
+   "cityCode": "971",
+   "provIndex": 8
+  },
+  {
+   "cityIndex": 1,
+   "provName": "上海",
+   "cityName": "上海",
+   "provCode": "031",
+   "cityCode": "310",
+   "provIndex": 9
+  },
+  {
+   "cityIndex": 3,
+   "provName": "江苏",
+   "cityName": "无锡",
+   "provCode": "034",
+   "cityCode": "330",
+   "provIndex": 10
+  },
+  {
+   "cityIndex": 1,
+   "provName": "浙江",
+   "cityName": "杭州",
+   "provCode": "036",
+   "cityCode": "360",
+   "provIndex": 11
+  },
+  {
+   "cityIndex": 13,
+   "provName": "安徽",
+   "cityName": "马鞍山",
+   "provCode": "030",
+   "cityCode": "300",
+   "provIndex": 12
+  },
+  {
+   "cityIndex": 1,
+   "provName": "福建",
+   "cityName": "福州",
+   "provCode": "038",
+   "cityCode": "380",
+   "provIndex": 13
+  },
+  {
+   "cityIndex": 8,
+   "provName": "江西",
+   "cityName": "景德镇",
+   "provCode": "075",
+   "cityCode": "740",
+   "provIndex": 14
+  },
+  {
+   "cityIndex": 3,
+   "provName": "山东",
+   "cityName": "淄博",
+   "provCode": "017",
+   "cityCode": "150",
+   "provIndex": 15
+  },
+  {
+   "cityIndex": 1,
+   "provName": "河南",
+   "cityName": "郑州",
+   "provCode": "076",
+   "cityCode": "760",
+   "provIndex": 16
+  },
+  {
+   "cityIndex": 1,
+   "provName": "湖北",
+   "cityName": "武汉",
+   "provCode": "071",
+   "cityCode": "710",
+   "provIndex": 17
+  },
+  {
+   "cityIndex": 1,
+   "provName": "湖南",
+   "cityName": "长沙",
+   "provCode": "074",
+   "cityCode": "741",
+   "provIndex": 18
+  },
+  {
+   "cityIndex": 1,
+   "provName": "广东",
+   "cityName": "广州",
+   "provCode": "051",
+   "cityCode": "510",
+   "provIndex": 19
+  },
+  {
+   "cityIndex": 12,
+   "provName": "广西",
+   "cityName": "贺州",
+   "provCode": "059",
+   "cityCode": "588",
+   "provIndex": 20
+  },
+  {
+   "cityIndex": 1,
+   "provName": "海南",
+   "cityName": "海口",
+   "provCode": "050",
+   "cityCode": "501",
+   "provIndex": 21
+  },
+  {
+   "cityIndex": 1,
+   "provName": "重庆",
+   "cityName": "重庆",
+   "provCode": "083",
+   "cityCode": "831",
+   "provIndex": 22
+  },
+  {
+   "cityIndex": 1,
+   "provName": "四川",
+   "cityName": "成都",
+   "provCode": "081",
+   "cityCode": "810",
+   "provIndex": 23
+  },
+  {
+   "cityIndex": 6,
+   "provName": "贵州",
+   "cityName": "铜仁",
+   "provCode": "085",
+   "cityCode": "785",
+   "provIndex": 24
+  },
+  {
+   "cityIndex": 4,
+   "provName": "云南",
+   "cityName": "德宏",
+   "provCode": "086",
+   "cityCode": "730",
+   "provIndex": 25
+  },
+  {
+   "cityIndex": 1,
+   "provName": "西藏",
+   "cityName": "拉萨",
+   "provCode": "079",
+   "cityCode": "790",
+   "provIndex": 26
+  },
+  {
+   "cityIndex": 4,
+   "provName": "陕西",
+   "cityName": "宝鸡",
+   "provCode": "084",
+   "cityCode": "840",
+   "provIndex": 27
+  },
+  {
+   "cityIndex": 1,
+   "provName": "甘肃",
+   "cityName": "兰州",
+   "provCode": "087",
+   "cityCode": "870",
+   "provIndex": 28
+  },
+  {
+   "cityIndex": 1,
+   "provName": "青海",
+   "cityName": "西宁",
+   "provCode": "070",
+   "cityCode": "700",
+   "provIndex": 29
+  },
+  {
+   "cityIndex": 1,
+   "provName": "宁夏",
+   "cityName": "银川",
+   "provCode": "088",
+   "cityCode": "880",
+   "provIndex": 30
+  },
+  {
+   "cityIndex": 1,
+   "provName": "新疆",
+   "cityName": "乌鲁木齐",
+   "provCode": "089",
+   "cityCode": "890",
+   "provIndex": 31
+  }
+ ],
+ "levelList": [
+  {
+   "firstLevel": "1",
+   "firstLevelName": "套餐",
+   "secondLevels": [
+    {
+     "secondLevel": "1001",
+     "secondLevelName": "移网"
+    },
+    {
+     "secondLevel": "1002",
+     "secondLevelName": "宽带"
+    },
+    {
+     "secondLevel": "1003",
+     "secondLevelName": "固话"
+    },
+    {
+     "secondLevel": "1004",
+     "secondLevelName": "融合"
+    }
+   ]
+  },
+  {
+   "firstLevel": "2",
+   "firstLevelName": "加装包",
+   "secondLevels": [
+    {
+     "secondLevel": "2001",
+     "secondLevelName": "流量包"
+    },
+    {
+     "secondLevel": "2002",
+     "secondLevelName": "短信包"
+    },
+    {
+     "secondLevel": "2003",
+     "secondLevelName": "语音包"
+    },
+    {
+     "secondLevel": "2004",
+     "secondLevelName": "权益包"
+    },
+    {
+     "secondLevel": "2005",
+     "secondLevelName": "新业务"
+    },
+    {
+     "secondLevel": "2006",
+     "secondLevelName": "其他"
+    }
+   ]
+  },
+  {
+   "firstLevel": "3",
+   "firstLevelName": "营销活动",
+   "secondLevels": [
+    {
+     "secondLevel": "3001",
+     "secondLevelName": "促销"
+    },
+    {
+     "secondLevel": "3002",
+     "secondLevelName": "合约"
+    }
+   ]
+  },
+  {
+   "firstLevel": "4",
+   "firstLevelName": "港澳台/国际资费",
+   "secondLevels": [
+    {
+     "secondLevel": "4001",
+     "secondLevelName": "国际/港澳台加装包"
+    },
+    {
+     "secondLevel": "4002",
+     "secondLevelName": "国际/港澳台移网套餐"
+    },
+    {
+     "secondLevel": "4003",
+     "secondLevelName": "国际/港澳台融合套餐"
+    },
+    {
+     "secondLevel": "4004",
+     "secondLevelName": "国际/港澳台标准资费"
+    }
+   ]
+  },
+  {
+   "firstLevel": "5",
+   "firstLevelName": "标准资费",
+   "secondLevels": [
+    {
+     "secondLevel": "5001",
+     "secondLevelName": "标准资费"
+    }
+   ]
+  },
+  {
+   "firstLevel": "99",
+   "firstLevelName": "停售套餐",
+   "secondLevels": [
+    {
+     "secondLevel": "1",
+     "secondLevelName": "套餐"
+    },
+    {
+     "secondLevel": "2",
+     "secondLevelName": "加装包"
+    },
+    {
+     "secondLevel": "3",
+     "secondLevelName": "营销活动"
+    },
+    {
+     "secondLevel": "4",
+     "secondLevelName": "港澳台/国际资费"
+    },
+    {
+     "secondLevel": "5",
+     "secondLevelName": "标准资费"
+    }
+   ]
+  }
+ ],
+ "userProName": "北京",
+ "userCityCode": "110",
+ "userCityName": "北京",
+ "userProCode": "011"
+}

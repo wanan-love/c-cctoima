@@ -1,0 +1,41 @@
+{
+ "code": "0",
+ "errorDescription": null,
+ "dataObject": [
+  {
+   "lable1Id": "6981986ea2d44b8fc35601a4",
+   "lable1Name": "套餐",
+   "lable1Sort": 1,
+   "wtUrl": null,
+   "lable2List": []
+  },
+  {
+   "lable1Id": "69ca38ce49279117fdf2c5ef",
+   "lable1Name": "加装包",
+   "lable1Sort": 2,
+   "wtUrl": null,
+   "lable2List": []
+  },
+  {
+   "lable1Id": "69ca3a3e49279117fdf2c62d",
+   "lable1Name": "营销活动",
+   "lable1Sort": 3,
+   "wtUrl": null,
+   "lable2List": []
+  },
+  {
+   "lable1Id": "69ca3f0c49279117fdf2c6c5",
+   "lable1Name": "国际/港澳台资费",
+   "lable1Sort": 4,
+   "wtUrl": null,
+   "lable2List": []
+  },
+  {
+   "lable1Id": "69ca41d249279117fdf2c703",
+   "lable1Name": "国内（不含港澳台）标准资费",
+   "lable1Sort": 5,
+   "wtUrl": null,
+   "lable2List": []
+  }
+ ]
+}

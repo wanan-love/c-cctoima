@@ -1,0 +1,323 @@
+{
+ "operator": "cucc",
+ "generated_at": "2026-09-04T17:36:54+0000",
+ "overall": "PASS",
+ "item_count": 1679,
+ "previous_count": null,
+ "checks": [
+  {
+   "check": "province_hebei",
+   "status": "PASS",
+   "detail": "province_ok=True; evidence={\"hebei_prov_found_in_indexData\": {\"provName\": \"河北\", \"provCode\": \"018\"}, \"verified_city_code\": \"188\", \"province_ok\": true}"
+  },
+  {
+   "check": "audience_personal",
+   "status": "PASS",
+   "detail": "audience evidence: {}"
+  },
+  {
+   "check": "categories_covered",
+   "status": "PASS",
+   "detail": "发现 22 个分类，其中有效 22；异常: []"
+  },
+  {
+   "check": "official_totals",
+   "status": "PASS",
+   "detail": "全部分类数量与官方声明一致（22 分类）"
+  },
+  {
+   "check": "detail_completeness",
+   "status": "PASS",
+   "detail": "1679 条；name 覆盖 1679/1679，details 覆盖 1679/1679（阈值 0.95）"
+  },
+  {
+   "check": "no_duplicates",
+   "status": "PASS",
+   "detail": "重名 name 数 0（tariff_id 已去重）"
+  },
+  {
+   "check": "no_severe_errors",
+   "status": "PASS",
+   "detail": "无采集错误"
+  },
+  {
+   "check": "no_abnormal_drop",
+   "status": "PASS",
+   "detail": "首次采集，无历史基线"
+  }
+ ],
+ "category_results": [
+  {
+   "category": "套餐>移网",
+   "expected": 143,
+   "collected": 143,
+   "error": ""
+  },
+  {
+   "category": "套餐>宽带",
+   "expected": 73,
+   "collected": 73,
+   "error": ""
+  },
+  {
+   "category": "套餐>固话",
+   "expected": 0,
+   "collected": 0,
+   "error": ""
+  },
+  {
+   "category": "套餐>融合",
+   "expected": 74,
+   "collected": 74,
+   "error": ""
+  },
+  {
+   "category": "加装包>流量包",
+   "expected": 88,
+   "collected": 88,
+   "error": ""
+  },
+  {
+   "category": "加装包>短信包",
+   "expected": 1,
+   "collected": 1,
+   "error": ""
+  },
+  {
+   "category": "加装包>语音包",
+   "expected": 18,
+   "collected": 18,
+   "error": ""
+  },
+  {
+   "category": "加装包>权益包",
+   "expected": 39,
+   "collected": 39,
+   "error": ""
+  },
+  {
+   "category": "加装包>新业务",
+   "expected": 136,
+   "collected": 136,
+   "error": ""
+  },
+  {
+   "category": "加装包>其他",
+   "expected": 64,
+   "collected": 64,
+   "error": ""
+  },
+  {
+   "category": "营销活动>促销",
+   "expected": 142,
+   "collected": 142,
+   "error": ""
+  },
+  {
+   "category": "营销活动>合约",
+   "expected": 54,
+   "collected": 54,
+   "error": ""
+  },
+  {
+   "category": "港澳台/国际资费>国际/港澳台加装包",
+   "expected": 0,
+   "collected": 0,
+   "error": ""
+  },
+  {
+   "category": "港澳台/国际资费>国际/港澳台移网套餐",
+   "expected": 0,
+   "collected": 0,
+   "error": ""
+  },
+  {
+   "category": "港澳台/国际资费>国际/港澳台融合套餐",
+   "expected": 0,
+   "collected": 0,
+   "error": ""
+  },
+  {
+   "category": "港澳台/国际资费>国际/港澳台标准资费",
+   "expected": 0,
+   "collected": 0,
+   "error": ""
+  },
+  {
+   "category": "标准资费>标准资费",
+   "expected": 0,
+   "collected": 0,
+   "error": ""
+  },
+  {
+   "category": "停售套餐>套餐",
+   "expected": 458,
+   "collected": 458,
+   "error": ""
+  },
+  {
+   "category": "停售套餐>加装包",
+   "expected": 264,
+   "collected": 264,
+   "error": ""
+  },
+  {
+   "category": "停售套餐>营销活动",
+   "expected": 125,
+   "collected": 125,
+   "error": ""
+  },
+  {
+   "category": "停售套餐>港澳台/国际资费",
+   "expected": 0,
+   "collected": 0,
+   "error": ""
+  },
+  {
+   "category": "停售套餐>标准资费",
+   "expected": 0,
+   "collected": 0,
+   "error": ""
+  }
+ ],
+ "scope": "本省资费(tariffAttributes=2) × 河北(provinceId=018)",
+ "evidence_summary": {
+  "report_prefixes": [
+   "24",
+   "25",
+   "26"
+  ],
+  "hebei_prov_found_in_indexData": {
+   "provName": "河北",
+   "provCode": "018"
+  },
+  "verified_city_code": "188",
+  "level_list": [
+   {
+    "firstLevel": "1",
+    "firstLevelName": "套餐",
+    "secondLevels": [
+     {
+      "secondLevel": "1001",
+      "secondLevelName": "移网"
+     },
+     {
+      "secondLevel": "1002",
+      "secondLevelName": "宽带"
+     },
+     {
+      "secondLevel": "1003",
+      "secondLevelName": "固话"
+     },
+     {
+      "secondLevel": "1004",
+      "secondLevelName": "融合"
+     }
+    ]
+   },
+   {
+    "firstLevel": "2",
+    "firstLevelName": "加装包",
+    "secondLevels": [
+     {
+      "secondLevel": "2001",
+      "secondLevelName": "流量包"
+     },
+     {
+      "secondLevel": "2002",
+      "secondLevelName": "短信包"
+     },
+     {
+      "secondLevel": "2003",
+      "secondLevelName": "语音包"
+     },
+     {
+      "secondLevel": "2004",
+      "secondLevelName": "权益包"
+     },
+     {
+      "secondLevel": "2005",
+      "secondLevelName": "新业务"
+     },
+     {
+      "secondLevel": "2006",
+      "secondLevelName": "其他"
+     }
+    ]
+   },
+   {
+    "firstLevel": "3",
+    "firstLevelName": "营销活动",
+    "secondLevels": [
+     {
+      "secondLevel": "3001",
+      "secondLevelName": "促销"
+     },
+     {
+      "secondLevel": "3002",
+      "secondLevelName": "合约"
+     }
+    ]
+   },
+   {
+    "firstLevel": "4",
+    "firstLevelName": "港澳台/国际资费",
+    "secondLevels": [
+     {
+      "secondLevel": "4001",
+      "secondLevelName": "国际/港澳台加装包"
+     },
+     {
+      "secondLevel": "4002",
+      "secondLevelName": "国际/港澳台移网套餐"
+     },
+     {
+      "secondLevel": "4003",
+      "secondLevelName": "国际/港澳台融合套餐"
+     },
+     {
+      "secondLevel": "4004",
+      "secondLevelName": "国际/港澳台标准资费"
+     }
+    ]
+   },
+   {
+    "firstLevel": "5",
+    "firstLevelName": "标准资费",
+    "secondLevels": [
+     {
+      "secondLevel": "5001",
+      "secondLevelName": "标准资费"
+     }
+    ]
+   },
+   {
+    "firstLevel": "99",
+    "firstLevelName": "停售套餐",
+    "secondLevels": [
+     {
+      "secondLevel": "1",
+      "secondLevelName": "套餐"
+     },
+     {
+      "secondLevel": "2",
+      "secondLevelName": "加装包"
+     },
+     {
+      "secondLevel": "3",
+      "secondLevelName": "营销活动"
+     },
+     {
+      "secondLevel": "4",
+      "secondLevelName": "港澳台/国际资费"
+     },
+     {
+      "secondLevel": "5",
+      "secondLevelName": "标准资费"
+     }
+    ]
+   }
+  ]
+ },
+ "failure_reasons": []
+}

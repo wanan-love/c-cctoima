@@ -1,0 +1,76 @@
+{
+ "dataObject": [
+  {
+   "extra_fees": null,
+   "other_fees": null,
+   "name": "792元纯流量年卡",
+   "lable1Name": "套餐",
+   "jbxx": "<div class=\"clearfix\"><div><p><span class=\"dark\">资费类型：</span>套餐</p><p><span class=\"dark\">资费标准：</span>27元/1月</p><p><span class=\"dark\">适用范围：</span>限北京电信5G畅游卡39元档（2025版）的用户订购</p><p><span class=\"dark\">销售渠道：</span>线上及线下渠道</p><p><span class=\"dark\">上下线时间：</span>2026-04-13至2026-10-12</p></div><div><p><span class=\"dark\">有效期限：</span>24个月</p><p><span class=\"dark\">退订方式：</span>线下营业厅、10000号均可退订，退订次月生效。</p><p><span class=\"dark\">在网要求：</span>无</p><p class=\"clearfix\"><span class=\"dark\">违约责任：</span><span>无</span></p></div></div>",
+   "ffnr": "<table><tbody><tr><th>通用流量</th><th>定向流量</th></tr><tr><td>70GB</td><td>0MB</td></tr></table></tbody>",
+   "other_content": "月缴费27元，需一次性预存792元，每月返还66元，分12个月返还。合约每月包含全国流量70GB，上网流量仅限中国内地（不含港澳台和国际）使用，不含WLAN(Wi-Fi）上网，全国流量可结转、不可主副卡共享。新用户订购立即生效，订购首月设置过渡期资费，首月资源及费用按天折算；老用户订购次月生效。按月自动续订，退订次月生效，退订后资费恢复主套餐标准资费39元/月，资源恢复主套餐内资源。不支持重复订购。无违约金。本销售品无语音功能，请不要订购带有语音或短信功能的产品，如已订购则无法使用相关功能。国内短 / 彩信按照0.1 元 / 条的标准资费执行。",
+   "id": "69e892190aed30aaa8601b82",
+   "report_no": "26BJ100040",
+   "others": null
+  },
+  {
+   "extra_fees": null,
+   "other_fees": null,
+   "name": "eSIM一号双终端服务套餐10元(非主副卡套餐客户专用)",
+   "lable1Name": "套餐",
+   "jbxx": "<div class=\"clearfix\"><div><p><span class=\"dark\">资费类型：</span>套餐</p><p><span class=\"dark\">资费标准：</span>10元/次</p><p><span class=\"dark\">适用范围：</span>北京电信移动套餐用户，且苹果手机iOS系统26.1及以上</p><p><span class=\"dark\">销售渠道：</span>苹果iWatch APP内订购，且IOS系统26.1及以上</p><p><span class=\"dark\">上下线时间：</span>2020-06-05至2026-10-31</p></div><div><p><span class=\"dark\">有效期限：</span>24个月</p><p><span class=\"dark\">退订方式：</span>立即生效</p><p><span class=\"dark\">在网要求：</span>无</p><p class=\"clearfix\"><span class=\"dark\">违约责任：</span><span>无</span></p></div></div>",
+   "ffnr": "<table><tbody><tr><th>语音</th><th>通用流量</th></tr><tr><td>60.00分钟</td><td>500MB</td></tr></table></tbody>",
+   "other_content": "10元/月，办理一号双终端业务，虚号订购该销售品。每月提供500M国内流量及60分钟国内语音。超出语音后，按0.1元/分钟计费，超出套内流量后前100MB按0.03元/MB收费，达到100MB（3元）时，额外赠送用户924MB流量（即3元/1GB）;流量超过1GB时，仍按上述原则收费。订购后立即生效，首月费用按天折算。退订立即生效。不允许重复订购。有效期24个月，如双方在有效期满前30日均未提出异议，每次自动续展24月。",
+   "id": "69eb30d2cc65ed13ce396562",
+   "report_no": "24BJ101042",
+   "others": ""
+  },
+  {
+   "extra_fees": null,
+   "other_fees": null,
+   "name": "单宽包年预存包-500M（一年）720",
+   "lable1Name": "套餐",
+   "jbxx": "<div class=\"clearfix\"><div><p><span class=\"dark\">资费类型：</span>套餐</p><p><span class=\"dark\">资费标准：</span>720元/次</p><p><span class=\"dark\">适用范围：</span>订购了“单宽月付资费-500M-60元/月”的用户\n</p><p><span class=\"dark\">销售渠道：</span>10000号、线下渠道</p><p><span class=\"dark\">上下线时间：</span>2025-12-22至2030-12-31</p></div><div><p><span class=\"dark\">有效期限：</span>12个月</p><p><span class=\"dark\">退订方式：</span>线下营业厅、10000号均可退订，次月生效</p><p><span class=\"dark\">在网要求：</span>12个月</p><p class=\"clearfix\"><span class=\"dark\">违约责任：</span><span>合约期内，如办理拆机、停机保号、过户、退订、携转或变更套餐，需办理提前解约。提前解约需支付解约赔偿金，解约后双方不再履行原合约。解约赔偿金=100元。\n</span></p></div></div>",
+   "ffnr": "<table><tbody><tr><th>通用流量</th><th>定向流量</th></tr><tr><td>0MB</td><td>0MB</td></tr></table></tbody>",
+   "other_content": "720元/次，一次性收取，包含一条FTTH宽带，上行速率40M，下行速率500M。新装收取安装调测费100元/次。订购首月免费，订购、退订次月生效。有效期12个月，到期自动退订。",
+   "id": "69ef1dc59d1de3e1d90e9cbf",
+   "report_no": "25BJ100678",
+   "others": null
+  },
+  {
+   "extra_fees": null,
+   "other_fees": null,
+   "name": "单宽包年预存包-300M（一年）480",
+   "lable1Name": "套餐",
+   "jbxx": "<div class=\"clearfix\"><div><p><span class=\"dark\">资费类型：</span>套餐</p><p><span class=\"dark\">资费标准：</span>480元/次</p><p><span class=\"dark\">适用范围：</span>订购了“单宽月付资费-300M-40元/月”的用户\n</p><p><span class=\"dark\">销售渠道：</span>10000号、线下渠道</p><p><span class=\"dark\">上下线时间：</span>2025-12-22至2030-12-31</p></div><div><p><span class=\"dark\">有效期限：</span>12个月</p><p><span class=\"dark\">退订方式：</span>线下营业厅、10000号均可退订，次月生效</p><p><span class=\"dark\">在网要求：</span>12个月</p><p class=\"clearfix\"><span class=\"dark\">违约责任：</span><span>合约期内，如办理拆机、停机保号、过户、退订、携转或变更套餐，需办理提前解约。提前解约需支付解约赔偿金，解约后双方不再履行原合约。解约赔偿金=100元。\n</span></p></div></div>",
+   "ffnr": "<table><tbody><tr><th>通用流量</th><th>定向流量</th></tr><tr><td>0MB</td><td>0MB</td></tr></table></tbody>",
+   "other_content": "480元/次，一次性收取，包含一条FTTH宽带，上行速率40M，下行速率300M。新装收取安装调测费100元/次。订购首月免费，订购、退订次月生效。有效期12个月，到期自动退订。",
+   "id": "69ef1dc49d1de3e1d90e9cbd",
+   "report_no": "25BJ100677",
+   "others": null
+  },
+  {
+   "extra_fees": null,
+   "other_fees": null,
+   "name": "5G畅享55元套餐202512",
+   "lable1Name": "套餐",
+   "jbxx": "<div class=\"clearfix\"><div><p><span class=\"dark\">资费类型：</span>套餐</p><p><span class=\"dark\">资费标准：</span>55元/月(全周期)</p><p><span class=\"dark\">适用范围：</span>北京电信全量用户</p><p><span class=\"dark\">销售渠道：</span>线下渠道</p><p><span class=\"dark\">上下线时间：</span>2025-12-22至2027-12-31</p></div><div><p><span class=\"dark\">有效期限：</span>24月</p><p><span class=\"dark\">退订方式：</span>线下营业厅、10000号均可退订，退订次月生效。</p><p><span class=\"dark\">在网要求：</span>无</p><p class=\"clearfix\"><span class=\"dark\">违约责任：</span><span>无</span></p></div></div>",
+   "ffnr": "<table><tbody><tr><th>语音</th><th>通用流量</th><th>定向流量</th></tr><tr><td>100.00分钟</td><td>50GB</td><td>0MB</td></tr></table></tbody>",
+   "other_content": "55元/月，全国流量50GB+国内语音100分钟，移动上网速率（下行最高300M ，上行最高100M），赠送天翼云盘（免费版）及189邮箱。流量及语音仅限中国内地(不含港澳台)使用，流量不含WLAN(Wi-Fi)上网，流量适用于不清零规则 。套外资费：国内流量按照5元/GB收取（前100MB按0.05元/MB收费，达到100MB（5元）时，赠送924MB，以此类推，套外流量达600元（整倍）断网，如继续使用，按套外资费收费；国内通话按0.1元/分钟计收，不足1分钟按1分钟计；国内短/彩信0.1元/条。副卡至多新装4张，副卡10元/月/张，副卡生效后共享套内流量、语音及套外资费。新用户立即生效，首月费用和套餐内容均按天折算，老用户次月生效。变更、退订次月生效。有效期24月，如双方在有效期满30日内未提出异议，每次续展24月。",
+   "id": "69ef1dc59d1de3e1d90e9cd1",
+   "report_no": "25BJ100689",
+   "others": ""
+  },
+  {
+   "extra_fees": null,
+   "other_fees": null,
+   "name": "5G畅享融合99元套餐202512",
+   "lable1Name": "套餐",
+   "jbxx": "<div class=\"clearfix\"><div><p><span class=\"dark\">资费类型：</span>套餐</p><p><span class=\"dark\">资费标准：</span>99元/月(全周期)</p><p><span class=\"dark\">适用范围：</span>北京电信全量用户</p><p><span class=\"dark\">销售渠道：</span>线下渠道</p><p><span class=\"dark\">上下线时间：</span>2025-12-22至2027-12-31</p></div><div><p><span class=\"dark\">有效期限：</span>24月</p><p><span class=\"dark\">退订方式：</span>线下营业厅、10000号均可退订，退订次月生效。</p><p><span class=\"dark\">在网要求：</span>无</p><p class=\"clearfix\"><span class=\"dark\">违约责任：</span><span>无</span></p></div></div>",
+   "ffnr": "<table><tbody><tr><th>语音</th><th>通用流量</th><th>定向流量</th></tr><tr><td>150.00分钟</td><td>40GB</td><td>0GB</td></tr></table></tbody>",
+   "other_content": "99元/月，全国流量40GB+国内语音150分钟，移动上网速率（下行最高500M ，上行最高100M），赠送天翼云盘（免费版）及189邮箱。流量及语音仅限中国内地(不含港澳台)使用，流量不含WLAN(Wi-Fi)上网，流量适用于不清零规则 。套外资费：国内流量按照3元/GB收取（前100MB按0.03元/MB收费，达到100MB（3元）时，赠送924MB，以此类推，套外流量达600元（整倍）断网，如继续使用，按套外资费收费；国内通话按0.1元/分钟计收，不足1分钟按1分钟计；国内短/彩信0.1元/条。副卡至多新装4张，含1张免费副卡，其余副卡按10元/月/张收取，副卡生效后共享套内流量、语音及套外资费。新用户立即生效，首月费用和套餐内容均按天折算，老用户次月生效。变更、退订次月生效。有效期24月，如双方在有效期满30日内未提出异议，每次续展24月。除橙分期合约外，加装500M宽带可享AI权益超市20元额度任选。",
+   "id": "69ef1dc59d1de3e1d90e9ccb",
+   "report_no": "25BJ100686",
+   "others": null
+  }
+ ]
+}

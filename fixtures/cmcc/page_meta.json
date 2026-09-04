@@ -1,0 +1,15 @@
+{
+ "type_options": [
+  "套餐",
+  "加装包",
+  "营销活动",
+  "港澳台/国际资费",
+  "标准资费"
+ ],
+ "page_example": {
+  "total": 414,
+  "pageNumber": 1,
+  "pages": 83,
+  "pageSize": 5
+ }
+}
