@@ -1,0 +1,104 @@
+# 电信 189.cn WAF 诊断（手动触发）：测试不同主机/UA/出口的挑战通过性
+name: CTCC WAF Diagnostics
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - host: www.189.cn
+            path: /tariffZone/
+            ua: desktop
+          - host: www.189.cn
+            path: /tariffZone/
+            ua: mobile
+          - host: he.189.cn
+            path: /
+            ua: desktop
+          - host: m.189.cn
+            path: /
+            ua: mobile
+          - host: www.189.cn
+            path: /tariffZone/
+            ua: desktop
+            warp: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          python -m pip install -r requirements.txt
+          python -m playwright install chromium --with-deps
+      - name: Setup WARP (if requested)
+        if: matrix.warp == '1'
+        run: |
+          docker run -d --name warp-docker -p 127.0.0.1:1080:1080 \
+            --restart unless-stopped --cap-add NET_ADMIN \
+            --sysctl net.ipv6.conf.all.disable_ipv6=0 \
+            --sysctl net.ipv4.conf.all.src_valid_mark=1 \
+            caomingjun/warp >/dev/null 2>&1 || true
+          for i in $(seq 1 60); do
+            if curl -s --max-time 5 --socks5-hostname 127.0.0.1:1080 https://www.cloudflare.com/cdn-cgi/trace | grep -Eq '^warp=(on|plus)'; then
+              echo "WARP_SOCKS=socks5://127.0.0.1:1080" >> "$GITHUB_ENV"
+              break
+            fi
+            sleep 3
+          done
+          echo "warp: ${WARP_SOCKS:-not-connected}"
+      - name: Test challenge
+        env:
+          TEST_URL: https://${{ matrix.host }}${{ matrix.path }}
+          TEST_UA: ${{ matrix.ua }}
+        run: |
+          python - << 'EOF' 2>&1
+          import os
+          from playwright.sync_api import sync_playwright
+
+          uas = {
+            'desktop': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+            'mobile': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1',
+          }
+          url = os.environ['TEST_URL']
+          ua = uas[os.environ['TEST_UA']]
+          proxy = None
+          warp = os.environ.get('WARP_SOCKS')
+          if warp:
+              proxy = {'server': warp}
+          print(f"[diag] url={url} ua={os.environ['TEST_UA']} proxy={proxy}")
+          with sync_playwright() as p:
+              browser = p.chromium.launch(headless=True, args=['--no-sandbox'], proxy=proxy)
+              ctx = browser.new_context(user_agent=ua, viewport={'width': 390 if os.environ['TEST_UA']=='mobile' else 1380, 'height': 844 if os.environ['TEST_UA']=='mobile' else 900})
+              page = ctx.new_page()
+              try:
+                  r = page.goto(url, wait_until='domcontentloaded', timeout=60000)
+                  print(f"[diag] initial HTTP {r.status if r else '?'}")
+              except Exception as e:
+                  print(f"[diag] goto ERR {str(e)[:120]}")
+                  raise SystemExit(0)
+              for i in range(15):
+                  page.wait_for_timeout(4000)
+                  try:
+                      t = page.title()
+                      txt = page.evaluate("() => document.body ? document.body.innerText.slice(0, 80) : ''")
+                  except Exception:
+                      continue
+                  if t or txt:
+                      print(f"[diag] {i*4}s: title={t!r} text={txt[:50]!r}")
+                      if '资费' in t or '电信' in t or '资费' in txt:
+                          print(f"[diag] ✅ 挑战通过")
+                          break
+              else:
+                  print("[diag] ❌ 60s 内挑战未通过")
+              try:
+                  print(f"[diag] final url={page.url} cookies={[c['name'] for c in ctx.cookies()][:8]}")
+              except Exception:
+                  pass
+              browser.close()
+          EOF
