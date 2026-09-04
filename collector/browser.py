@@ -62,13 +62,12 @@ class BrowserSession:
                 timezone_id="Asia/Shanghai",
                 extra_http_headers={"Accept-Language": "zh-CN,zh;q=0.9"},
             )
-        # 反自动化检测补丁
+        # 最小化反自动化补丁：仅隐藏 webdriver 标记。
+        # ⚠️ 不得伪造 navigator.plugins / languages 等——伪造结构异常（如数字数组）
+        # 反而是瑞数等 WAF 的强机器人特征（实测：无补丁可通过 189.cn 挑战）。
         ctx.add_init_script(
             """
-            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
-            Object.defineProperty(navigator, 'languages', { get: () => ['zh-CN', 'zh', 'en'] });
-            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
-            window.chrome = window.chrome || { runtime: {} };
+            try { Object.defineProperty(navigator, 'webdriver', { get: () => undefined }); } catch (e) {}
             """
         )
         self.contexts.append(ctx)
