@@ -1,14 +1,14 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-04T18:32:28+0000",
+ "generated_at": "2026-09-04T19:17:10+0000",
  "overall": "FAIL",
- "item_count": 2210,
+ "item_count": 1943,
  "previous_count": null,
  "checks": [
   {
    "check": "province_hebei",
-   "status": "FAIL",
-   "detail": "province_ok=False; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_ok\": false}"
+   "status": "PASS",
+   "detail": "province_ok=True; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_field_coverage\": 0.999, \"province_ok\": true}"
   },
   {
    "check": "audience_personal",
@@ -23,12 +23,12 @@
   {
    "check": "official_totals",
    "status": "FAIL",
-   "detail": "套餐: 325/414; 加装包: 635/667; 营销活动: 1025/1032"
+   "detail": "套餐: 325/414; 加装包: 635/667; 营销活动: 755/1032; 港澳台/国际资费: 5/1032"
   },
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2210 条；name 覆盖 2210/2210，details 覆盖 2210/2210（阈值 0.95）"
+   "detail": "1943 条；name 覆盖 1943/1943，details 覆盖 1943/1943（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -61,14 +61,14 @@
   },
   {
    "label": "营销活动",
-   "beans": 1025,
+   "beans": 755,
    "total": 1032,
    "note": ""
   },
   {
    "label": "港澳台/国际资费",
-   "beans": 3,
-   "total": 3,
+   "beans": 5,
+   "total": 1032,
    "note": ""
   },
   {
@@ -97,8 +97,7 @@
   ]
  },
  "failure_reasons": [
-  "province_hebei: province_ok=False; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_ok\": false}",
-  "official_totals: 套餐: 325/414; 加装包: 635/667; 营销活动: 1025/1032",
+  "official_totals: 套餐: 325/414; 加装包: 635/667; 营销活动: 755/1032; 港澳台/国际资费: 5/1032",
   "no_duplicates: 重名 name 数 37（tariff_id 已去重）"
  ]
 }

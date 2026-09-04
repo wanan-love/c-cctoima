@@ -1,6 +1,6 @@
 {
  "operator": "ctcc",
- "collected_at": "2026-09-04T18:50:19+0000",
+ "collected_at": "2026-09-04T18:59:32+0000",
  "ok": false,
  "categories": [],
  "evidence": {
@@ -18,6 +18,6 @@
   "WAF: 页面始终未就绪（可能被风控，详见 evidence）"
  ],
  "pages_visited": 0,
- "duration_s": 131.5,
+ "duration_s": 133.4,
  "items": []
 }
