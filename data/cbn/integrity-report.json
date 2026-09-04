@@ -1,6 +1,6 @@
 {
  "operator": "cbn",
- "generated_at": "2026-09-04T20:54:32+0000",
+ "generated_at": "2026-09-04T22:51:21+0000",
  "overall": "PASS",
  "item_count": 131,
  "previous_count": 131,
@@ -33,7 +33,7 @@
   {
    "check": "no_duplicates",
    "status": "PASS",
-   "detail": "同分类重名数 2（阈值 2；tariff_id 已去重）"
+   "detail": "重复 tariff_id 0 个（权威判据）；同分类同名不同编号 2 组（官方数据的同名独立方案，信息项）"
   },
   {
    "check": "no_severe_errors",
