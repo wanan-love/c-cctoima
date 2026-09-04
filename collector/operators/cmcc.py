@@ -461,11 +461,18 @@ class CmccOperator(BaseOperator):
         self.outcome.evidence["api_province_codes"] = sorted(provinces)[:40]
         self.outcome.evidence["api_type1_values"] = sorted(type1s)
         self.outcome.evidence["report_prefixes"] = sorted(report_prefixes)
-        # 每条记录的省份列表都覆盖河北（311），且 type1=1（个人）
+        # 省份校验：带 province 字段的记录必须覆盖河北（311）；
+        # 无该字段的记录（标准资费表格兜底等）不判失败，但需 ≥80% 记录带字段
+        items_total = len(self.outcome.items)
+        with_field = sum(1 for it in self.outcome.items if str(it.raw.get("province") or "").strip())
+
         def covers_hebei(rec):
             prov = str(rec.get("province") or "")
             return hebei_code in [x for x in prov.split(",") if x]
+
+        self.outcome.evidence["province_field_coverage"] = round(with_field / items_total, 3) if items_total else 0
         self.outcome.evidence["province_ok"] = bool(provinces) and all(
-            covers_hebei(it.raw) for it in self.outcome.items
-        )
-        self.outcome.evidence["audience_type1_ok"] = type1s == {"1"}
+            covers_hebei(it.raw) for it in self.outcome.items if str(it.raw.get("province") or "").strip()
+        ) and (items_total == 0 or with_field / items_total >= 0.8)
+        # 受众：带 type1 字段的记录必须全部为 1（个人）；无字段不判失败
+        self.outcome.evidence["audience_type1_ok"] = type1s == {"1"} or not type1s

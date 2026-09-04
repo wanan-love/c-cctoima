@@ -69,7 +69,7 @@ jobs:
   collect:
     needs: plan
     runs-on: ubuntu-latest
-    timeout-minutes: 110
+    timeout-minutes: 150
     strategy:
       fail-fast: false
       matrix:
