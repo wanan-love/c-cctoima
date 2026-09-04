@@ -69,7 +69,8 @@ class CmccOperator(BaseOperator):
         super().__init__(**kw)
         self.collector: CaptureCollector | None = None
         self.current_type: str | None = None
-        self.list_by_type: dict[str, dict] = {}   # label -> {total, beans:{seqno:bean}, maxPage}
+        self.list_by_type: dict[str, dict] = {}   # label -> {total, beans:{seqno:bean}, maxPage, code}
+        self.code_labels: dict[str, str] = {}     # type2 代码 -> 分类名（运行时发现）
         self.standard_tables: list | None = None
         self._pull_thread: threading.Thread | None = None
         self._stop_pull = threading.Event()
@@ -93,16 +94,37 @@ class CmccOperator(BaseOperator):
         self._pull()
 
     def _ingest(self, caps: list):
+        """按【响应内容 type2】分桶（消除点击时序的归属污染）：
+        切换类型瞬间，上一类型的在途响应仍会到达——按点击时序归属会把旧数据
+        记入新类型（run#2/#3 实证：港澳台 total 被污染为营销活动的 1032）。
+        响应内每条 bean 的 nonModuleList[0].type2 即该响应的真实类型代码；
+        label→code 映射在点击后首个新 code 出现时建立。
+        """
         for cap in caps:
             info = _classify_capture(cap)
             if info["kind"] == "list":
-                label = self.current_type or "（初始加载）"
-                entry = self.list_by_type.setdefault(label, {"total": 0, "beans": {}, "maxPage": 0})
+                beans = info.get("beans") or []
+                # 多数投票确定本响应的 type2
+                code_votes: dict[str, int] = {}
+                for b in beans:
+                    items_ = b.get("nonModuleList") or b.get("moduleList") or []
+                    for it in items_:
+                        if isinstance(it, dict) and it.get("type2") is not None:
+                            k = str(it["type2"])
+                            code_votes[k] = code_votes.get(k, 0) + 1
+                resp_code = max(code_votes, key=code_votes.get) if code_votes else None
+                if resp_code is None:
+                    continue
+                # label→code 映射（当前点击标签 + 新 code → 记录）
+                if self.current_type and resp_code not in self.code_labels:
+                    self.code_labels[resp_code] = self.current_type
+                label = self.code_labels.get(resp_code) or f"type2={resp_code}"
+                entry = self.list_by_type.setdefault(label, {"total": 0, "beans": {}, "maxPage": 0, "code": resp_code})
                 if info["total"] > entry["total"]:
                     entry["total"] = info["total"]
                 if info["pageNumber"] > entry["maxPage"]:
                     entry["maxPage"] = info["pageNumber"]
-                for b in info.get("beans") or []:
+                for b in beans:
                     key = str(b.get("tariffSeqno") or b.get("tariffName") or json.dumps(b, ensure_ascii=False)[:80])
                     entry["beans"][key] = b
             elif info["kind"] == "standard":
@@ -353,6 +375,36 @@ class CmccOperator(BaseOperator):
                 self._pull()
                 entry = self.list_by_type.get(label) or entry
 
+            # 口径说明：page.total 统计的是【方案(card)数】——DOM 卡片 = 方案，
+            # 与 total 同口径；beans(系列) 数因多方案系列而小于 total 属正常。
+            def _item_count(e: dict) -> int:
+                n = 0
+                for b in e["beans"].values():
+                    n += len(b.get("nonModuleList") or []) + len(b.get("moduleList") or [])
+                return n
+
+            # 自愈补滚：已捕获方案数 < 接口 total（翻页在途/服务端节流）→ 冷却后最多 3 轮补滚
+            heal = 0
+            while (
+                entry["total"]
+                and _item_count(entry) < entry["total"]
+                and heal < 3
+                and not _os.environ.get("C2I_SMOKE")
+            ):
+                missing = entry["total"] - _item_count(entry)
+                self.log(
+                    f"[cmcc] {label}: 缺 {missing} 方案（{_item_count(entry)}/{entry['total']}，系列 {len(entry['beans'])}）—— 自愈补滚 {heal + 1}/3"
+                )
+                self.human_pause((20, 40))
+                scroll_like_human(
+                    self.page, count_beans_dom, oracle, max_rounds=250, log=self.log,
+                    interval=(2.0, 4.0), stall_rounds=16,
+                    on_round=lambda: self._pull(),
+                )
+                self._pull()
+                entry = self.list_by_type.get(label) or entry
+                heal += 1
+
             # 标准资费兜底（列表 0 时用 getStandardlist 表格）
             used_fallback = False
             if label == "标准资费" and len(entry["beans"]) == 0 and self.standard_tables:
@@ -364,12 +416,16 @@ class CmccOperator(BaseOperator):
             results.append(
                 {
                     "label": label,
+                    "items": _item_count(entry) if not used_fallback else len(self.outcome.items),
                     "beans": len(entry["beans"]),
                     "total": entry["total"],
                     "note": "表格兜底" if used_fallback else "",
                 }
             )
-            self.log(f"[cmcc] {label}: beans={len(entry['beans'])} / total={entry['total']}")
+            self.log(
+                f"[cmcc] {label}: 方案 {_item_count(entry) if not used_fallback else len(self.outcome.items)}/{entry['total']}"
+                f"（系列 {len(entry['beans'])}）"
+            )
             self.outcome.pages_visited = entry.get("maxPage", 0) + self.outcome.pages_visited
             self.human_pause((2, 4))
 

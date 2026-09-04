@@ -39,7 +39,13 @@ def check_integrity(op: str, outcome: dict, normalized: list[dict], previous: li
 
     # 3. 所有分类已发现并采集
     cat_results = ev.get("category_results") or ev.get("type_results") or []
-    cats_with_data = [c for c in cat_results if (c.get("collected") or c.get("beans") or 0) > 0 or (c.get("total") or c.get("expected")) == 0]
+    def _got(c):
+        g = c.get("items")
+        if g is None:
+            g = c.get("collected") if c.get("collected") is not None else c.get("beans")
+        return g or 0
+
+    cats_with_data = [c for c in cat_results if _got(c) > 0 or (c.get("total") or c.get("expected")) == 0]
     cats_ok = len(cat_results) > 0 and len(cats_with_data) == len(cat_results)
     empty_cats = [
         f"{c.get('category') or c.get('label')}"
@@ -53,7 +59,10 @@ def check_integrity(op: str, outcome: dict, normalized: list[dict], previous: li
     total_mismatches = []
     for c in cat_results:
         expected = c.get("total") if c.get("total") is not None else c.get("expected")
-        got = c.get("beans") if c.get("beans") is not None else c.get("collected")
+        # 口径：cmcc 用方案数 items（与官方 page.total 同口径）；其他用 collected/beans
+        got = c.get("items")
+        if got is None:
+            got = c.get("collected") if c.get("collected") is not None else c.get("beans")
         if expected is not None and got is not None:
             if c.get("error") or c.get("note"):
                 continue  # 已在别处记录
@@ -73,12 +82,15 @@ def check_integrity(op: str, outcome: dict, normalized: list[dict], previous: li
     add("detail_completeness", "PASS" if detail_ok else "FAIL",
         f"{n} 条；name 覆盖 {with_name}/{n}，details 覆盖 {with_details}/{n}（阈值 {INTEGRITY['detail_coverage_min']}）")
 
-    # 6. 无明显重复（tariff_id 唯一性已由 normalize 保证；校验 name 重复率）
+    # 6. 无明显重复（tariff_id 唯一性已由 normalize 保证；同分类内 name 重复才是异常，
+    #     跨分类同名合法）
     from collections import Counter
-    name_counts = Counter(x["name"] for x in normalized if x.get("name"))
-    dup_names = sum(1 for c in name_counts.values() if c > 1)
-    dup_ok = dup_names <= max(2, n // 100)  # 允许极少量同名（不同档次重名）
-    add("no_duplicates", "PASS" if dup_ok else "FAIL", f"重名 name 数 {dup_names}（tariff_id 已去重）")
+    cat_name_counts = Counter((x.get("category"), x.get("name")) for x in normalized if x.get("name"))
+    dup_names = sum(1 for c in cat_name_counts.values() if c > 1)
+    dup_threshold = max(2, n // 100)
+    dup_ok = dup_names <= dup_threshold
+    add("no_duplicates", "PASS" if dup_ok else "FAIL",
+        f"同分类重名数 {dup_names}（阈值 {dup_threshold}；tariff_id 已去重）")
 
     # 7. 无严重 API/页面错误
     api_errors = ev.get("api_errors") or []

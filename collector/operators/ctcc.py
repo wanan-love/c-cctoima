@@ -125,6 +125,9 @@ class CtccOperator(BaseOperator):
 
     # ── WAF 导航（瑞数 JS 挑战需要真实浏览器执行，首次 412 属预期） ──
     def _navigate_with_waf(self, tries: int = 4) -> bool:
+        console_msgs: list[str] = []
+        self.page.on("console", lambda m: console_msgs.append(f"[{m.type}] {m.text[:150]}"))
+        self.page.on("pageerror", lambda e: console_msgs.append(f"[pageerror] {str(e)[:200]}"))
         # 先访问 189 首页完成瑞数 JS 挑战（获取 cookie），再进入资费专区
         warmups = ["https://www.189.cn/", "https://www.189.cn/tariffZone/"]
         for i, url in enumerate(warmups if tries > 2 else warmups[1:], start=1):
@@ -159,7 +162,10 @@ class CtccOperator(BaseOperator):
                 "url": self.page.url,
                 "title": self.page.title(),
                 "text_head": self.page.evaluate("() => document.body ? document.body.innerText.slice(0, 200) : ''"),
+                "html_head": self.page.evaluate("() => document.documentElement.outerHTML.slice(0, 1500)"),
                 "cookies": [c["name"] for c in self.page.context.cookies()][:10],
+                "console": console_msgs[-30:],
+                "ua": self.page.evaluate("() => navigator.userAgent"),
             }
         except Exception:
             pass
