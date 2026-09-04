@@ -1,0 +1,58 @@
+{
+ "operator": "ctcc",
+ "generated_at": "2026-09-04T18:04:33+0000",
+ "overall": "FAIL",
+ "item_count": 0,
+ "previous_count": null,
+ "checks": [
+  {
+   "check": "province_hebei",
+   "status": "FAIL",
+   "detail": "province_ok=False; evidence={}"
+  },
+  {
+   "check": "audience_personal",
+   "status": "PASS",
+   "detail": "audience evidence: {}"
+  },
+  {
+   "check": "categories_covered",
+   "status": "FAIL",
+   "detail": "发现 0 个分类，其中有效 0；异常: []"
+  },
+  {
+   "check": "official_totals",
+   "status": "PASS",
+   "detail": "全部分类数量与官方声明一致（0 分类）"
+  },
+  {
+   "check": "detail_completeness",
+   "status": "FAIL",
+   "detail": "0 条；name 覆盖 0/0，details 覆盖 0/0（阈值 0.95）"
+  },
+  {
+   "check": "no_duplicates",
+   "status": "PASS",
+   "detail": "重名 name 数 0（tariff_id 已去重）"
+  },
+  {
+   "check": "no_severe_errors",
+   "status": "FAIL",
+   "detail": "采集错误 1 条: WAF: 页面始终未就绪（可能被风控）"
+  },
+  {
+   "check": "no_abnormal_drop",
+   "status": "PASS",
+   "detail": "首次采集，无历史基线"
+  }
+ ],
+ "category_results": [],
+ "scope": "",
+ "evidence_summary": {},
+ "failure_reasons": [
+  "province_hebei: province_ok=False; evidence={}",
+  "categories_covered: 发现 0 个分类，其中有效 0；异常: []",
+  "detail_completeness: 0 条；name 覆盖 0/0，details 覆盖 0/0（阈值 0.95）",
+  "no_severe_errors: 采集错误 1 条: WAF: 页面始终未就绪（可能被风控）"
+ ]
+}

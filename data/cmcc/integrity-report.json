@@ -1,0 +1,104 @@
+{
+ "operator": "cmcc",
+ "generated_at": "2026-09-04T18:32:28+0000",
+ "overall": "FAIL",
+ "item_count": 2210,
+ "previous_count": null,
+ "checks": [
+  {
+   "check": "province_hebei",
+   "status": "FAIL",
+   "detail": "province_ok=False; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_ok\": false}"
+  },
+  {
+   "check": "audience_personal",
+   "status": "PASS",
+   "detail": "audience evidence: {\"personal\": {\"url_is_personal_zone\": true, \"page_shows_personal_tab\": true}, \"api_type1_values\": [\"1\"], \"audience_type1_ok\": true}"
+  },
+  {
+   "check": "categories_covered",
+   "status": "PASS",
+   "detail": "发现 5 个分类，其中有效 5；异常: []"
+  },
+  {
+   "check": "official_totals",
+   "status": "FAIL",
+   "detail": "套餐: 325/414; 加装包: 635/667; 营销活动: 1025/1032"
+  },
+  {
+   "check": "detail_completeness",
+   "status": "PASS",
+   "detail": "2210 条；name 覆盖 2210/2210，details 覆盖 2210/2210（阈值 0.95）"
+  },
+  {
+   "check": "no_duplicates",
+   "status": "FAIL",
+   "detail": "重名 name 数 37（tariff_id 已去重）"
+  },
+  {
+   "check": "no_severe_errors",
+   "status": "PASS",
+   "detail": "无采集错误"
+  },
+  {
+   "check": "no_abnormal_drop",
+   "status": "PASS",
+   "detail": "首次采集，无历史基线"
+  }
+ ],
+ "category_results": [
+  {
+   "label": "套餐",
+   "beans": 325,
+   "total": 414,
+   "note": ""
+  },
+  {
+   "label": "加装包",
+   "beans": 635,
+   "total": 667,
+   "note": ""
+  },
+  {
+   "label": "营销活动",
+   "beans": 1025,
+   "total": 1032,
+   "note": ""
+  },
+  {
+   "label": "港澳台/国际资费",
+   "beans": 3,
+   "total": 3,
+   "note": ""
+  },
+  {
+   "label": "标准资费",
+   "beans": 86,
+   "total": 86,
+   "note": ""
+  }
+ ],
+ "scope": "",
+ "evidence_summary": {
+  "prov_entry_text": "河北省",
+  "api_province_codes": [
+   "311"
+  ],
+  "report_prefixes": [
+   "HE",
+   "JT"
+  ],
+  "type_options": [
+   "套餐",
+   "加装包",
+   "营销活动",
+   "港澳台/国际资费",
+   "标准资费"
+  ]
+ },
+ "failure_reasons": [
+  "province_hebei: province_ok=False; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_ok\": false}",
+  "official_totals: 套餐: 325/414; 加装包: 635/667; 营销活动: 1025/1032",
+  "no_duplicates: 重名 name 数 37（tariff_id 已去重）"
+ ]
+}

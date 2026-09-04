@@ -1,0 +1,28 @@
+{
+ "operator": "cbn",
+ "collected_at": "2026-09-04T18:01:11+0000",
+ "ok": false,
+ "categories": [],
+ "evidence": {
+  "hebei_area": {
+   "areaCode": "HB00",
+   "areaByname": "河北省",
+   "areaName": "河北省",
+   "areaType": null,
+   "areaNumber": "HB00",
+   "regionExtId": "0",
+   "sort": null,
+   "showFlag": "Y"
+  },
+  "personal_type": {
+   "typeName": "公众",
+   "typeCode": "GZ"
+  }
+ },
+ "errors": [
+  "province: 河北区域选择交互失败"
+ ],
+ "pages_visited": 0,
+ "duration_s": 20.1,
+ "items": []
+}

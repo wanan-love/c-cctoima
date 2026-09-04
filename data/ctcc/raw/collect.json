@@ -1,0 +1,13 @@
+{
+ "operator": "ctcc",
+ "collected_at": "2026-09-04T18:04:33+0000",
+ "ok": false,
+ "categories": [],
+ "evidence": {},
+ "errors": [
+  "WAF: 页面始终未就绪（可能被风控）"
+ ],
+ "pages_visited": 0,
+ "duration_s": 118.1,
+ "items": []
+}
