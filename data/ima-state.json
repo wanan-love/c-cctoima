@@ -59,31 +59,45 @@
    },
    "last_sync": "2026-09-04T18:44:57+0000"
   },
-  "ctcc": {
+  "cmcc": {
    "files": {
-    "河北电信_加装包.md": {
-     "hash": "03d5c59cd429d3e8a60f87946c84e09ddc5cc0101b9d0a755d384d95866f0be3",
-     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_939d472ae0bdb45a4c7effe744572a897501655876598264",
-     "uploaded_as": "河北电信_加装包.md",
-     "uploaded_at": "2026-09-04T20:45:19+0000",
-     "count": 496
+    "河北移动_加装包.md": {
+     "hash": "de6fd2144c6efedec6e9a9f42d84bae551afade1f719554deb12f3b069fd6af8",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_f1f36fde7adb9aa38c4dea894892391e7501655876598264",
+     "uploaded_as": "河北移动_加装包.md",
+     "uploaded_at": "2026-09-04T21:36:56+0000",
+     "count": 670
     },
-    "河北电信_套餐.md": {
-     "hash": "5e329be71295b5ffc334f583c91bc3e4a521fb56d6002b7ffd1bbe0a2242cac5",
-     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_22b68076e027119de4dcff0187f397a07501655876598264",
-     "uploaded_as": "河北电信_套餐.md",
-     "uploaded_at": "2026-09-04T20:45:25+0000",
-     "count": 68
+    "河北移动_套餐.md": {
+     "hash": "4764fdb8833efcbb8d6464e0ab420a0660213fa758558c1c70e5105aecf36cc4",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_d44e3364b559545003c7fea2f8e0c9d97501655876598264",
+     "uploaded_as": "河北移动_套餐.md",
+     "uploaded_at": "2026-09-04T21:37:00+0000",
+     "count": 418
     },
-    "河北电信_营销活动.md": {
-     "hash": "c15516dd0c5cdb3766bdd454b81fbe5040d48b9f781efd569262dbffa9ff9d9b",
-     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_39a30af16a5369803c4b27d41049232b7501655876598264",
-     "uploaded_as": "河北电信_营销活动.md",
-     "uploaded_at": "2026-09-04T20:45:32+0000",
-     "count": 313
+    "河北移动_标准资费.md": {
+     "hash": "de581c470ba1bddfe9f2707f2d1ed1f7dbb7af92fff25b17bececcf9faecd2c0",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_03d79a8ac1f1bcebc53bf1a89e4aef957501655876598264",
+     "uploaded_as": "河北移动_标准资费.md",
+     "uploaded_at": "2026-09-04T21:37:04+0000",
+     "count": 86
+    },
+    "河北移动_港澳台/国际资费.md": {
+     "hash": "5dd0fee6aab3fb32e6df78031c585e174f00f5cd4bacb0594f2d6cd63f095cd6",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_7bb27ad6bfc04cd81922b4625702c1fb7501655876598264",
+     "uploaded_as": "河北移动_港澳台/国际资费.md",
+     "uploaded_at": "2026-09-04T21:37:08+0000",
+     "count": 3
+    },
+    "河北移动_营销活动.md": {
+     "hash": "f665095baea9e138d077b75a087c5d395f62f65acb39f21d2cdbaadb58aba3ce",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_608b356685c5d0c676b0e967a82d3a327501655876598264",
+     "uploaded_as": "河北移动_营销活动.md",
+     "uploaded_at": "2026-09-04T21:37:12+0000",
+     "count": 1033
     }
    },
-   "last_sync": "2026-09-04T20:45:33+0000"
+   "last_sync": "2026-09-04T21:37:13+0000"
   }
  }
 }

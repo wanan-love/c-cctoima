@@ -82,15 +82,22 @@ def check_integrity(op: str, outcome: dict, normalized: list[dict], previous: li
     add("detail_completeness", "PASS" if detail_ok else "FAIL",
         f"{n} 条；name 覆盖 {with_name}/{n}，details 覆盖 {with_details}/{n}（阈值 {INTEGRITY['detail_coverage_min']}）")
 
-    # 6. 无明显重复（tariff_id 唯一性已由 normalize 保证；同分类内 name 重复才是异常，
-    #     跨分类同名合法）
+    # 6. 无明显重复：权威判据 = tariff_id（方案编号）唯一（normalize 已强制去重，
+    #    此处防回归）。同分类同名但不同方案编号属官方数据正常形态
+    #    （实测：'60元档分期包' 存在 24HE200377/24HE200489 等多个独立方案），
+    #    仅作信息项不计失败。
     from collections import Counter
+    id_counts = Counter(x.get("tariff_id") for x in normalized if x.get("tariff_id"))
+    dup_ids = sum(1 for c in id_counts.values() if c > 1)
     cat_name_counts = Counter((x.get("category"), x.get("name")) for x in normalized if x.get("name"))
     dup_names = sum(1 for c in cat_name_counts.values() if c > 1)
-    dup_threshold = max(2, n // 100)
-    dup_ok = dup_names <= dup_threshold
-    add("no_duplicates", "PASS" if dup_ok else "FAIL",
-        f"同分类重名数 {dup_names}（阈值 {dup_threshold}；tariff_id 已去重）")
+    dup_ok = dup_ids <= INTEGRITY["duplicate_max"]
+    add(
+        "no_duplicates",
+        "PASS" if dup_ok else "FAIL",
+        f"重复 tariff_id {dup_ids} 个（权威判据）；同分类同名不同编号 {dup_names} 组"
+        "（官方数据的同名独立方案，信息项）",
+    )
 
     # 7. 无严重 API/页面错误
     api_errors = ev.get("api_errors") or []

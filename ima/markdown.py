@@ -88,7 +88,9 @@ def category_markdown(op: str, operator_name: str, category: str, items: Iterabl
     if n == 0:
         md.append("（本分类当前无在售资费）")
     content = "\n".join(md)
-    file_name = f"{operator_name}_{category}.md"
+    # 文件名安全化：斜杠等路径字符替换（IMA 文件名即 title，必须等于 file_name）
+    safe_category = str(category).replace("/", "／").replace("\\", "＼").replace(":", "：")
+    file_name = f"{operator_name}_{safe_category}.md"
     return file_name, content
 
 
