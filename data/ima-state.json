@@ -32,6 +32,32 @@
     }
    },
    "last_sync": "2026-09-04T17:54:48+0000"
+  },
+  "cbn": {
+   "files": {
+    "河北广电_套餐.md": {
+     "hash": "2e89a0978c36a0172af82d2ef42a64fe300ed4ea373f9b86f73ce2c5d881b869",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_d42aca0999ab2cc2ba6c430f8971c0d47501655876598264",
+     "uploaded_as": "河北广电_套餐.md",
+     "uploaded_at": "2026-09-04T18:44:48+0000",
+     "count": 120
+    },
+    "河北广电_特殊群体套餐.md": {
+     "hash": "7f7db5ecfe62a18d2fd56eca7f50c25ceca6b10d0d4e6b677bbdc91b9992622f",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_52c0fb519d44c10bf77ab1024c2c083d7501655876598264",
+     "uploaded_as": "河北广电_特殊群体套餐.md",
+     "uploaded_at": "2026-09-04T18:44:52+0000",
+     "count": 5
+    },
+    "河北广电_营销活动.md": {
+     "hash": "c764a745be389ab92ae03290a807f5877ca2ef3ebb6b7225a26e1ce2ff447a0f",
+     "media_id": "markdown_34e25a7fa5aef1c73951cb117d6c0065_e306215dcc4d7d426bfe8493559f716d7501655876598264",
+     "uploaded_as": "河北广电_营销活动.md",
+     "uploaded_at": "2026-09-04T18:44:56+0000",
+     "count": 6
+    }
+   },
+   "last_sync": "2026-09-04T18:44:57+0000"
   }
  }
 }

@@ -1,6 +1,6 @@
 {
  "operator": "ctcc",
- "generated_at": "2026-09-04T18:04:33+0000",
+ "generated_at": "2026-09-04T18:50:19+0000",
  "overall": "FAIL",
  "item_count": 0,
  "previous_count": null,
@@ -38,7 +38,7 @@
   {
    "check": "no_severe_errors",
    "status": "FAIL",
-   "detail": "采集错误 1 条: WAF: 页面始终未就绪（可能被风控）"
+   "detail": "采集错误 1 条: WAF: 页面始终未就绪（可能被风控，详见 evidence）"
   },
   {
    "check": "no_abnormal_drop",
@@ -53,6 +53,6 @@
   "province_hebei: province_ok=False; evidence={}",
   "categories_covered: 发现 0 个分类，其中有效 0；异常: []",
   "detail_completeness: 0 条；name 覆盖 0/0，details 覆盖 0/0（阈值 0.95）",
-  "no_severe_errors: 采集错误 1 条: WAF: 页面始终未就绪（可能被风控）"
+  "no_severe_errors: 采集错误 1 条: WAF: 页面始终未就绪（可能被风控，详见 evidence）"
  ]
 }

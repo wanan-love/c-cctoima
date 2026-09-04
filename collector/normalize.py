@@ -282,6 +282,7 @@ def normalize_cbn(raw_item: dict) -> dict | None:
     details = {
         "编号": _clean(r.get("filingNumber")),
         "产品代码": _clean(r.get("productCode")),
+        "状态": "在售" if str(r.get("stateFlag") or "") == "1" else str(r.get("stateFlag") or ""),
         "适用地区": _clean(r.get("areaNames")),
         "副卡/亲情网": _clean(r.get("familyNetwork")),
         "套外资费": _clean(r.get("tariffAttr")),

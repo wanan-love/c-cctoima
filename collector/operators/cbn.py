@@ -126,52 +126,76 @@ class CbnOperator(BaseOperator):
         return resp
 
     def _select_hebei_ui(self) -> bool:
-        """点击省份入口（北京资费/当前省份）→ 区域选择面板 → 河北。"""
+        """选择河北：点击省份页签两次（第一次切到省份视图，第二次打开地区弹层级联），
+        然后在 van-cascader 中选择河北省。
+
+        交互逻辑（前端 439 chunk 逆向验证）：
+        exChange('prov') 在已是 prov 视图时再次点击 → areaSHow=true 打开
+        van-popup(position=bottom)+van-cascader("请选择所在地区")；
+        选中省份 → handleCascaderChange → mgmtProv=areaCode、exChange('prov','new')
+        → queryTariffCondition(applicableArea=<河北>)。
+        """
+        # 定位省份页签（文本为「<当前省份>资费」，如 北京资费）
+        tab_found = self.page.evaluate(
+            """() => {
+              const divs = [...document.querySelectorAll('.filterBox .top div')]
+              const tab = divs.find(e => /资费\\s*$/.test((e.innerText || '').trim()) && (e.innerText || '').includes('资费'))
+              return tab ? (tab.innerText || '').trim() : null
+            }"""
+        )
+        self.log(f"[cbn] 省份页签: {tab_found!r}")
+        if not tab_found:
+            self.outcome.errors.append("province: 未找到省份页签")
+            return False
+        tab = self.page.locator(".filterBox .top div", has_text="资费").last
+        # 第一次点击：切换到省份视图
+        try:
+            tab.click(force=True)
+        except Exception as e:
+            self.outcome.errors.append(f"province: 页签点击失败 {str(e)[:120]}")
+            return False
+        self.human_pause((2.5, 4.5))
+        # 第二次点击：打开地区选择弹层
+        try:
+            tab.click(force=True)
+        except Exception as e:
+            self.outcome.errors.append(f"province: 二次点击失败 {str(e)[:120]}")
+            return False
+        self.human_pause((1.5, 3.0))
+        # van-popup + van-cascader 中找 河北省
         clicked = self.page.evaluate(
             """() => {
+              // Vant 弹层内的级联选项（单级：省份列表）
               const cands = [...document.querySelectorAll('body *')].filter(e => {
                 const t = (e.innerText || '').trim()
-                return t.includes('资费') && t.length < 12 && e.children.length <= 2
+                return (t === '河北省' || t === '河北') && e.children.length === 0
               })
-              const entry = cands.find(e => /全网|北京|河北|当前/.test(e.innerText))
-              if (entry) { entry.click(); return 'clicked:' + (entry.innerText || '').trim() }
+              const vis = cands.filter(e => {
+                const r = e.getBoundingClientRect()
+                return r.width > 0 && r.height > 0
+              })
+              const target = vis[0] || cands[0]
+              if (target) { target.click(); return 'clicked:' + String(target.className).slice(0, 40) }
               return 'nf'
             }"""
         )
-        self.log(f"[cbn] 点击区域入口: {clicked}")
-        jitter(self.page, (1.5, 3.0))
-        ok = self.page.evaluate(
-            """(areaName) => {
-              const cands = [...document.querySelectorAll('body *')].filter(e => {
-                const t = (e.innerText || '').trim()
-                return t === areaName && e.children.length === 0
-              })
-              const vis = cands.find(e => e.getBoundingClientRect().width > 0) || cands[0]
-              if (vis) { vis.click(); return 'clicked' }
-              return 'nf'
-            }""",
-            "河北省",
-        )
-        if ok != "clicked":
-            ok = self.page.evaluate(
-                """(areaName) => {
-                  const cands = [...document.querySelectorAll('body *')].filter(e => {
-                    const t = (e.innerText || '').trim()
-                    return t === areaName && e.children.length === 0
-                  })
-                  const vis = cands.find(e => e.getBoundingClientRect().width > 0) || cands[0]
-                  if (vis) { vis.click(); return 'clicked' }
-                  return 'nf'
-                }""",
-                "河北",
-            )
-        self.log(f"[cbn] 选择河北: {ok}")
-        if ok != "clicked":
+        self.log(f"[cbn] 级联选择河北: {clicked}")
+        if not str(clicked).startswith("clicked"):
+            self.outcome.errors.append("province: 地区弹层未出现或未找到河北")
             return False
-        self.human_pause((5, 8))
+        self.human_pause((4, 7))
+        # 验证：页签文本变为 河北资费
+        tab_text = self.page.evaluate(
+            """() => {
+              const divs = [...document.querySelectorAll('.filterBox .top div')]
+              const tab = divs.find(e => (e.innerText || '').includes('资费'))
+              return tab ? (tab.innerText || '').trim() : ''
+            }"""
+        )
+        self.outcome.evidence["province_tab_after_select"] = tab_text
         text = self.page.evaluate("() => document.body.innerText.slice(0, 300)")
         self.outcome.evidence["after_hebei_page_head"] = text[:200]
-        return True
+        return "河北" in (tab_text or "") or "河北" in text[:300]
 
     def _verify_area_param(self):
         for r in self.collector.json_bodies("queryTariff"):
@@ -187,16 +211,15 @@ class CbnOperator(BaseOperator):
                     continue
 
     def _collect_combo(self, t1, t2, t3, t2_name, t3_name, ts):
-        # queryTariffNames：该组合的官方资费名列表（完整性基准）
-        names_resp = self._api_post(
-            "goods/queryTariffNames",
-            {"type1": t1, "type2": t2, "type3": t3, "applicableArea": self.area_code},
-        )
-        names = []
-        if names_resp and names_resp.get("json"):
-            names = (names_resp["json"].get("data") or [])
-        expected = len(names)
-        # queryTariffAllByCond：全字段数据
+        """采集一个 (type2, type3) 组合。
+
+        - queryTariffAllByCond(stateFlag="")：全状态（在售+停售），页面筛选面板
+          自身提供"全部"状态选项；每条记录带 stateFlag 字段（"1"=在售）
+        - queryTariffNames：资费名列表（不过滤状态，含重名）→ 唯一名数作为
+          完整性软校验基准（唯一名数 < 采集数即异常）
+        - status=704 表示该组合无数据（非错误）
+        """
+        # 全字段数据（全状态）
         resp = self._api_post(
             "goods/queryTariffAllByCond",
             {
@@ -204,17 +227,19 @@ class CbnOperator(BaseOperator):
                 "type2": t2,
                 "type3": t3,
                 "productName": "",
-                "stateFlag": "1",
+                "stateFlag": "",
                 "minPrice": "",
                 "maxPrice": "",
                 "applicableArea": self.area_code,
             },
         )
         if not resp or not resp.get("json"):
-            return expected, 0, f"HTTP {resp.get('status') if resp else 'none'}"
+            return 0, 0, f"HTTP {resp.get('status') if resp else 'none'}"
         status = str((resp["json"].get("status") or ""))
+        if status == "704":
+            return 0, 0, ""  # 该组合无数据（官方空态）
         if status != "000000":
-            return expected, 0, f"status={status}"
+            return 0, 0, f"status={status}"
         items = resp["json"].get("data") or []
         for it in items:
             self.outcome.items.append(
@@ -227,6 +252,17 @@ class CbnOperator(BaseOperator):
                     collected_at=ts,
                 )
             )
+        # 完整性基准：queryTariffNames（全状态）与 AllByCond(stateFlag="") 数量
+        # 严格一致（实测验证：含同名重复的分布亦一致）→ expected = len(names)
+        names_resp = self._api_post(
+            "goods/queryTariffNames",
+            {"type1": t1, "type2": t2, "type3": t3, "applicableArea": self.area_code},
+        )
+        expected = 0
+        if names_resp and names_resp.get("json"):
+            expected = len(names_resp.get("json").get("data") or [])
+        if expected and len(items) != expected:
+            return expected, len(items), f"采集 {len(items)} ≠ 官方名数 {expected}"
         return expected, len(items), ""
 
     def _collect_evidence_from_items(self):

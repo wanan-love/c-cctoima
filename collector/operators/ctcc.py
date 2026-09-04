@@ -124,29 +124,45 @@ class CtccOperator(BaseOperator):
         self._collect_evidence_from_items()
 
     # ── WAF 导航（瑞数 JS 挑战需要真实浏览器执行，首次 412 属预期） ──
-    def _navigate_with_waf(self, tries: int = 3) -> bool:
-        url = "https://www.189.cn/tariffZone/"
-        for i in range(1, tries + 1):
+    def _navigate_with_waf(self, tries: int = 4) -> bool:
+        # 先访问 189 首页完成瑞数 JS 挑战（获取 cookie），再进入资费专区
+        warmups = ["https://www.189.cn/", "https://www.189.cn/tariffZone/"]
+        for i, url in enumerate(warmups if tries > 2 else warmups[1:], start=1):
             try:
-                self.page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                resp = self.page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                status = resp.status if resp else None
+                self.log(f"[ctcc] 导航({i}) {url} → HTTP {status}")
             except Exception as e:
-                self.outcome.errors.append(f"goto({i}): {str(e)[:150]}")
+                self.log(f"[ctcc] 导航({i}) 失败: {str(e)[:100]}")
                 self.page.wait_for_timeout(10000)
                 continue
-            # 瑞数挑战：页面自动 reload，等待最终内容
-            for _ in range(12):
-                self.page.wait_for_timeout(2500)
+            # 瑞数挑战：页面自动执行 JS 计算 cookie 并 reload；等待最终内容就绪
+            for check in range(20):
+                self.page.wait_for_timeout(3000)
                 try:
                     title = self.page.title()
-                    text = self.page.evaluate("() => document.body ? document.body.innerText.slice(0, 200) : ''")
+                    url_now = self.page.url
+                    text = self.page.evaluate("() => document.body ? document.body.innerText.slice(0, 160) : ''")
                 except Exception:
                     continue
-                if "资费" in (title or "") or "资费" in text:
-                    self.log(f"[ctcc] WAF 通过，页面就绪（title={title}）")
-                    return True
-            self.log(f"[ctcc] 第 {i} 次导航未就绪，重试")
-            self.page.wait_for_timeout(8000)
-        self.outcome.errors.append("WAF: 页面始终未就绪（可能被风控）")
+                if "资费" in (title or "") or ("资费" in text and len(text) > 50):
+                    if url.endswith("tariffZone/"):
+                        self.log(f"[ctcc] WAF 通过，页面就绪（title={title}）")
+                        return True
+                    break  # 首页就绪 → 进入下一步
+                if check % 5 == 4:
+                    self.log(f"[ctcc] 等待挑战就绪…（{check + 1}/20 title={title!r} text={text[:40]!r}）")
+            self.page.wait_for_timeout(5000)
+        self.outcome.errors.append("WAF: 页面始终未就绪（可能被风控，详见 evidence）")
+        try:
+            self.outcome.evidence["waf_final_state"] = {
+                "url": self.page.url,
+                "title": self.page.title(),
+                "text_head": self.page.evaluate("() => document.body ? document.body.innerText.slice(0, 200) : ''"),
+                "cookies": [c["name"] for c in self.page.context.cookies()][:10],
+            }
+        except Exception:
+            pass
         return False
 
     def _select_hebei_ui(self) -> bool:

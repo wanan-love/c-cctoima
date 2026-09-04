@@ -22,8 +22,9 @@ class BrowserSession:
         self.mobile = mobile
         self._pw = sync_playwright().start()
         proxy = None
+        egress = os.environ.get("C2I_EGRESS", "warp")
         warp_socks = os.environ.get("WARP_SOCKS")
-        if warp_socks:
+        if warp_socks and egress != "direct":
             proxy = {"server": warp_socks}
         launch_args = [
             "--no-sandbox",

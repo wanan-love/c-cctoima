@@ -1,13 +1,23 @@
 {
  "operator": "ctcc",
- "collected_at": "2026-09-04T18:04:33+0000",
+ "collected_at": "2026-09-04T18:50:19+0000",
  "ok": false,
  "categories": [],
- "evidence": {},
+ "evidence": {
+  "waf_final_state": {
+   "url": "https://www.189.cn/tariffZone/",
+   "title": "",
+   "text_head": "",
+   "cookies": [
+    "EYg4xOZq0mLeS",
+    "EYg4xOZq0mLeT"
+   ]
+  }
+ },
  "errors": [
-  "WAF: 页面始终未就绪（可能被风控）"
+  "WAF: 页面始终未就绪（可能被风控，详见 evidence）"
  ],
  "pages_visited": 0,
- "duration_s": 118.1,
+ "duration_s": 131.5,
  "items": []
 }
