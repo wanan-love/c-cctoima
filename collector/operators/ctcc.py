@@ -49,7 +49,9 @@ async ([url, timeoutMs]) => {
 
 class CtccOperator(BaseOperator):
     op = "ctcc"
-    mobile = False
+    # 2026-09-04 runner 实测：桌面 UA 触发瑞数挑战循环（412→400，IP 信誉封禁），
+    # 移动 UA 直连 200 立即通过 → 使用移动端访问（页面为同一 Vue 应用）
+    mobile = True
 
     def __init__(self, **kw):
         super().__init__(**kw)

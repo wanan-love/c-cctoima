@@ -42,15 +42,19 @@ class BrowserSession:
                 "width": random.randint(388, 396),
                 "height": random.randint(836, 852),
             }
-            ctx = self._browser.new_context(
-                user_agent=ua,
-                viewport=viewport,
-                locale="zh-CN",
-                timezone_id="Asia/Shanghai",
-                is_mobile=True,
-                has_touch=True,
-                extra_http_headers={"Accept-Language": "zh-CN,zh;q=0.9"},
-            )
+            if bare:
+                # 复刻实测可通过 189.cn 的移动 UA 直连配置（无附加参数）
+                ctx = self._browser.new_context(user_agent=ua, viewport=viewport)
+            else:
+                ctx = self._browser.new_context(
+                    user_agent=ua,
+                    viewport=viewport,
+                    locale="zh-CN",
+                    timezone_id="Asia/Shanghai",
+                    is_mobile=True,
+                    has_touch=True,
+                    extra_http_headers={"Accept-Language": "zh-CN,zh;q=0.9"},
+                )
         else:
             viewport = {
                 "width": random.randint(1346, 1386),
