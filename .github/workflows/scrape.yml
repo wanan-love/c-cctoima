@@ -43,6 +43,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.set.outputs.matrix }}
+      operators_csv: ${{ steps.set.outputs.operators_csv }}
       dry_run: ${{ steps.set.outputs.dry_run }}
     steps:
       - id: set
@@ -54,6 +55,12 @@ jobs:
             MATRIX=$(echo "$OPS" | tr -d ' ' | awk -F',' '{printf "["; for(i=1;i<=NF;i++) printf "\"%s\"%s", $i, (i<NF?",":""); print "]"}')
           fi
           echo "matrix=$MATRIX" >> "$GITHUB_OUTPUT"
+          if [ "$OPS" = "all" ] || [ -z "$OPS" ]; then
+            CSV="cmcc,cucc,ctcc,cbn"
+          else
+            CSV=$(echo "$OPS" | tr -d ' ')
+          fi
+          echo "operators_csv=$CSV" >> "$GITHUB_OUTPUT"
           DR="${{ github.event.inputs.dry_run }}"
           echo "dry_run=${DR:-false}" >> "$GITHUB_OUTPUT"
           echo "operators=$MATRIX dry_run=${DR:-false}"
@@ -253,11 +260,12 @@ jobs:
           IMA_CLIENT_ID: ${{ secrets.IMA_CLIENT_ID }}
           IMA_API_KEY: ${{ secrets.IMA_API_KEY }}
           DRY_RUN: ${{ needs.plan.outputs.dry_run }}
+          OPS_CSV: ${{ needs.plan.outputs.operators_csv }}
         run: |
           set -o pipefail
           args=""
           if [ "$DRY_RUN" = "true" ]; then args="--dry-run"; fi
-          python -m collector sync $args 2>&1 | tee sync.log
+          python -m collector sync $args --operators "$OPS_CSV" 2>&1 | tee sync.log
 
       - name: Job summary
         if: always()

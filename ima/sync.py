@@ -129,7 +129,11 @@ class ImaSyncManager:
         return True
 
     def _plan_operator(self, op: str) -> list[dict]:
-        """基于 latest.json（或 DRY_RUN 时的 normalized.json）生成本次应上传的分类文件计划。"""
+        """基于 latest.json（或 DRY_RUN 时的 normalized.json）生成本次应上传的分类文件计划。
+
+        hash 使用业务稳定内容（tariff_id + content_hash 排序序列），不含采集时间戳——
+        同样的数据无论何时生成，hash 一致，从而严格实现 NO_CHANGE 不重复上传。
+        """
         latest = read_json(DATA_DIR / op / "latest.json")
         if not latest or not latest.get("items"):
             latest = read_json(DATA_DIR / op / "normalized.json") or {}
@@ -142,11 +146,14 @@ class ImaSyncManager:
         plan = []
         for cat in sorted(groups):
             file_name, content = category_markdown(op, meta["ima_folder"], cat, groups[cat], collected_at)
+            stable = "\n".join(
+                sorted(f"{it.get('tariff_id')}:{it.get('content_hash')}" for it in groups[cat])
+            )
             plan.append(
                 {
                     "file_name": file_name,
                     "content": content,
-                    "hash": content_hash(content),
+                    "hash": content_hash(stable),
                     "size": len(content.encode("utf-8")),
                     "count": len(groups[cat]),
                 }
