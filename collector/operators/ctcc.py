@@ -11,6 +11,7 @@
 from __future__ import annotations
 
 import json
+import os
 import time
 import urllib.parse
 
@@ -52,6 +53,15 @@ class CtccOperator(BaseOperator):
 
     def __init__(self, **kw):
         super().__init__(**kw)
+
+    def start(self):
+        # 瑞数挑战对 context 配置敏感：使用实测通过的最小配置（仅本运营商生效）
+        os.environ["C2I_BARE_CONTEXT"] = "1"
+        return super().start()
+
+    def finish(self):
+        os.environ.pop("C2I_BARE_CONTEXT", None)
+        super().finish()
         self.collector: CaptureCollector | None = None
         self.prov_code = ""
         self.categories: list = []
@@ -128,34 +138,51 @@ class CtccOperator(BaseOperator):
         console_msgs: list[str] = []
         self.page.on("console", lambda m: console_msgs.append(f"[{m.type}] {m.text[:150]}"))
         self.page.on("pageerror", lambda e: console_msgs.append(f"[pageerror] {str(e)[:200]}"))
-        # 先访问 189 首页完成瑞数 JS 挑战（获取 cookie），再进入资费专区
-        warmups = ["https://www.189.cn/", "https://www.189.cn/tariffZone/"]
-        for i, url in enumerate(warmups if tries > 2 else warmups[1:], start=1):
+        # 直接进入资费专区（与实测成功路径一致：单次 goto + 挑战自动 reload）
+        url = "https://www.189.cn/tariffZone/"
+        for attempt in range(1, tries + 1):
             try:
-                resp = self.page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                if attempt == 1:
+                    resp = self.page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                else:
+                    resp = self.page.reload(wait_until="domcontentloaded", timeout=60000)
                 status = resp.status if resp else None
-                self.log(f"[ctcc] 导航({i}) {url} → HTTP {status}")
+                self.log(f"[ctcc] 导航({attempt}) → HTTP {status}")
             except Exception as e:
-                self.log(f"[ctcc] 导航({i}) 失败: {str(e)[:100]}")
-                self.page.wait_for_timeout(10000)
+                self.log(f"[ctcc] 导航({attempt}) 失败: {str(e)[:100]}")
+                self.page.wait_for_timeout(8000)
                 continue
             # 瑞数挑战：页面自动执行 JS 计算 cookie 并 reload；等待最终内容就绪
             for check in range(20):
                 self.page.wait_for_timeout(3000)
                 try:
                     title = self.page.title()
-                    url_now = self.page.url
                     text = self.page.evaluate("() => document.body ? document.body.innerText.slice(0, 160) : ''")
                 except Exception:
                     continue
                 if "资费" in (title or "") or ("资费" in text and len(text) > 50):
-                    if url.endswith("tariffZone/"):
-                        self.log(f"[ctcc] WAF 通过，页面就绪（title={title}）")
-                        return True
-                    break  # 首页就绪 → 进入下一步
+                    self.log(f"[ctcc] WAF 通过，页面就绪（title={title}）")
+                    return True
                 if check % 5 == 4:
-                    self.log(f"[ctcc] 等待挑战就绪…（{check + 1}/20 title={title!r} text={text[:40]!r}）")
-            self.page.wait_for_timeout(5000)
+                    self.log(f"[ctcc] 等待挑战就绪…（{check + 1}/20 title={title!r}）")
+            # 未就绪 → 主动 reload 触发新一轮挑战（每轮挑战会重算 cookie）
+            self.page.wait_for_timeout(6000)
+        # 首页热身兜底（获取基础 cookie 后再试专区）
+        try:
+            self.page.goto("https://www.189.cn/", wait_until="domcontentloaded", timeout=60000)
+            self.page.wait_for_timeout(10000)
+            resp = self.page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            self.log(f"[ctcc] 热身后导航 → HTTP {resp.status if resp else '?'}")
+            for check in range(15):
+                self.page.wait_for_timeout(3000)
+                try:
+                    title = self.page.title()
+                except Exception:
+                    continue
+                if "资费" in (title or ""):
+                    return True
+        except Exception:
+            pass
         self.outcome.errors.append("WAF: 页面始终未就绪（可能被风控，详见 evidence）")
         try:
             self.outcome.evidence["waf_final_state"] = {

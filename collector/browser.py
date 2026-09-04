@@ -35,6 +35,7 @@ class BrowserSession:
         self.contexts: list[BrowserContext] = []
 
     def new_context(self) -> BrowserContext:
+        bare = os.environ.get("C2I_BARE_CONTEXT") == "1"
         ua = USER_AGENTS["mobile" if self.mobile else "desktop"]
         if self.mobile:
             viewport = {
@@ -55,13 +56,17 @@ class BrowserSession:
                 "width": random.randint(1346, 1386),
                 "height": random.randint(870, 930),
             }
-            ctx = self._browser.new_context(
-                user_agent=ua,
-                viewport=viewport,
-                locale="zh-CN",
-                timezone_id="Asia/Shanghai",
-                extra_http_headers={"Accept-Language": "zh-CN,zh;q=0.9"},
-            )
+            if bare:
+                # 复刻实测可通过 189.cn 瑞数挑战的最小配置（无 locale/timezone/额外头）
+                ctx = self._browser.new_context(user_agent=ua, viewport=viewport)
+            else:
+                ctx = self._browser.new_context(
+                    user_agent=ua,
+                    viewport=viewport,
+                    locale="zh-CN",
+                    timezone_id="Asia/Shanghai",
+                    extra_http_headers={"Accept-Language": "zh-CN,zh;q=0.9"},
+                )
         # 最小化反自动化补丁：仅隐藏 webdriver 标记。
         # ⚠️ 不得伪造 navigator.plugins / languages 等——伪造结构异常（如数字数组）
         # 反而是瑞数等 WAF 的强机器人特征（实测：无补丁可通过 189.cn 挑战）。

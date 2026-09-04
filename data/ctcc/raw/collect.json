@@ -1,6 +1,6 @@
 {
  "operator": "ctcc",
- "collected_at": "2026-09-04T18:59:32+0000",
+ "collected_at": "2026-09-04T20:13:42+0000",
  "ok": false,
  "categories": [],
  "evidence": {
@@ -8,16 +8,26 @@
    "url": "https://www.189.cn/tariffZone/",
    "title": "",
    "text_head": "",
+   "html_head": "<html><head></head><body></body></html>",
    "cookies": [
     "EYg4xOZq0mLeS",
     "EYg4xOZq0mLeT"
-   ]
+   ],
+   "console": [
+    "[error] Failed to load resource: the server responded with a status of 412 ()",
+    "[table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Objec",
+    "[log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Objec",
+    "[clear] console.clear",
+    "[error] Failed to load resource: the server responded with a status of 400 ()",
+    "[error] Failed to load resource: the server responded with a status of 400 ()"
+   ],
+   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
   }
  },
  "errors": [
   "WAF: 页面始终未就绪（可能被风控，详见 evidence）"
  ],
  "pages_visited": 0,
- "duration_s": 133.4,
+ "duration_s": 131.8,
  "items": []
 }
