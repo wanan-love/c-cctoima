@@ -1,8 +1,8 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-04T19:17:10+0000",
+ "generated_at": "2026-09-04T21:26:13+0000",
  "overall": "FAIL",
- "item_count": 1943,
+ "item_count": 2210,
  "previous_count": null,
  "checks": [
   {
@@ -22,18 +22,18 @@
   },
   {
    "check": "official_totals",
-   "status": "FAIL",
-   "detail": "套餐: 325/414; 加装包: 635/667; 营销活动: 755/1032; 港澳台/国际资费: 5/1032"
+   "status": "PASS",
+   "detail": "全部分类数量与官方声明一致（5 分类）"
   },
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1943 条；name 覆盖 1943/1943，details 覆盖 1943/1943（阈值 0.95）"
+   "detail": "2210 条；name 覆盖 2210/2210，details 覆盖 2210/2210（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
    "status": "FAIL",
-   "detail": "重名 name 数 37（tariff_id 已去重）"
+   "detail": "同分类重名数 35（阈值 22；tariff_id 已去重）"
   },
   {
    "check": "no_severe_errors",
@@ -49,30 +49,35 @@
  "category_results": [
   {
    "label": "套餐",
+   "items": 418,
    "beans": 325,
    "total": 414,
    "note": ""
   },
   {
    "label": "加装包",
+   "items": 671,
    "beans": 635,
    "total": 667,
    "note": ""
   },
   {
    "label": "营销活动",
-   "beans": 755,
+   "items": 1035,
+   "beans": 1025,
    "total": 1032,
    "note": ""
   },
   {
    "label": "港澳台/国际资费",
-   "beans": 5,
-   "total": 1032,
+   "items": 3,
+   "beans": 3,
+   "total": 3,
    "note": ""
   },
   {
    "label": "标准资费",
+   "items": 86,
    "beans": 86,
    "total": 86,
    "note": ""
@@ -97,7 +102,6 @@
   ]
  },
  "failure_reasons": [
-  "official_totals: 套餐: 325/414; 加装包: 635/667; 营销活动: 755/1032; 港澳台/国际资费: 5/1032",
-  "no_duplicates: 重名 name 数 37（tariff_id 已去重）"
+  "no_duplicates: 同分类重名数 35（阈值 22；tariff_id 已去重）"
  ]
 }

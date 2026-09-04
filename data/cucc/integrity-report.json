@@ -1,6 +1,6 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-04T19:00:37+0000",
+ "generated_at": "2026-09-04T20:59:19+0000",
  "overall": "PASS",
  "item_count": 1679,
  "previous_count": 1679,
@@ -33,7 +33,7 @@
   {
    "check": "no_duplicates",
    "status": "PASS",
-   "detail": "重名 name 数 0（tariff_id 已去重）"
+   "detail": "同分类重名数 0（阈值 16；tariff_id 已去重）"
   },
   {
    "check": "no_severe_errors",

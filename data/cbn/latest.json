@@ -1,7 +1,7 @@
 {
  "operator": "cbn",
  "count": 131,
- "generated_at": "2026-09-04T18:57:40+0000",
+ "generated_at": "2026-09-04T20:54:32+0000",
  "items": [
   {
    "operator": "cbn",
@@ -36,7 +36,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "e4d40ca539abd04130da77c172846781997a231ae9732e64a80359561e2b3f98"
   },
   {
@@ -73,7 +73,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "143f93aef7d1d7face5f96c4fde36fa340a2855a5ff0d02e641622deda754e55"
   },
   {
@@ -109,7 +109,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "60f66ab1b03fa5fe9c2f7eed10cf639711070ebf8609920ab35f8ab16d9a9524"
   },
   {
@@ -145,7 +145,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "3e5ac87be12ac67b520ac65e2a99c9ec6531888fb5c885ab6287a9eb2da5e457"
   },
   {
@@ -181,7 +181,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "72bd28fef21e8f0f893811cee77389c5b1437befec0bcfbef12dc79ae00dfb4b"
   },
   {
@@ -217,7 +217,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "0ffda482c7b8e9dd7fec206a7db077ff6c368bb8782c0fc9ab7e7f0d2595c88d"
   },
   {
@@ -253,7 +253,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "b91c872cef3f5e686aa32f7073c8fe44ca3e1733bd7a790d0c58cd43b3bcbaa4"
   },
   {
@@ -289,7 +289,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "b0d4a73c642f5ce1aac9b8e2b8d5c42de17cd2b9465df9d8f841244567af2c2a"
   },
   {
@@ -326,7 +326,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "8215dae68aac7af0a7bf92791811f0dbe3aaa847dc47bc9a0a3930162e26bf08"
   },
   {
@@ -363,7 +363,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "da9b14b1226b82a14da1dade3b40974a25511ba79af792bed94dd02624b53751"
   },
   {
@@ -400,7 +400,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "96285e72fca43682c2ccaf2dc2e21cb3ec7ac8f5d5440e5cc099be8005006d18"
   },
   {
@@ -437,7 +437,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "446b2d5eef50bc2a52513735ea61c2a396bd1580d68f18c21a478ddfa93e9381"
   },
   {
@@ -473,7 +473,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "375997800b9a3faa194ae775b754926afb9a37e0be88fe058262babb2281981f"
   },
   {
@@ -510,7 +510,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "c6e3744d882d3bbbf618fe4333cb6cd464beadecac61fea6aa1a01cab30a822d"
   },
   {
@@ -546,7 +546,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "a1c5bb877d58382bf84eba87f22d255b3033bf94ac427385a0aff8925e55325b"
   },
   {
@@ -583,7 +583,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "8bb45b9ec8f7ef3f4b3fe0350fab453ace71f3e1311e30e35634850872ea2e0a"
   },
   {
@@ -620,7 +620,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "327826c1d579684ab19c8a232047651c74335ecdd25a196627256e034867107b"
   },
   {
@@ -656,7 +656,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "da39fe80a155eacb314a6e06c4c5241d5f8f28115a7a7a3e308642ad14f93ee8"
   },
   {
@@ -692,7 +692,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "2c59d1679b98e5927d83cdf3e8f5494b6f367fdbe84d2175e5ff2f896f4bc89d"
   },
   {
@@ -728,7 +728,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "2668c240377954432fe8c38155a8900b9e2e13df690202621cc9d3ebd7530b91"
   },
   {
@@ -764,7 +764,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "91beab86ead82f558b556acd63f5d528096e38330acb5d0f693254aa4de9a3b9"
   },
   {
@@ -800,7 +800,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "bd9798dbbef1fad634a16c7565d11f82888a6bbcd09164d61e83dfc6f40b7304"
   },
   {
@@ -835,7 +835,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "b11a9a7220ba6867655daa4c6cfc0329c14f1fd69dba422ee7c2890442c58c96"
   },
   {
@@ -871,7 +871,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "2ed87b37c84c11dd70638bba1f565eaf052745919c66e899ac8b40ad1c712e72"
   },
   {
@@ -907,7 +907,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "b659654caa59cd4869bdceb913cc58689fb1b74ac95112dda5ebc46adf4b7121"
   },
   {
@@ -943,7 +943,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "6ef5aa142e4f7c1c232ffe3c75fb6115e29e0710d4e551d34b24d2ccfa8d7d71"
   },
   {
@@ -980,7 +980,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "88c8c416b50695be62bf01b23aeede66cc61c7b2e885ea0bea8d79dc9ad6d62f"
   },
   {
@@ -1017,7 +1017,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "830a851848b3090a91ef6cbdcc8966f72c4f4f4eff0356365b8ad194faf599ea"
   },
   {
@@ -1054,7 +1054,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "26586902f4d9acc6fd3387beebfa3c5a36cbe07d3b98c003d27a57ec35b8fc37"
   },
   {
@@ -1091,7 +1091,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "856ff31dab604aaa23a5b6dc67d22934558e22eac5c0d18a41407a91de985f02"
   },
   {
@@ -1128,7 +1128,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "c0632a11287d8245a4b2e8235fd65d6babf720c67013d844b4c68d670d49254c"
   },
   {
@@ -1165,7 +1165,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "4dc6f9095e6103500e247fcf5269e8450e252a0245ddeab12ec42a6ec21f04f6"
   },
   {
@@ -1202,7 +1202,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "3d765aa2c06c8e8bcc86b8bd17136542647c302548be567495826445306cc35b"
   },
   {
@@ -1239,7 +1239,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "fc21fb7d43fc01151d1efc7a27ad5748887138f3c6c4dda3465cd8e914f495c6"
   },
   {
@@ -1275,7 +1275,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "0527ba6414853fced8a0e2603ad007f49fc670c21d44806aa38af7c4612a65c5"
   },
   {
@@ -1311,7 +1311,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "222e651df8a98149f7c6a2d565534bf3eb87c245732a3c3eb0c6ea60bd01a83c"
   },
   {
@@ -1347,7 +1347,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "461a0b68e4e5ec2b1da78f8905fe9d2db29fc2054f3ad03281fc2804f1637f9d"
   },
   {
@@ -1383,7 +1383,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "1362da6169176f9e5f446037901ed25c002105fda2ee913c0362fa39921f3be4"
   },
   {
@@ -1418,7 +1418,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "829bba28982f0c2e7b39d03bce0e83089319cd22eef895f604129ae2d725df4d"
   },
   {
@@ -1453,7 +1453,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "77f9ea9470fd50294310d0ffe0e5151caab18cabd1c62bfd18a0edf97706618d"
   },
   {
@@ -1489,7 +1489,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "662693b90d0c2a9b700aa332c11fa4864d3174bdc04c68cf614dd3b02bccfe01"
   },
   {
@@ -1525,7 +1525,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "74a641f67bd891be1f9f61db24c59366e9a77f1530bf9e94ed87f75232187d9d"
   },
   {
@@ -1561,7 +1561,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "8ec5643bb771b7c35814a869f1478614338c7ad375dcbaf7b45f0dda06d59fdf"
   },
   {
@@ -1597,7 +1597,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "35387a20f1f9a0e2160e60b7ea8fd64d0042d889b76ac7797fc297d618c3e3b8"
   },
   {
@@ -1633,7 +1633,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "5931b1a9c1700770c5b64bc79ced7fa7703c49af21f0d60221138f681e4810b9"
   },
   {
@@ -1669,7 +1669,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "a9f5e481dbaa90b493fb1ce11f83ec694f637597415f59a4eef8963f3b2bf357"
   },
   {
@@ -1705,7 +1705,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "dd96cd77a940bf7db10fff2c9f03fb7b081c6717b0deaf6080aaceb2f931700e"
   },
   {
@@ -1741,7 +1741,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "e563f42685a949f2c926de220c19e94d63a1d72640c340d96dafba766a66b5b4"
   },
   {
@@ -1777,7 +1777,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "badfb6e2d785a18898464ac43993085f5b3824069a62a31c0cb4982870d999ec"
   },
   {
@@ -1813,7 +1813,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "a5581bb701b597a3cfce62ce5af5c2f419099207da218d5d355341139dfb0003"
   },
   {
@@ -1849,7 +1849,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "ff263697e68054f3a7467039194ec43981e2188ac869805abd5a02d83324bedc"
   },
   {
@@ -1885,7 +1885,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "566f960e06061f26194f9cf51d392c144c74ebe539e7714dce2ad6fac3f0576e"
   },
   {
@@ -1921,7 +1921,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "1011dc8da48b184b7ab882c70835b8146f1fd8ce59ec82d1071092a40003c6a0"
   },
   {
@@ -1957,7 +1957,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "caa90803a3a423475f560d54ef35bc3797c677cd374f140a70ab75ebcf4e5825"
   },
   {
@@ -1993,7 +1993,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "76173fbec3b9044de11a101e9e340b37d1a2a18ded18d498b7b3b6234a320e63"
   },
   {
@@ -2029,7 +2029,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "6409f550735464c9ea89e8b0902c2479dcb2e1f5c0431821a96cdfaeb578a555"
   },
   {
@@ -2063,7 +2063,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "2b8f8fd69a75af5a92973e2a49bea1660f28fe74c474722084dcf1368caf32d8"
   },
   {
@@ -2100,7 +2100,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "df010de540d386155bd49e54d7824f3f5d892ac115b9ccd1a467ad39d1efc3d4"
   },
   {
@@ -2136,7 +2136,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "68271ecb4d17bf9bb5cc7d45c11668b06db094285a4a5aeac649da3f222ea11f"
   },
   {
@@ -2172,7 +2172,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "0921f31ea666e135f3aac1129c1fdd698a733b790036460723ee2b7dc458c67b"
   },
   {
@@ -2208,7 +2208,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "96e34c7a03e59d5769047722eeeb1df5a3547362ce2e05aa573b3e4ab275ab18"
   },
   {
@@ -2244,7 +2244,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "b24c25720e15c101838111a64274ca01effc9d59dd00eee657b45f204c84a0c3"
   },
   {
@@ -2280,7 +2280,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "95899ff459a5e766eef6c525558cd33662a259cb0c5894d662a64a81fdbfbaf8"
   },
   {
@@ -2316,7 +2316,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "f947420bc285ee8fbc0c631fc39b6eb1f1550c30ccdcf9536dec76627a8f91c2"
   },
   {
@@ -2352,7 +2352,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "8aaccbbf6da8658510d176cfc98538f7432a50efba4565e612334cc9d4463cd8"
   },
   {
@@ -2389,7 +2389,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "abe4aca8ba6482fddf118c64909902076c50b25e95bc6e82744360ed556c6021"
   },
   {
@@ -2426,7 +2426,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "4ecf1f2b8a5b470931602914eda487986c50416bde64eec8027f89828a5d64e9"
   },
   {
@@ -2463,7 +2463,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "49d94c2c72ecb0e1738768b8e7964bc6ae767e458153f9feb74b3004db7a12b1"
   },
   {
@@ -2500,7 +2500,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "e99da83d5e01b2a831b02f6961f3039922f63502e3539c2148cad232166ed8ca"
   },
   {
@@ -2537,7 +2537,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "74955ce1fcecff733b40a5322eb5a212eda7d7b754d5d3ae21d7ffdec1de3d19"
   },
   {
@@ -2574,7 +2574,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "cf272c531a1c8cff7450cc8c577af172b8fc400627d1b9b553087c82636b12e0"
   },
   {
@@ -2611,7 +2611,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "74761e550c475f3ef84350c5f89a92cab726fccc8e8571a28c0a15686a317dc9"
   },
   {
@@ -2648,7 +2648,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "57d69e9a044fff36ad46adc4c81aae6a7f04cfc28b33bfc08f977a8ced56e760"
   },
   {
@@ -2685,7 +2685,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "bc00b28c05b57b665708a81b7460ceca865b0a09ca936ce68cab48eb9364d792"
   },
   {
@@ -2722,7 +2722,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "4679403807dab3873a90f02c7235566cf5fc3a76e2231f03a5c0f18d2da3633c"
   },
   {
@@ -2759,7 +2759,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "38652f3ade423d77f4caf7e3525fddaac38be9625cc4598c3377f8c69fb5ff9c"
   },
   {
@@ -2796,7 +2796,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "a48ed28fccaa4a8c4e774e413a7c3b2342ff179d5d500047fd927a6d25ebff0d"
   },
   {
@@ -2833,7 +2833,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "a6b13c8ac37d0229a0b21e85456384288289e1bbe38377fedfc9799e2b3d4e8f"
   },
   {
@@ -2870,7 +2870,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "cf2493b5364a3ca6924e083b34a3f446a895b83a32726c5e332341cd1aee3d93"
   },
   {
@@ -2907,7 +2907,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "d80a6570a79ba024c8845fd0e803ee68cf8e129c0d5b6d42a14295f2d44d94fa"
   },
   {
@@ -2944,7 +2944,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "0354be70f0968635ffd3a309660e8f1e3ed1c0295939367bd073ad8cd5ca90cf"
   },
   {
@@ -2981,7 +2981,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "bb36a0c7ae96e4124dc85348177ce0cfab28a243b715a278a777936d45bbe2d0"
   },
   {
@@ -3018,7 +3018,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "607eaf46fb99af4111ba660cf4739e2ae7f1e5fe92b393c57eb28a2f0ff504cd"
   },
   {
@@ -3055,7 +3055,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "42488ad233be3e4d8f17b98c6836e0f4331c15f8e8919157ed365f323e8ffedb"
   },
   {
@@ -3092,7 +3092,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "766472e20673612455a8a5907e0cc351178c0db8c01b9d91779ce9a23ac82b5a"
   },
   {
@@ -3129,7 +3129,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "ed8f8727ab900921db7d20024704a2da3bc28dadd1551b4b30edf8106b0ee270"
   },
   {
@@ -3166,7 +3166,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "7b9f490d9f1fe4cd05242a9b85b3ce8145a929a52dc935e12249f71508644b14"
   },
   {
@@ -3203,7 +3203,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "e85e59941f7b3ee4f83ce19197656f35b131ec7f79d66c401e0d6776adc074ac"
   },
   {
@@ -3240,7 +3240,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "7591b0e5a792f1276487724ebc79b04240445621b8ccd3e6ce9cdefc7af618db"
   },
   {
@@ -3277,7 +3277,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "4815d6aa563cf719eebdaaac2ac3c02c2995ed55e72d4ea6fb83060cacbe23a1"
   },
   {
@@ -3313,7 +3313,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "11f25d3d9f697b249fd34b366bfcdd123d8da7337da6ee63b8d4cb8ae3eba619"
   },
   {
@@ -3349,7 +3349,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "1af9c665d66badb251158e9d5a39598f286cffea699a2db224bc5c27708b56f8"
   },
   {
@@ -3385,7 +3385,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "e0f9e920c22d441e96872344dd8038f5fc427f9c0cfe02563f0c183e6c3cd8e6"
   },
   {
@@ -3420,7 +3420,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "76eab2c0b323aa859d71e7cd163c22d85850d6f3deb262c2bb94e6dd17e413db"
   },
   {
@@ -3454,7 +3454,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "2281b0de5bd856575ee1c1f7df75513fcbf3e38d5d78d3e6152e4e85860d9632"
   },
   {
@@ -3490,7 +3490,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "8298e6d04646d2b7e457ef3fc5de6a6f08a8508a516f0398e0e628ca83b15791"
   },
   {
@@ -3526,7 +3526,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "fc2efd9a4859983715430ce1d4577e2483eeed12d954d9913dbabc43422afbf5"
   },
   {
@@ -3562,7 +3562,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "6abfa3a00aa3dedc6d99a3f4d17a6075dcecf201a8e93a1f03a85d61aee7e44d"
   },
   {
@@ -3598,7 +3598,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "c5941a90f06565376a7bc73ca5f5652fb8c01a62e6ac4956a5b3b679c6492493"
   },
   {
@@ -3634,7 +3634,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "7da9092dbead9b0e9d1335285242a4663458a35d828e76be359127033741f493"
   },
   {
@@ -3670,7 +3670,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "d74780f1a81cd3ec52c0c51c7c0b8cc0693871a5c193e006c03452a45b72f5c0"
   },
   {
@@ -3706,7 +3706,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "fd71ad675a084fe4001931c24abbb5c068540d481be47d703d076421d03dffc4"
   },
   {
@@ -3742,7 +3742,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "5289820cc4be1e8380ed2c1aa18eb6f56bee14d9e3349047adfe5a04102a9949"
   },
   {
@@ -3778,7 +3778,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "2189030b740a001dbad5ff92ace4c555e1358b9093c72dfa4a608eb61e9b49c7"
   },
   {
@@ -3814,7 +3814,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "215e3770758e8ba3534ff3797befb062b5bcae8dc5f26305574a195d09ad1685"
   },
   {
@@ -3850,7 +3850,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "d953fd18e44ac3d5be6d4cb9149325173ee24bdfa7fd68b0639fde96d8b6541b"
   },
   {
@@ -3886,7 +3886,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "df17e34211bd2e0fc84614e9d73c504636f16d754a4f0a86bfad0c266d35754d"
   },
   {
@@ -3922,7 +3922,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "76676d36dd51eec28058ed6c7ef849449df6c8ca5efd5b1c7a7452b964743d3a"
   },
   {
@@ -3958,7 +3958,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "e4f8a469a3c907001ecc3ebe8098b237936aa02e2240df7f1d20d3c2e59b39c3"
   },
   {
@@ -3995,7 +3995,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "cd35add6a6571bf534b49c118427ab9e7324185824bc08a51c5eaf2718382753"
   },
   {
@@ -4032,7 +4032,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "2a9da50e62fca0157367de969f168c645c5885aef2964bed57e6528524313873"
   },
   {
@@ -4069,7 +4069,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "4a02020fc15c2fffb101a83abf1357088785eba2f821a00465b9f006059d0133"
   },
   {
@@ -4106,7 +4106,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "35b3c5c34f851eacb9d61598d4e3efaec19161e1750a16d9fdb731e8c68a1438"
   },
   {
@@ -4143,7 +4143,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "e4fecc9c49557c6d8789ff2411db2570f11264d300911d7b8bd556503acb450b"
   },
   {
@@ -4180,7 +4180,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "72e9df531d1254c7ebeec481e2d2bdcd68873ca86ceefc84a2d513fa29d2bbf8"
   },
   {
@@ -4217,7 +4217,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "a19ac5c0a52ad8beec9e8a0b21a231fba31ceecae28f9698c2ea79d6a4720812"
   },
   {
@@ -4254,7 +4254,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "694c3cad2ee3e63a818001257be66687c9db7608c3113ef48bb0fd747c18c95f"
   },
   {
@@ -4291,7 +4291,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "b78b217a6d5dc5d52c5e8fbaf1904e9eb0c653c875dc1eca2f9dcac80358b44b"
   },
   {
@@ -4328,7 +4328,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "b7aece1a46dcbd2ae234af8f92bd0bf4a12991f91324ef3ad2df09a3a49a4390"
   },
   {
@@ -4365,7 +4365,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "9ce7c907df52cb9ebeb256c8cfbbe810aa462b595be3c69831ac34dbc50a7ab8"
   },
   {
@@ -4399,7 +4399,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "363a7adc7996fa899b463dc9c80577d11e075538ffc4c380174f6fbbbbe22a9f"
   },
   {
@@ -4433,7 +4433,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "7c543c204c8ba95c591df43b05f3c4b5b1ef8b1f85fe002be8a5b70721dd6cee"
   },
   {
@@ -4468,7 +4468,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "0668a6ca228bb5ae11197a3755c6a0cb265fe076627a5c789415838d81de038a"
   },
   {
@@ -4501,7 +4501,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "219d9d7f666f2da62b27515ee948b322d6775d88707a90fb11e3c6cc8f920968"
   },
   {
@@ -4534,7 +4534,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "756a62e23f5ac4ba1578eece0656fcf5f137f97629a2495bac2c2924e1e6d403"
   },
   {
@@ -4567,7 +4567,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "3a5f5c72d5d2c088674478708cfb41e3f464c857546bf442a9a59ccc117feb78"
   },
   {
@@ -4601,7 +4601,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "fa6fbbcc03dbc0836a8bfba36bada44a409dbcb2822a10c36bc78cace01ddeea"
   },
   {
@@ -4637,7 +4637,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "403ce63a7539d8d7d170974a59a56221ae43ee59e777214dc8fa470e11ee61fc"
   },
   {
@@ -4672,7 +4672,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "f73fe6cf22df550a2d153ecfc33da2e0f0944bed0d6c7f015f2800f93f7917f8"
   },
   {
@@ -4707,7 +4707,7 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "28c851454dd8854e77124195cbfe6819c012d14a6c366700948149b2d3def55a"
   },
   {
@@ -4742,11 +4742,11 @@
    },
    "source_url": "https://m.10099.com.cn/expensesNotice/#/home",
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-04T18:57:17+0000",
+   "collected_at": "2026-09-04T20:54:08+0000",
    "content_hash": "9919c08ae53c6e232dd4599d4acb202360e741a61aa7ff4154d0315caa04b962"
   }
  ],
  "ok": true,
- "duration_s": 49.1,
- "promoted_at": "2026-09-04T19:19:11+0000"
+ "duration_s": 52.6,
+ "promoted_at": "2026-09-04T21:28:18+0000"
 }
