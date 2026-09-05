@@ -6,7 +6,15 @@
 - 游标分页：cursor="" 起始，is_end=true 停止
 - 错误码：110010(下游网络)/110021(频控) 可重试；110011 不可重试
 - 文件上传：create_media → COS PUT → add_knowledge（title 必须等于 file_name）
-- 重复名：check_repeated_names；不支持替换 → 时间戳后缀版本
+  官方 GATE 3 明确文件「不支持替换」且无删除接口 → 文件路线已废弃，仅保留方法供参考
+- 笔记路线（现行）：import_doc 创建 → append_doc 原地追加（挂库后为活引用，实测生效）
+  add_knowledge(media_type=11) 挂库幂等：重复挂同一 note_id 返回 220001「知识重复添加」
+
+实测备忘（2026-09-05 探针）：
+- 笔记标题取 content 首行 # 标题，超长被截断（约 30 字符）
+- note_id 为 16 位数字；媒体 media_id 形如 note_{hash}_{note_id}{user_id}
+- 单次 append 实测 4MB+ 成功；笔记总长 8MB+ 仍可正常读取
+- search_note 按标题（search_type=0）/正文（search_type=1）检索
 """
 from __future__ import annotations
 
@@ -151,3 +159,56 @@ class ImaClient:
         resp = self.post("openapi/wiki/v1/get_knowledge_base", {"ids": [kb_id]})
         infos = (resp.get("data") or {}).get("infos") or {}
         return infos.get(kb_id) or {}
+
+    # ── 笔记（openapi/note/v1）——现行同步路线 ──
+    def import_doc(self, content: str) -> str:
+        """创建 Markdown 笔记，返回 note_id。笔记标题取 content 首行 # 标题。"""
+        resp = self.post("openapi/note/v1/import_doc", {"content_format": 1, "content": content})
+        note_id = (resp.get("data") or {}).get("note_id")
+        if not note_id:
+            raise ImaApiError(-1, "import_doc 未返回 note_id", "import_doc")
+        return str(note_id)
+
+    def append_doc(self, note_id: str, content: str) -> None:
+        """向已有笔记末尾原地追加 Markdown（挂库后知识库条目实时生效）。"""
+        self.post("openapi/note/v1/append_doc", {"note_id": note_id, "content_format": 1, "content": content})
+
+    def get_doc_content(self, note_id: str) -> str:
+        """读取笔记纯文本正文（target_content_format=0）。"""
+        resp = self.post("openapi/note/v1/get_doc_content", {"note_id": note_id, "target_content_format": 0})
+        return (resp.get("data") or {}).get("content") or ""
+
+    def search_notes(self, query: str, by_content: bool = False, limit: int = 20) -> list[dict]:
+        """搜索本人笔记，返回 NoteBookInfo 列表（note_id/title/modify_time…）。"""
+        resp = self.post(
+            "openapi/note/v1/search_note",
+            {
+                "search_type": 1 if by_content else 0,
+                "query_info": {"content": query} if by_content else {"title": query},
+                "start": 0,
+                "end": max(1, min(limit, 20)),
+            },
+        )
+        infos = (resp.get("data") or {}).get("search_note_infos") or []
+        return [it.get("note_book_info") or {} for it in infos]
+
+    def add_knowledge_note(self, note_id: str, title: str, kb_id: str) -> dict:
+        """把笔记挂进知识库（media_type=11，活引用）。
+
+        官方幂等保护：同一 note_id 重复挂库返回 code=220001「知识重复添加」→ 视为已挂载成功。
+        """
+        try:
+            resp = self.post(
+                "openapi/wiki/v1/add_knowledge",
+                {
+                    "media_type": 11,
+                    "note_info": {"content_id": note_id},
+                    "title": title,
+                    "knowledge_base_id": kb_id,
+                },
+            )
+            return resp.get("data") or {}
+        except ImaApiError as e:
+            if str(e.code) == "220001":
+                return {"already_linked": True}
+            raise
