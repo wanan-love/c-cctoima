@@ -1,6 +1,6 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-04T22:54:52+0000",
+ "generated_at": "2026-09-05T21:50:46+0000",
  "overall": "PASS",
  "item_count": 1679,
  "previous_count": 1679,
@@ -49,8 +49,8 @@
  "category_results": [
   {
    "category": "套餐>移网",
-   "expected": 143,
-   "collected": 143,
+   "expected": 137,
+   "collected": 137,
    "error": ""
   },
   {
@@ -73,8 +73,8 @@
   },
   {
    "category": "加装包>流量包",
-   "expected": 88,
-   "collected": 88,
+   "expected": 80,
+   "collected": 80,
    "error": ""
   },
   {
@@ -85,8 +85,8 @@
   },
   {
    "category": "加装包>语音包",
-   "expected": 18,
-   "collected": 18,
+   "expected": 17,
+   "collected": 17,
    "error": ""
   },
   {
@@ -97,8 +97,8 @@
   },
   {
    "category": "加装包>新业务",
-   "expected": 136,
-   "collected": 136,
+   "expected": 134,
+   "collected": 134,
    "error": ""
   },
   {
@@ -109,14 +109,14 @@
   },
   {
    "category": "营销活动>促销",
-   "expected": 142,
-   "collected": 142,
+   "expected": 140,
+   "collected": 140,
    "error": ""
   },
   {
    "category": "营销活动>合约",
-   "expected": 54,
-   "collected": 54,
+   "expected": 51,
+   "collected": 51,
    "error": ""
   },
   {
@@ -151,20 +151,20 @@
   },
   {
    "category": "停售套餐>套餐",
-   "expected": 458,
-   "collected": 458,
+   "expected": 464,
+   "collected": 464,
    "error": ""
   },
   {
    "category": "停售套餐>加装包",
-   "expected": 264,
-   "collected": 264,
+   "expected": 275,
+   "collected": 275,
    "error": ""
   },
   {
    "category": "停售套餐>营销活动",
-   "expected": 125,
-   "collected": 125,
+   "expected": 130,
+   "collected": 130,
    "error": ""
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T02:47:29+0000",
+ "generated_at": "2026-09-05T22:11:22+0000",
  "current_count": 1679,
  "previous_count": 1679,
  "added": {
@@ -11,12 +11,211 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 22,
+  "items": [
+   {
+    "tariff_id": "CUCC-24HE300002",
+    "name": "云龙套餐30元月包专属全屋光宽带权益合约12个月(河北)-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300003",
+    "name": "云龙套餐30元月包专属全屋光宽带权益合约12个月(河北)-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300194",
+    "name": "客户回馈权益体验包(次月生效)【河北】",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300206",
+    "name": "副卡专享包-权益N选1（次月生效）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300263",
+    "name": "4G达量限速专用FTTR组网提速1000M（主融合50元长期）-立即生效-202404(河北)",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300684",
+    "name": "校园存240元赠流量（12个月）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300103",
+    "name": "299元云龙套餐FTTR专属U享合约36个月（河北）-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300711",
+    "name": "智家通通视频通话产品包（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300737",
+    "name": "2023校园专属1元50G全国流量包-立即生效（48个月）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300738",
+    "name": "2023校园专属1元100G全国流量包-立即生效（48个月）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300739",
+    "name": "2023校园专属1元100G全国流量包-次月生效（48个月）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300742",
+    "name": "2021校园专属0元20G全国流量包（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300908",
+    "name": "0元500分钟语音包（立即生效）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300958",
+    "name": "79元智家套餐FTTR看家组合金融分期合约优惠530元36个月（河北）-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300959",
+    "name": "79元智家套餐看家服务金融分期合约优惠131元36个月（河北）-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300976",
+    "name": "智家通通畅享版直降750元36个月金融分期合约（河北）次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300977",
+    "name": "智家通通豪华版直降750元36个月金融分期合约（河北）次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300978",
+    "name": "智家通通尊享版直降750元36个月金融分期合约（河北）次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301000",
+    "name": "2023校园专属1元200G全国流量包-立即生效（48个月）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301015",
+    "name": "2023校园专属1元200G全国流量包-次月生效（48个月）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301016",
+    "name": "2023校园专属1元150G全国流量包-立即生效（48个月）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301017",
+    "name": "2023校园专属1元150G全国流量包-次月生效（48个月）（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 1679
+  "count": 1657
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
