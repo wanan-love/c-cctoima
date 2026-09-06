@@ -150,7 +150,7 @@ def note_baseline_markdown(
     md.append(f"> 笔记标识：{note_marker(op, category)}")
     md.append("")
     md.append("> ⚠️ **阅读指引**：本笔记按时间顺序增量更新，**最新数据始终在文末**。")
-    md.append("> 前文与「【增量更新】」段冲突时，以更靠后的更新段为准；已下架资费以最新更新段的下架清单为准。")
+    md.append("> 前文与「【增量更新】」段冲突时，以更靠后的更新段为准；当前在售 = 基线 − 历次下架 + 历次新增，已下架资费以各更新段下架清单为准。")
     md.append("")
     md.append(f"## 全量基线（{collected_at}，共 {n} 条）")
     md.append("")
@@ -193,11 +193,15 @@ def update_append_markdown(
     items: list[dict],
     collected_at: str,
     now: str | None = None,
+    include_snapshot: bool = False,
 ) -> str:
-    """生成一次增量更新段（append_doc 原地追加到笔记文末）。
+    """生成一次增量更新段（append_doc 原地追加到笔记文末）——**只含变化项**。
 
     diff: data/<op>/diff.json（added/removed/modified 明细，运营商级，此处按分类过滤）
-    items: 本分类当前（latest）资费列表，用于新增/修改的完整详情与当前有效清单
+    items: 本分类当前（latest）资费列表，用于新增/修改的完整详情与头部计数
+    include_snapshot: True 时段末额外携带「当前有效清单」全量紧凑快照
+        （默认关闭：避免每次更新都追加全量内容导致笔记膨胀；
+         设 IMA_UPDATE_SNAPSHOT=1 可恢复，供检索准确度回退使用）
     """
     by_id = {x.get("tariff_id"): x for x in items}
     added = [x for x in (diff.get("added") or {}).get("items") or [] if x.get("category") == category]
@@ -210,6 +214,7 @@ def update_append_markdown(
     md.append(f"## 【增量更新 {ts}】新增 {len(added)} · 修改 {len(modified)} · 下架 {len(removed)} · 当前有效 {len(items)} 条")
     md.append("")
     md.append("> ⚠️ 本段为最新数据，与此前段落冲突时一律以本段为准。")
+    md.append("> 当前在售 = 全量基线 − 历次下架 + 历次新增（以更靠后的更新段为准）。")
     md.append("")
 
     if added:
@@ -238,13 +243,14 @@ def update_append_markdown(
             md.append(f"- {_md_escape(x.get('name') or '（未命名）')}（编号 {x.get('tariff_id') or '—'}）")
         md.append("")
     if truncated:
-        md.append("> 注：本次变更明细超长仅列出前若干条，完整现况以下方「当前有效清单」为准。")
+        md.append("> 注：本次变更明细超长仅列出前若干条，完整明细见仓库 data/ 目录 diff.json。")
         md.append("")
 
-    md.append(f"### 📋 当前有效清单（{len(items)} 条 · 数据版本 {collected_at}）")
-    md.append("")
-    md.extend(compact_list_markdown(items))
-    md.append("")
+    if include_snapshot:
+        md.append(f"### 📋 当前有效清单（{len(items)} 条 · 数据版本 {collected_at}）")
+        md.append("")
+        md.extend(compact_list_markdown(items))
+        md.append("")
     return "\n".join(md)
 
 

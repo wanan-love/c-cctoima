@@ -12,7 +12,8 @@
   每运营商每分类一篇笔记（标题：河北移动_套餐（实时更新））
   - 首次（迁移/笔记缺失）  → import_doc 全量基线 + add_knowledge 挂库
   - 数据变化（hash 改变）  → append_doc 原地追加【增量更新】段
-    （新增/修改详情 + 下架清单 + 当前有效清单快照）
+    （**只含变化项**：新增/修改详情 + 下架清单，默认不携带全量清单；
+     设 IMA_UPDATE_SNAPSHOT=1 可恢复每次携带权威全量快照）
   - NO_CHANGE 且 hash 一致 → 跳过，不产生任何写操作
   - 完整性 FAIL            → 整个运营商跳过（闸门不变，删除同样以 PASS 为前提）
 
@@ -43,6 +44,11 @@ STATE_PATH = DATA_DIR / "ima-state.json"
 API_INTERVAL = 1.2          # 温和节奏（秒）
 APPEND_CHUNK = 400_000      # 超限分片阈值（实测单次 4MB+ 安全，400KB 保守切分）
 SIZE_ERROR_CODES = {"210009", "100009", 210009, 100009}
+
+
+def _snapshot_enabled() -> bool:
+    """增量更新段是否携带全量快照（默认关闭：只改变更部分）。"""
+    return os.environ.get("IMA_UPDATE_SNAPSHOT", "").strip().lower() not in ("", "0", "false", "no", "off")
 
 
 class ImaSyncManager:
@@ -294,7 +300,10 @@ class ImaSyncManager:
         items = self._cat_items(op, cat)
         diff = read_json(DATA_DIR / op / "diff.json") or {}
         collected_at = self._collected_at(op)
-        return update_append_markdown(op, OPERATOR_META[op]["ima_folder"], cat, diff, items, collected_at)
+        return update_append_markdown(
+            op, OPERATOR_META[op]["ima_folder"], cat, diff, items, collected_at,
+            include_snapshot=_snapshot_enabled(),
+        )
 
     # ── 笔记写入（含分片与恢复） ──
     def _create_note(self, content: str) -> str:

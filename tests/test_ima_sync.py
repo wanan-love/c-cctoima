@@ -209,11 +209,34 @@ class TestNotesSync:
         assert "【增量更新" in content
         assert "新上架" in content and "199元/月" in content
         assert "将下架" in content and "已停售" in content
-        assert "当前有效清单" in content                   # 最新全量快照
+        assert "当前有效 2 条" in content                 # 头部计数保留
+        assert "当前有效清单" not in content              # 默认不携带全量清单（只改变更部分）
         assert client.kb_links == []                      # 不重复挂库
         # 状态推进到新 hash
         assert m.state["operators"]["cucc"]["categories"]["套餐"]["hash"] == m._plan_operator("cucc")[0]["hash"]
         assert m.state["operators"]["cucc"]["categories"]["套餐"]["updates"] == 1
+
+    def test_snapshot_optin_via_env(self, repo, monkeypatch):
+        """IMA_UPDATE_SNAPSHOT=1 时增量段恢复携带全量清单快照。"""
+        old = [_item(tid="CUCC-26HE00000001")]
+        _write_latest(repo, old)
+        m, client = _manager(repo)
+        plan = m._plan_operator("cucc")
+        cats = m.state.setdefault("operators", {}).setdefault("cucc", {"categories": {}})["categories"]
+        cats["套餐"] = {"note_id": "N1", "title": plan[0]["title"], "hash": "OLD", "count": 1}
+        client.notes["N1"] = "base"
+
+        new = [_item(tid="CUCC-26HE00000001", price="199元/月"), _item(tid="CUCC-26HE00999999", name="新上架")]
+        _write_latest(repo, new)
+        _write_diff(repo, added=[{"tariff_id": "CUCC-26HE00999999", "name": "新上架", "category": "套餐"}])
+        monkeypatch.setenv("IMA_UPDATE_SNAPSHOT", "1")
+        summary = {"operators": {"cucc": {"status": "PASS", "latest_promoted": True, "diff_status": "CHANGED"}}}
+        m.sync(["cucc"], summary)
+
+        content = client.notes["N1"]
+        assert "当前有效清单" in content                  # 开关生效：携带快照
+        assert "新上架" in content
+        assert content.count("测试套餐") >= 1
 
     def test_integrity_fail_skips_everything(self, repo):
         items = [_item(tid="CUCC-26HE00000001")]
