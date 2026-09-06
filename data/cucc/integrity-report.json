@@ -1,6 +1,6 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-05T21:50:46+0000",
+ "generated_at": "2026-09-06T21:53:18+0000",
  "overall": "PASS",
  "item_count": 1679,
  "previous_count": 1679,
@@ -49,8 +49,8 @@
  "category_results": [
   {
    "category": "套餐>移网",
-   "expected": 137,
-   "collected": 137,
+   "expected": 136,
+   "collected": 136,
    "error": ""
   },
   {
@@ -151,8 +151,8 @@
   },
   {
    "category": "停售套餐>套餐",
-   "expected": 464,
-   "collected": 464,
+   "expected": 465,
+   "collected": 465,
    "error": ""
   },
   {

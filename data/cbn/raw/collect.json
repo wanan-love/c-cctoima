@@ -1,6 +1,6 @@
 {
  "operator": "cbn",
- "collected_at": "2026-09-05T21:47:11+0000",
+ "collected_at": "2026-09-06T21:48:45+0000",
  "ok": true,
  "categories": [],
  "evidence": {
@@ -21,7 +21,7 @@
   "province_tab_after_select": "全网资费",
   "after_hebei_page_head": "全网资费\n河北资费 \n筛选\n192流量卡10元套餐\n费用\n(元/月)\n\t\n国内通用\n流量(GB)\n\t\n编号\n\t\n副卡/\n亲情网\n\t\n套外\n资费\n10\n\t\n4\n\t\n25HE500070\n\t\n本套餐可开通亲情网主号10元/月，可以免费添加3张成员号，3张以外1元/张/月，国内互拨免费。\n\t\n套外国内流量3元/GB、套外国内语音0.15元/分钟、套外国内短信0.1元/条\n资费详情\n服务内容：标准资费：1",
   "verified_area": "HB00",
-  "verified_area_request": "{\"channelId\":\"cd_20220914_514144\",\"applicableArea\":\"HB00\",\"timestamp\":1788644798629}",
+  "verified_area_request": "{\"channelId\":\"cd_20220914_514144\",\"applicableArea\":\"HB00\",\"timestamp\":1788731297287}",
   "category_results": [
    {
     "category": "套餐",
@@ -122,7 +122,7 @@
  },
  "errors": [],
  "pages_visited": 0,
- "duration_s": 56.2,
+ "duration_s": 49.8,
  "items": [
   {
    "category": "套餐",
@@ -180,7 +180,7 @@
     "domesticTraffic": 4
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -238,7 +238,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -296,7 +296,7 @@
     "domesticTraffic": 9
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -354,7 +354,7 @@
     "domesticTraffic": 14
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -412,7 +412,7 @@
     "domesticTraffic": 30
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -470,7 +470,7 @@
     "domesticTraffic": 50
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -528,7 +528,7 @@
     "domesticTraffic": 60
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -586,7 +586,7 @@
     "domesticTraffic": 30
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -644,7 +644,7 @@
     "domesticTraffic": 120
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -702,7 +702,7 @@
     "domesticTraffic": 160
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -760,7 +760,7 @@
     "domesticTraffic": 300
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -818,7 +818,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -876,7 +876,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -934,7 +934,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -992,7 +992,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1050,7 +1050,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1108,7 +1108,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1166,7 +1166,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1224,7 +1224,7 @@
     "domesticTraffic": 10
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1282,7 +1282,7 @@
     "domesticTraffic": 20
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1340,7 +1340,7 @@
     "domesticTraffic": 3
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1398,7 +1398,7 @@
     "domesticTraffic": 10
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1456,7 +1456,7 @@
     "domesticTraffic": 10
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1514,7 +1514,7 @@
     "domesticTraffic": 2
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1572,7 +1572,7 @@
     "domesticTraffic": 3
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1630,7 +1630,7 @@
     "domesticTraffic": 5
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1688,7 +1688,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1746,7 +1746,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1804,7 +1804,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1862,7 +1862,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1920,7 +1920,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -1978,7 +1978,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2036,7 +2036,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2094,7 +2094,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2152,7 +2152,7 @@
     "domesticTraffic": 192
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2210,7 +2210,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2268,7 +2268,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2326,7 +2326,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2384,7 +2384,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2442,7 +2442,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2500,7 +2500,7 @@
     "domesticTraffic": 9
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2558,7 +2558,7 @@
     "domesticTraffic": 2
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2616,7 +2616,7 @@
     "domesticTraffic": 4
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2674,7 +2674,7 @@
     "domesticTraffic": 4
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2732,7 +2732,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2790,7 +2790,7 @@
     "domesticTraffic": 9
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2848,7 +2848,7 @@
     "domesticTraffic": 14
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2906,7 +2906,7 @@
     "domesticTraffic": 30
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -2964,7 +2964,7 @@
     "domesticTraffic": 50
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3022,7 +3022,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3080,7 +3080,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3138,7 +3138,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3196,7 +3196,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3254,7 +3254,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3312,7 +3312,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3370,7 +3370,7 @@
     "domesticTraffic": 60
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3428,7 +3428,7 @@
     "domesticTraffic": 60
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3486,7 +3486,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3544,7 +3544,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3602,7 +3602,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3660,7 +3660,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3718,7 +3718,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3776,7 +3776,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3834,7 +3834,7 @@
     "domesticTraffic": 3
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3892,7 +3892,7 @@
     "domesticTraffic": 8
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -3950,7 +3950,7 @@
     "domesticTraffic": 40
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4008,7 +4008,7 @@
     "domesticTraffic": 40
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4066,7 +4066,7 @@
     "domesticTraffic": 60
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4124,7 +4124,7 @@
     "domesticTraffic": 80
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4182,7 +4182,7 @@
     "domesticTraffic": 20
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4240,7 +4240,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4298,7 +4298,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4356,7 +4356,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4414,7 +4414,7 @@
     "domesticTraffic": 40
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4472,7 +4472,7 @@
     "domesticTraffic": 230
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4530,7 +4530,7 @@
     "domesticTraffic": 230
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4588,7 +4588,7 @@
     "domesticTraffic": 10
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4646,7 +4646,7 @@
     "domesticTraffic": 10
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4704,7 +4704,7 @@
     "domesticTraffic": 10
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4762,7 +4762,7 @@
     "domesticTraffic": 398
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4820,7 +4820,7 @@
     "domesticTraffic": 20
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4878,7 +4878,7 @@
     "domesticTraffic": 20
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4936,7 +4936,7 @@
     "domesticTraffic": 20
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -4994,7 +4994,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5052,7 +5052,7 @@
     "domesticTraffic": 30
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5110,7 +5110,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5168,7 +5168,7 @@
     "domesticTraffic": 50
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5226,7 +5226,7 @@
     "domesticTraffic": 50
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5284,7 +5284,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5342,7 +5342,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5400,7 +5400,7 @@
     "domesticTraffic": 60
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5458,7 +5458,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5516,7 +5516,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5574,7 +5574,7 @@
     "domesticTraffic": 90
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5632,7 +5632,7 @@
     "domesticTraffic": 1
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5690,7 +5690,7 @@
     "domesticTraffic": 60
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5748,7 +5748,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5806,7 +5806,7 @@
     "domesticTraffic": 40
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5864,7 +5864,7 @@
     "domesticTraffic": 60
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5922,7 +5922,7 @@
     "domesticTraffic": 80
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -5980,7 +5980,7 @@
     "domesticTraffic": 100
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6038,7 +6038,7 @@
     "domesticTraffic": 150
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6096,7 +6096,7 @@
     "domesticTraffic": 230
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6154,7 +6154,7 @@
     "domesticTraffic": 10
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6212,7 +6212,7 @@
     "domesticTraffic": 398
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6270,7 +6270,7 @@
     "domesticTraffic": 20
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6328,7 +6328,7 @@
     "domesticTraffic": 20
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6386,7 +6386,7 @@
     "domesticTraffic": 40
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6444,7 +6444,7 @@
     "domesticTraffic": 30
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6502,7 +6502,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6560,7 +6560,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6618,7 +6618,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6676,7 +6676,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6734,7 +6734,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6792,7 +6792,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6850,7 +6850,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6908,7 +6908,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -6966,7 +6966,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -7024,7 +7024,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "套餐",
@@ -7082,7 +7082,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "营销活动",
@@ -7140,7 +7140,7 @@
     "domesticTraffic": 140
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "营销活动",
@@ -7198,7 +7198,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "营销活动",
@@ -7256,7 +7256,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "营销活动",
@@ -7314,7 +7314,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "营销活动",
@@ -7372,7 +7372,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "营销活动",
@@ -7430,7 +7430,7 @@
     "domesticTraffic": 0
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "特殊群体套餐",
@@ -7488,7 +7488,7 @@
     "domesticTraffic": 120
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "特殊群体套餐",
@@ -7546,7 +7546,7 @@
     "domesticTraffic": 120
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "特殊群体套餐",
@@ -7604,7 +7604,7 @@
     "domesticTraffic": 120
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "特殊群体套餐",
@@ -7662,7 +7662,7 @@
     "domesticTraffic": 160
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   },
   {
    "category": "特殊群体套餐",
@@ -7720,7 +7720,7 @@
     "domesticTraffic": 200
    },
    "source_api": "https://m.10099.com.cn/contact-web/api/goods/queryTariffAllByCond",
-   "collected_at": "2026-09-05T21:46:43+0000"
+   "collected_at": "2026-09-06T21:48:21+0000"
   }
  ]
 }
