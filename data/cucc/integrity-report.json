@@ -1,8 +1,8 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-06T21:53:18+0000",
+ "generated_at": "2026-09-07T22:25:38+0000",
  "overall": "PASS",
- "item_count": 1679,
+ "item_count": 1683,
  "previous_count": 1679,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1679 条；name 覆盖 1679/1679，details 覆盖 1679/1679（阈值 0.95）"
+   "detail": "1683 条；name 覆盖 1683/1683，details 覆盖 1683/1683（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1679 条 → 本次 1679 条（下降 0 条 / 0%）"
+   "detail": "上次 1679 条 → 本次 1683 条（下降 -4 条 / -0%）"
   }
  ],
  "category_results": [
@@ -109,8 +109,8 @@
   },
   {
    "category": "营销活动>促销",
-   "expected": 140,
-   "collected": 140,
+   "expected": 138,
+   "collected": 138,
    "error": ""
   },
   {
@@ -151,8 +151,8 @@
   },
   {
    "category": "停售套餐>套餐",
-   "expected": 465,
-   "collected": 465,
+   "expected": 469,
+   "collected": 469,
    "error": ""
   },
   {
@@ -163,8 +163,8 @@
   },
   {
    "category": "停售套餐>营销活动",
-   "expected": 130,
-   "collected": 130,
+   "expected": 132,
+   "collected": 132,
    "error": ""
   },
   {

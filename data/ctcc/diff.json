@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T22:17:18+0000",
+ "generated_at": "2026-09-07T22:49:46+0000",
  "current_count": 877,
  "previous_count": 877,
  "added": {
@@ -11,12 +11,106 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 11,
+  "items": [
+   {
+    "tariff_id": "CTCC-25HE100041",
+    "name": "促销-共享流量包80G",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100107",
+    "name": "促销-共享语音包100分钟",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100108",
+    "name": "促销-共享流量包45G",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100111",
+    "name": "促销-共享流量包100G",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100113",
+    "name": "促销-共享流量包120G",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100116",
+    "name": "促销-共享流量包30G",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100117",
+    "name": "促销-共享流量包35G",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100120",
+    "name": "促销-共享语音包200分钟",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100123",
+    "name": "促销-共享语音包500分钟",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100233",
+    "name": "FTTR翻新终端月付10元（连续包月）",
+    "category": "加装包",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100240",
+    "name": "智能播报月包",
+    "category": "加装包",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 877
+  "count": 866
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

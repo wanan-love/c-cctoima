@@ -1,6 +1,6 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-06T22:15:20+0000",
+ "generated_at": "2026-09-07T22:47:46+0000",
  "overall": "PASS",
  "item_count": 2210,
  "previous_count": 2210,
@@ -65,7 +65,7 @@
    "label": "营销活动",
    "items": 1035,
    "beans": 1025,
-   "total": 1032,
+   "total": 1033,
    "note": ""
   },
   {

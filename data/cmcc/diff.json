@@ -1,22 +1,70 @@
 {
- "generated_at": "2026-09-06T22:17:17+0000",
+ "generated_at": "2026-09-07T22:49:46+0000",
  "current_count": 2210,
  "previous_count": 2210,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE201183",
+    "name": "0元来电管家权益包-智享版",
+    "category": "营销活动"
+   }
+  ]
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CMCC-24HE200264",
+    "name": "存100元分月返（2022）",
+    "category": "营销活动"
+   }
+  ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE200091",
+    "name": "金牌回馈-宽带提速体验（600M）-6个月-新",
+    "category": "营销活动",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200093",
+    "name": "金牌回馈-宽带提速体验（1000M）-6个月-新",
+    "category": "营销活动",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200096",
+    "name": "金牌回馈-宽带提速体验（600M）-12个月-新",
+    "category": "营销活动",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200097",
+    "name": "金牌回馈-宽带提速体验（1000M）-12个月-新",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 2210
+  "count": 2205
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

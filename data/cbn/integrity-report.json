@@ -1,7 +1,7 @@
 {
  "operator": "cbn",
- "generated_at": "2026-09-06T21:48:45+0000",
- "overall": "PASS",
+ "generated_at": "2026-09-07T22:25:09+0000",
+ "overall": "FAIL",
  "item_count": 131,
  "previous_count": 131,
  "checks": [
@@ -37,8 +37,8 @@
   },
   {
    "check": "no_severe_errors",
-   "status": "PASS",
-   "detail": "无采集错误"
+   "status": "FAIL",
+   "detail": "采集错误 1 条: navigate: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://m.10099.com.cn/expensesNotice/#/home\", waiting until \"domcontentloaded\"\n"
   },
   {
    "check": "no_abnormal_drop",
@@ -149,5 +149,7 @@
    "typeCode": "GZ"
   }
  },
- "failure_reasons": []
+ "failure_reasons": [
+  "no_severe_errors: 采集错误 1 条: navigate: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://m.10099.com.cn/expensesNotice/#/home\", waiting until \"domcontentloaded\"\n"
+ ]
 }
