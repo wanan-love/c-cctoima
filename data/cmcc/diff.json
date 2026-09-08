@@ -1,69 +1,123 @@
 {
- "generated_at": "2026-09-07T22:49:46+0000",
+ "generated_at": "2026-09-08T22:45:32+0000",
  "current_count": 2210,
  "previous_count": 2210,
  "added": {
-  "count": 1,
+  "count": 9,
   "items": [
    {
-    "tariff_id": "CMCC-26HE201183",
-    "name": "0元来电管家权益包-智享版",
+    "tariff_id": "CMCC-26HE201184",
+    "name": "雾影猎人游戏豪华版CDKEY",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201185",
+    "name": "双影奇境CDKEY",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201186",
+    "name": "雾影猎人游戏标准版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201187",
+    "name": "爱家健康-银发健康10元包（划拨版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201188",
+    "name": "爱家健康-银发健康5元包（划拨版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201189",
+    "name": "爱家健康-银发运动15元包（划拨版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201190",
+    "name": "IPTV奇好看VIP-12个月",
     "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201191",
+    "name": "IPTV奇好看VIP",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201192",
+    "name": "雾影猎人游戏豪华版CDKEY优惠版",
+    "category": "加装包"
    }
   ]
  },
  "removed": {
-  "count": 1,
+  "count": 9,
   "items": [
    {
-    "tariff_id": "CMCC-24HE200264",
-    "name": "存100元分月返（2022）",
+    "tariff_id": "CMCC-25HE200532",
+    "name": "心级服务随心看会员",
     "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE200559",
+    "name": "智能组网尊享服务（分月版新）-前",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200561",
+    "name": "智能组网服务（分月版新）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200564",
+    "name": "智能组网服务设备版（分月版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202555",
+    "name": "金牌回馈24个月-专属流量扩容包30GB全国通用流量（不含港澳台地区）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE202932",
+    "name": "15GB快手流量包1个月（AI豆）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202933",
+    "name": "15GB抖音流量包1个月（AI豆）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202943",
+    "name": "15GB夜间流量包1个月（AI豆）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202953",
+    "name": "2G流量包1个月（AI豆）",
+    "category": "加装包"
    }
   ]
  },
  "modified": {
-  "count": 4,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CMCC-26HE200091",
-    "name": "金牌回馈-宽带提速体验（600M）-6个月-新",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE201142",
+    "name": "双影奇境游戏CDKEY",
+    "category": "加装包",
     "fields": [
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200093",
-    "name": "金牌回馈-宽带提速体验（1000M）-6个月-新",
-    "category": "营销活动",
-    "fields": [
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200096",
-    "name": "金牌回馈-宽带提速体验（600M）-12个月-新",
-    "category": "营销活动",
-    "fields": [
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200097",
-    "name": "金牌回馈-宽带提速体验（1000M）-12个月-新",
-    "category": "营销活动",
-    "fields": [
-     "description"
+     "price",
+     "validity"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2205
+  "count": 2200
  },
  "has_change": true,
  "status": "CHANGED"

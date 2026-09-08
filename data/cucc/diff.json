@@ -1,29 +1,19 @@
 {
- "generated_at": "2026-09-07T22:49:46+0000",
- "current_count": 1683,
- "previous_count": 1679,
+ "generated_at": "2026-09-08T22:45:33+0000",
+ "current_count": 1685,
+ "previous_count": 1683,
  "added": {
-  "count": 4,
+  "count": 2,
   "items": [
    {
-    "tariff_id": "CUCC-24HE300427",
-    "name": "联通智家299元融合套餐-套内5G主卡",
-    "category": "停售套餐"
+    "tariff_id": "CUCC-26HE300386",
+    "name": "联通智家省内跨域产品（畅爽畅越通用）（河北）",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CUCC-24HE300428",
-    "name": "联通智家199元融合套餐-套内5G主卡",
-    "category": "停售套餐"
-   },
-   {
-    "tariff_id": "CUCC-24HE300429",
-    "name": "联通智家159元融合套餐-套内5G主卡",
-    "category": "停售套餐"
-   },
-   {
-    "tariff_id": "CUCC-24HE300430",
-    "name": "联通智家129元融合套餐-套内5G主卡",
-    "category": "停售套餐"
+    "tariff_id": "CUCC-26HE300387",
+    "name": "联通智家跨域融合产品(河北)",
+    "category": "套餐"
    }
   ]
  },
@@ -32,30 +22,20 @@
   "items": []
  },
  "modified": {
-  "count": 2,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CUCC-25HE300923",
-    "name": "联通看家7天包月4.5元/月长期有效（河北）-立即生效",
+    "tariff_id": "CUCC-25HE300349",
+    "name": "智享融合网龄宽带专享预存199元分月转兑活动12个月（河北）",
     "category": "停售套餐",
     "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300924",
-    "name": "联通看家亲情看护包月1.5元/月长期有效（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
+     "eligibility"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 1677
+  "count": 1682
  },
  "has_change": true,
  "status": "CHANGED"

@@ -1,115 +1,32 @@
 {
- "generated_at": "2026-09-07T22:49:46+0000",
- "current_count": 877,
+ "generated_at": "2026-09-08T22:45:33+0000",
+ "current_count": 879,
  "previous_count": 877,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100230",
+    "name": "魔方宽带1000M",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CTCC-26HE100231",
+    "name": "魔方宽带300M",
+    "category": "套餐"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 11,
-  "items": [
-   {
-    "tariff_id": "CTCC-25HE100041",
-    "name": "促销-共享流量包80G",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100107",
-    "name": "促销-共享语音包100分钟",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100108",
-    "name": "促销-共享流量包45G",
-    "category": "加装包",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100111",
-    "name": "促销-共享流量包100G",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100113",
-    "name": "促销-共享流量包120G",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100116",
-    "name": "促销-共享流量包30G",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100117",
-    "name": "促销-共享流量包35G",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100120",
-    "name": "促销-共享语音包200分钟",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100123",
-    "name": "促销-共享语音包500分钟",
-    "category": "加装包",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100233",
-    "name": "FTTR翻新终端月付10元（连续包月）",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100240",
-    "name": "智能播报月包",
-    "category": "加装包",
-    "fields": []
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 866
+  "count": 877
  },
  "has_change": true,
  "status": "CHANGED"

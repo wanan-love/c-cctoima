@@ -1,6 +1,6 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-07T22:47:46+0000",
+ "generated_at": "2026-09-08T22:43:30+0000",
  "overall": "PASS",
  "item_count": 2210,
  "previous_count": 2210,
@@ -51,21 +51,21 @@
    "label": "套餐",
    "items": 418,
    "beans": 325,
-   "total": 414,
+   "total": 417,
    "note": ""
   },
   {
    "label": "加装包",
    "items": 671,
    "beans": 635,
-   "total": 667,
+   "total": 671,
    "note": ""
   },
   {
    "label": "营销活动",
    "items": 1035,
    "beans": 1025,
-   "total": 1033,
+   "total": 1035,
    "note": ""
   },
   {

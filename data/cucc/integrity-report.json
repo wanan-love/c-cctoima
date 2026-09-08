@@ -1,9 +1,9 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-07T22:25:38+0000",
+ "generated_at": "2026-09-08T22:10:06+0000",
  "overall": "PASS",
- "item_count": 1683,
- "previous_count": 1679,
+ "item_count": 1685,
+ "previous_count": 1683,
  "checks": [
   {
    "check": "province_hebei",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1683 条；name 覆盖 1683/1683，details 覆盖 1683/1683（阈值 0.95）"
+   "detail": "1685 条；name 覆盖 1685/1685，details 覆盖 1685/1685（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1679 条 → 本次 1683 条（下降 -4 条 / -0%）"
+   "detail": "上次 1683 条 → 本次 1685 条（下降 -2 条 / -0%）"
   }
  ],
  "category_results": [
@@ -67,8 +67,8 @@
   },
   {
    "category": "套餐>融合",
-   "expected": 74,
-   "collected": 74,
+   "expected": 76,
+   "collected": 76,
    "error": ""
   },
   {
