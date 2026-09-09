@@ -1,42 +1,22 @@
 {
- "generated_at": "2026-09-08T22:45:33+0000",
+ "generated_at": "2026-09-09T22:34:46+0000",
  "current_count": 1685,
- "previous_count": 1683,
+ "previous_count": 1685,
  "added": {
-  "count": 2,
-  "items": [
-   {
-    "tariff_id": "CUCC-26HE300386",
-    "name": "联通智家省内跨域产品（畅爽畅越通用）（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300387",
-    "name": "联通智家跨域融合产品(河北)",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CUCC-25HE300349",
-    "name": "智享融合网龄宽带专享预存199元分月转兑活动12个月（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "eligibility"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 1682
+  "count": 1685
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
