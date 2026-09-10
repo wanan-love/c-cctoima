@@ -31,7 +31,7 @@
      "count": 196
     }
    },
-   "last_sync": "2026-09-08T22:46:00+0000",
+   "last_sync": "2026-09-10T22:28:54+0000",
    "categories": {
     "停售套餐": {
      "note_id": "7501831517242717",
@@ -44,10 +44,10 @@
     "加装包": {
      "note_id": "7501831664049870",
      "title": "河北联通_加装包（实时更新）",
-     "hash": "168ac0f8d150867e68e08712aa96a293267604ff304fde9a3dbcc9352eebe068",
+     "hash": "ac9009fa9bf332e187b6fe8ba92fc1da899e9bbf7d8370184bf45d68f914e5f1",
      "count": 335,
-     "updates": 1,
-     "last_sync": "2026-09-05T22:11:37+0000"
+     "updates": 2,
+     "last_sync": "2026-09-10T22:28:48+0000"
     },
     "套餐": {
      "note_id": "7501831815038719",
@@ -60,10 +60,10 @@
     "营销活动": {
      "note_id": "7501831970230963",
      "title": "河北联通_营销活动（实时更新）",
-     "hash": "398ca5dc234609b3bab6c0730b24b1dfb823867218caab1e57bcbfaac945adfb",
+     "hash": "2ff6d8d64a1bd11cea0b4307991d8b724ee397b0668fe3b637ab89e7558b0371",
      "count": 189,
-     "updates": 2,
-     "last_sync": "2026-09-07T22:50:03+0000"
+     "updates": 3,
+     "last_sync": "2026-09-10T22:28:53+0000"
     }
    }
   },
@@ -164,23 +164,23 @@
      "count": 3
     }
    },
-   "last_sync": "2026-09-08T22:45:49+0000",
+   "last_sync": "2026-09-10T22:28:45+0000",
    "categories": {
     "加装包": {
      "note_id": "7501831001343974",
      "title": "河北移动_加装包（实时更新）",
-     "hash": "1bf84c4d8bd0949d74b28c8abcefd9ec27760768bb39266f4c70a3b1dc1f81ae",
+     "hash": "5f53834c1dde99f758e39c5527f6b78a5dcbc91a9d801f6f7f8100aceb2aff8f",
      "count": 670,
-     "updates": 1,
-     "last_sync": "2026-09-08T22:45:38+0000"
+     "updates": 2,
+     "last_sync": "2026-09-10T22:28:33+0000"
     },
     "套餐": {
      "note_id": "7501831081038951",
      "title": "河北移动_套餐（实时更新）",
-     "hash": "eb15d0f1b342c4d4729f79d5e04815a16e7644425afc10b7457cdb789440b99f",
-     "count": 418,
-     "updates": 1,
-     "last_sync": "2026-09-08T22:45:42+0000"
+     "hash": "b8249be4425830a24624abdbad4f651f0256ad851dd12c8ffaedcd7df4ecb58a",
+     "count": 423,
+     "updates": 2,
+     "last_sync": "2026-09-10T22:28:38+0000"
     },
     "标准资费": {
      "note_id": "7501831135562993",
@@ -201,10 +201,10 @@
     "营销活动": {
      "note_id": "7501831311722008",
      "title": "河北移动_营销活动（实时更新）",
-     "hash": "27f6c8be26a7ea2600be6d031ebc028c2abfc5d2c813222a1c6214dc5df08fd1",
+     "hash": "1e45f58ee2df17cc57955bda9fc5dcb708f3a31147ed20292705d214e98ef9e1",
      "count": 1033,
-     "updates": 2,
-     "last_sync": "2026-09-08T22:45:48+0000"
+     "updates": 3,
+     "last_sync": "2026-09-10T22:28:43+0000"
     }
    }
   },

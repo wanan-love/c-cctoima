@@ -1,22 +1,68 @@
 {
- "generated_at": "2026-09-09T22:34:46+0000",
- "current_count": 2210,
+ "generated_at": "2026-09-10T22:28:27+0000",
+ "current_count": 2215,
  "previous_count": 2210,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 6,
+  "items": [
+   {
+    "tariff_id": "CMCC-24HE200021",
+    "name": "和家庭计划0元套餐(5G)",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200099",
+    "name": "爱家光网单从光猫（分月版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200559",
+    "name": "智能组网尊享服务（分月版新）-前",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200561",
+    "name": "智能组网服务（分月版新）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200564",
+    "name": "智能组网服务设备版（分月版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202953",
+    "name": "2G流量包1个月（AI豆）",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE201142",
+    "name": "双影奇境游戏CDKEY",
+    "category": "加装包"
+   }
+  ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE202742",
+    "name": "邢台套餐3折优惠",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 2210
+  "count": 2208
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

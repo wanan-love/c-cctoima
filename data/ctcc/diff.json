@@ -1,174 +1,22 @@
 {
- "generated_at": "2026-09-09T22:34:47+0000",
+ "generated_at": "2026-09-10T22:28:28+0000",
  "current_count": 880,
- "previous_count": 879,
+ "previous_count": 880,
  "added": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CTCC-26HE100232",
-    "name": "天翼魔方移动39元",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 17,
-  "items": [
-   {
-    "tariff_id": "CTCC-25HE100029",
-    "name": "【分月转兑】公众-存量-缴300元回馈-转兑（201808）",
-    "category": "营销活动",
-    "fields": [
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100030",
-    "name": "【分月转兑】公众-存量-线上缴1000元回馈-转兑（201810）",
-    "category": "营销活动",
-    "fields": [
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100032",
-    "name": "【分月转兑】公众-存量-缴600元回馈-转兑（201808）",
-    "category": "营销活动",
-    "fields": [
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100035",
-    "name": "【分月转兑】公众-存量-缴1000元回馈-转兑（201808）",
-    "category": "营销活动",
-    "fields": [
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100037",
-    "name": "【分月转兑】公众-存量-线上缴600元回馈-转兑（201810）",
-    "category": "营销活动",
-    "fields": [
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100038",
-    "name": "【分月转兑】公众-存量-线上缴300元回馈-转兑（201810）",
-    "category": "营销活动",
-    "fields": [
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100107",
-    "name": "促销-共享语音包100分钟",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100117",
-    "name": "促销-共享流量包35G",
-    "category": "加装包",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100147",
-    "name": "促销-话费优惠10元/月（24个月有效）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100149",
-    "name": "促销-话费优惠5元/月（24个月有效）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100195",
-    "name": "促销-共享流量包50G",
-    "category": "加装包",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100367",
-    "name": "校园-79元档套餐优惠至49元（次月生效）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100368",
-    "name": "校园-79元档套餐优惠至39元（次月生效）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100370",
-    "name": "校园-79元档套餐优惠至29元（次月生效）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-26HE100107",
-    "name": "校园-79元档套餐优惠至59元（次月生效）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-26HE100230",
-    "name": "魔方宽带1000M",
-    "category": "套餐",
-    "fields": [
-     "validity",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100231",
-    "name": "魔方宽带300M",
-    "category": "套餐",
-    "fields": [
-     "eligibility"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 862
+  "count": 880
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
