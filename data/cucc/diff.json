@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T22:28:28+0000",
+ "generated_at": "2026-09-11T22:34:38+0000",
  "current_count": 1685,
  "previous_count": 1685,
  "added": {
@@ -11,30 +11,30 @@
   "items": []
  },
  "modified": {
-  "count": 3,
+  "count": 2,
   "items": [
-   {
-    "tariff_id": "CUCC-25HE300067",
-    "name": "畅越优选德克士联名包25元/月（河北）-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
    {
     "tariff_id": "CUCC-25HE300618",
     "name": "联通智家云盘会员合约49元/月有效期12个月（河北）-立即生效",
-    "category": "加装包",
-    "fields": []
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    },
    {
     "tariff_id": "CUCC-25HE300619",
     "name": "联通智家云盘尊享会员合约包专享赠费49元/月有效期12个月（河北）-立即生效",
-    "category": "营销活动",
-    "fields": []
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    }
   ]
  },
  "unchanged": {
-  "count": 1682
+  "count": 1683
  },
  "has_change": true,
  "status": "CHANGED"
