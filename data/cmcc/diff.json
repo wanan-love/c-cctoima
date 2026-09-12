@@ -1,60 +1,10 @@
 {
- "generated_at": "2026-09-11T22:34:38+0000",
- "current_count": 2215,
+ "generated_at": "2026-09-12T22:20:29+0000",
+ "current_count": 2220,
  "previous_count": 2215,
  "added": {
-  "count": 6,
+  "count": 5,
   "items": [
-   {
-    "tariff_id": "CMCC-25HE202932",
-    "name": "15GB快手流量包1个月（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202943",
-    "name": "15GB夜间流量包1个月（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201193",
-    "name": "15GB通用流量套餐扩容包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201194",
-    "name": "5G-A场景包-30GB",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201195",
-    "name": "5G-A场景包-20GB",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201196",
-    "name": "5G-A场景包-10GB",
-    "category": "加装包"
-   }
-  ]
- },
- "removed": {
-  "count": 6,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200021",
-    "name": "和家庭计划0元套餐(5G)",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-24HE200107",
-    "name": "5元短彩信消息包（2022版）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200099",
-    "name": "爱家光网单从光猫（分月版）",
-    "category": "套餐"
-   },
    {
     "tariff_id": "CMCC-25HE200559",
     "name": "智能组网尊享服务（分月版新）-前",
@@ -66,60 +16,42 @@
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE200564",
-    "name": "智能组网服务设备版（分月版）",
+    "tariff_id": "CMCC-26HE201197",
+    "name": "邢台爱家光网服务分月版-冀享专属",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201198",
+    "name": "邢台爱家光网服务预存活动-冀享专属",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201199",
+    "name": "邢台爱家光网服务预存版-冀享专属",
     "category": "套餐"
    }
   ]
  },
+ "removed": {
+  "count": 0,
+  "items": []
+ },
  "modified": {
-  "count": 5,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CMCC-25HE202051",
-    "name": "50G通用流量包（0元1个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE202059",
-    "name": "500分钟语音包（0元1个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203075",
-    "name": "极光TV会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200447",
-    "name": "爱家TV酷喵VIP",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201192",
-    "name": "雾影猎人游戏豪华版CDKEY优惠版",
-    "category": "加装包",
+    "tariff_id": "CMCC-25HE200563",
+    "name": "智能组网尊享服务（分月版新）-后",
+    "category": "套餐",
     "fields": [
      "validity",
-     "eligibility"
+     "description"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2204
+  "count": 2214
  },
  "has_change": true,
  "status": "CHANGED"

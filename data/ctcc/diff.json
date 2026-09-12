@@ -1,41 +1,10 @@
 {
- "generated_at": "2026-09-11T22:34:38+0000",
+ "generated_at": "2026-09-12T22:20:29+0000",
  "current_count": 886,
- "previous_count": 880,
+ "previous_count": 886,
  "added": {
-  "count": 6,
-  "items": [
-   {
-    "tariff_id": "CTCC-24HE102466",
-    "name": "橙分期-5G终端-5G畅享99元档合约-24期（20220808）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-25HE100080",
-    "name": "橙分期-5G终端-5G畅享99元档合约-36期（20220808）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-25HE100081",
-    "name": "橙分期-5G终端-5G畅享129元档合约-36期（20220808）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-25HE100082",
-    "name": "橙分期-5G终端-5G畅享169元档合约-36期（20220808）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-25HE100084",
-    "name": "橙分期-5G终端-5G畅享129元档合约-24期（20220808）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-25HE100241",
-    "name": "橙分期-5G终端-5G畅享169元档合约-24期（20220808）",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
@@ -46,8 +15,8 @@
   "items": []
  },
  "unchanged": {
-  "count": 880
+  "count": 886
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

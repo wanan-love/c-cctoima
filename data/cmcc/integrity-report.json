@@ -1,8 +1,8 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-11T22:32:36+0000",
+ "generated_at": "2026-09-12T22:18:20+0000",
  "overall": "PASS",
- "item_count": 2215,
+ "item_count": 2220,
  "previous_count": 2215,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2215 条；name 覆盖 2215/2215，details 覆盖 2215/2215（阈值 0.95）"
+   "detail": "2220 条；name 覆盖 2220/2220，details 覆盖 2220/2220（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,15 +43,15 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2215 条 → 本次 2215 条（下降 0 条 / 0%）"
+   "detail": "上次 2215 条 → 本次 2220 条（下降 -5 条 / -0%）"
   }
  ],
  "category_results": [
   {
    "label": "套餐",
-   "items": 418,
-   "beans": 325,
-   "total": 417,
+   "items": 423,
+   "beans": 330,
+   "total": 420,
    "note": ""
   },
   {
