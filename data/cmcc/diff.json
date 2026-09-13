@@ -1,58 +1,22 @@
 {
- "generated_at": "2026-09-12T22:20:29+0000",
+ "generated_at": "2026-09-13T22:17:55+0000",
  "current_count": 2220,
- "previous_count": 2215,
+ "previous_count": 2220,
  "added": {
-  "count": 5,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE200559",
-    "name": "智能组网尊享服务（分月版新）-前",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE200561",
-    "name": "智能组网服务（分月版新）-后",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201197",
-    "name": "邢台爱家光网服务分月版-冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201198",
-    "name": "邢台爱家光网服务预存活动-冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201199",
-    "name": "邢台爱家光网服务预存版-冀享专属",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE200563",
-    "name": "智能组网尊享服务（分月版新）-后",
-    "category": "套餐",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2214
+  "count": 2220
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
