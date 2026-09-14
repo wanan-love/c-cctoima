@@ -1,8 +1,8 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-13T21:56:47+0000",
+ "generated_at": "2026-09-14T22:54:20+0000",
  "overall": "PASS",
- "item_count": 1685,
+ "item_count": 1701,
  "previous_count": 1685,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1685 条；name 覆盖 1685/1685，details 覆盖 1685/1685（阈值 0.95）"
+   "detail": "1701 条；name 覆盖 1701/1701，details 覆盖 1701/1701（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1685 条 → 本次 1685 条（下降 0 条 / 0%）"
+   "detail": "上次 1685 条 → 本次 1701 条（下降 -16 条 / -1%）"
   }
  ],
  "category_results": [
@@ -67,8 +67,8 @@
   },
   {
    "category": "套餐>融合",
-   "expected": 76,
-   "collected": 76,
+   "expected": 92,
+   "collected": 92,
    "error": ""
   },
   {

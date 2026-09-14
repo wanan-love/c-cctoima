@@ -1,22 +1,78 @@
 {
- "generated_at": "2026-09-13T22:17:55+0000",
- "current_count": 2220,
+ "generated_at": "2026-09-14T23:22:01+0000",
+ "current_count": 2215,
  "previous_count": 2220,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE200532",
+    "name": "心级服务随心看会员",
+    "category": "营销活动"
+   }
+  ]
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 6,
+  "items": [
+   {
+    "tariff_id": "CMCC-24HE200340",
+    "name": "5G金币购机套餐合约活动198元档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200559",
+    "name": "智能组网尊享服务（分月版新）-前",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200561",
+    "name": "智能组网服务（分月版新）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200563",
+    "name": "智能组网尊享服务（分月版新）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202924",
+    "name": "创业冀享卡39档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE200558",
+    "name": "全球通千兆专享回馈",
+    "category": "营销活动"
+   }
+  ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE201190",
+    "name": "IPTV奇好看VIP-12个月",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201191",
+    "name": "IPTV奇好看VIP",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 2220
+  "count": 2212
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
