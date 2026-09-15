@@ -1,9 +1,9 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-14T22:54:20+0000",
+ "generated_at": "2026-09-15T22:34:47+0000",
  "overall": "PASS",
  "item_count": 1701,
- "previous_count": 1685,
+ "previous_count": 1701,
  "checks": [
   {
    "check": "province_hebei",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1685 条 → 本次 1701 条（下降 -16 条 / -1%）"
+   "detail": "上次 1701 条 → 本次 1701 条（下降 0 条 / 0%）"
   }
  ],
  "category_results": [

@@ -1,439 +1,46 @@
 {
- "generated_at": "2026-09-14T23:22:02+0000",
+ "generated_at": "2026-09-15T22:57:55+0000",
  "current_count": 1701,
- "previous_count": 1685,
+ "previous_count": 1701,
  "added": {
-  "count": 16,
-  "items": [
-   {
-    "tariff_id": "CUCC-26HE300388",
-    "name": "联通智家畅越融合59元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300389",
-    "name": "联通智家畅越融合69元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300390",
-    "name": "联通智家畅越融合79元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300391",
-    "name": "联通智家畅越融合89元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300392",
-    "name": "联通智家畅越融合99元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300393",
-    "name": "联通智家畅越融合109元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300394",
-    "name": "联通智家畅越融合119元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300395",
-    "name": "联通智家畅越融合129元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300396",
-    "name": "联通智家畅越融合139元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300397",
-    "name": "联通智家畅越融合149元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300398",
-    "name": "联通智家畅越融合159元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300399",
-    "name": "联通智家畅越融合169元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300400",
-    "name": "联通智家畅越融合179元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300401",
-    "name": "联通智家畅越融合189元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300402",
-    "name": "联通智家畅越融合199-599元（河北）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300403",
-    "name": "畅越融合组合优化版（河北）",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 42,
+  "count": 3,
   "items": [
    {
-    "tariff_id": "CUCC-24HE300252",
-    "name": "FTTR组网云从512G-2（25元长期）-立即生效-202403(河北）",
-    "category": "加装包",
+    "tariff_id": "CUCC-25HE300545",
+    "name": "500M包月30元（第二条宽带）（河北）",
+    "category": "套餐",
     "fields": [
-     "validity"
+     "eligibility"
     ]
    },
    {
-    "tariff_id": "CUCC-24HE300253",
-    "name": "FTTR组网云从256G-1（15元长期）-立即生效-202403(河北）",
+    "tariff_id": "CUCC-26HE300192",
+    "name": "1元300分钟语音40GB流量组合包（河北）-立即生效",
     "category": "加装包",
     "fields": [
-     "validity"
+     "eligibility"
     ]
    },
    {
-    "tariff_id": "CUCC-24HE300254",
-    "name": "FTTR组网主融合（20元长期）-立即生效-202403（河北）",
+    "tariff_id": "CUCC-26HE300193",
+    "name": "2元500分钟语音80GB流量组合包（河北）-立即生效",
     "category": "加装包",
     "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300255",
-    "name": "FTTR组网从8（10元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300256",
-    "name": "FTTR组网从7（10元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300257",
-    "name": "FTTR组网从6（10元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300258",
-    "name": "FTTR组网从5（10元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300259",
-    "name": "FTTR组网从4（10元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300260",
-    "name": "FTTR组网从3（10元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300261",
-    "name": "FTTR组网从2（10元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300262",
-    "name": "FTTR组网从1融合（10元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300263",
-    "name": "4G达量限速专用FTTR组网提速1000M（主融合50元长期）-立即生效-202404(河北)",
-    "category": "停售套餐",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300264",
-    "name": "FTTR组网提速1500M（主融合30元长期）-立即生效-202312(河北)",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300670",
-    "name": "FTTR组网标准档从光猫1服务产品-立即生效（河北）",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300672",
-    "name": "FTTR组网标准档二次利用从光猫2调测费100元（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300673",
-    "name": "FTTR组网标准档二次利用从光猫2调测费50元（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300674",
-    "name": "FTTR组网标准档二次利用主+从光猫1调测费100元（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300675",
-    "name": "FTTR组网标准档二次利用主+从光猫1调测费150元（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300676",
-    "name": "FTTR组网标准档二次利用主+从光猫1调测费200元（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300677",
-    "name": "FTTR组网标准档二次利用主+从光猫1调测费50元（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300678",
-    "name": "FTTR组网标准档二次利用主+从光猫1调测费减免（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300679",
-    "name": "FTTR组网高档从光猫2服务费10元/月长期有效-立即生效（河北）",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300688",
-    "name": "FTTR组网主光猫服务费10元/月长期有效-立即生效（河北）",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301257",
-    "name": "联通智家FTTR全屋光宽带标准版主+从1（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301258",
-    "name": "FTTR全屋光宽带标准版10元/月从2（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301259",
-    "name": "FTTR全屋光宽带标准版10元/月从3（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301260",
-    "name": "FTTR全屋光宽带标准版10元/月从4（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301261",
-    "name": "FTTR全屋光宽带标准版10元/月从5（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301262",
-    "name": "FTTR全屋光宽带标准版10元/月从6（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301263",
-    "name": "FTTR全屋光宽带标准版10元/月从7（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301264",
-    "name": "FTTR全屋光宽带标准版10元/月从8（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301265",
-    "name": "联通智家FTTR全屋光宽带优选版产品主+从1（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301266",
-    "name": "FTTR全屋光宽带优选版10元/月从2（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301267",
-    "name": "FTTR全屋光宽带优选版10元/月从3（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301268",
-    "name": "FTTR全屋光宽带优选版10元/月从4（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301269",
-    "name": "FTTR全屋光宽带优选版10元/月从5（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301270",
-    "name": "FTTR全屋光宽带优选版10元/月从6（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301271",
-    "name": "FTTR全屋光宽带优选版10元/月从7（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301272",
-    "name": "FTTR全屋光宽带优选版10元/月从8（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301273",
-    "name": "FTTR全屋光宽带标准版40元主+从1（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-26HE300136",
-    "name": "双终端FTTR全屋光宽带标准版20元主+从1（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-26HE300137",
-    "name": "双终端FTTR全屋光宽带二次利用20元主+从1（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "validity"
+     "eligibility"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 1643
+  "count": 1698
  },
  "has_change": true,
  "status": "CHANGED"

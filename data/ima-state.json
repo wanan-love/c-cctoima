@@ -31,7 +31,7 @@
      "count": 196
     }
    },
-   "last_sync": "2026-09-14T23:22:30+0000",
+   "last_sync": "2026-09-15T22:58:16+0000",
    "categories": {
     "停售套餐": {
      "note_id": "7501831517242717",
@@ -44,18 +44,18 @@
     "加装包": {
      "note_id": "7501831664049870",
      "title": "河北联通_加装包（实时更新）",
-     "hash": "caddc3a34c27c17f8d420c90698c1cacec2b0fdb58efa70438c4ace9e8f43f99",
+     "hash": "7b5680ad89aea646f2559e78010aba24fe777daa1cb6d3d0515a5db6c89d928b",
      "count": 334,
-     "updates": 4,
-     "last_sync": "2026-09-14T23:22:24+0000"
+     "updates": 5,
+     "last_sync": "2026-09-15T22:58:10+0000"
     },
     "套餐": {
      "note_id": "7501831815038719",
      "title": "河北联通_套餐（实时更新）",
-     "hash": "50f6b235464a2a60df22e433b0f49602f999df93aad4fe25d0ec9d7c0d43afac",
+     "hash": "477f00248f8b22373c4c276c7425e20dc42f85fae5981efa9e2d7ad36e75e83c",
      "count": 301,
-     "updates": 4,
-     "last_sync": "2026-09-14T23:22:29+0000"
+     "updates": 5,
+     "last_sync": "2026-09-15T22:58:14+0000"
     },
     "营销活动": {
      "note_id": "7501831970230963",
@@ -164,23 +164,23 @@
      "count": 3
     }
    },
-   "last_sync": "2026-09-14T23:22:14+0000",
+   "last_sync": "2026-09-15T22:58:06+0000",
    "categories": {
     "加装包": {
      "note_id": "7501831001343974",
      "title": "河北移动_加装包（实时更新）",
-     "hash": "c062d40e83cacb9d6b7c27347c2a64412eaf614980e7c31a9a80b4a729666447",
+     "hash": "65cf4fed7860ea6bb39ed49baf01f540d5c60bb66b1b8aafd1824ef7f1e4c3e7",
      "count": 675,
-     "updates": 3,
-     "last_sync": "2026-09-11T22:34:44+0000"
+     "updates": 4,
+     "last_sync": "2026-09-15T22:58:00+0000"
     },
     "套餐": {
      "note_id": "7501831081038951",
      "title": "河北移动_套餐（实时更新）",
-     "hash": "37ac50b0116d10df56190407261f1589d1cc6817b98e3952fe87eea5b28bd905",
-     "count": 418,
-     "updates": 5,
-     "last_sync": "2026-09-14T23:22:07+0000"
+     "hash": "c7fd63dcdd1360b595a4c62385362bd41703bfb905839d5add8ac2229e9a8dbf",
+     "count": 423,
+     "updates": 6,
+     "last_sync": "2026-09-15T22:58:05+0000"
     },
     "标准资费": {
      "note_id": "7501831135562993",
