@@ -1,9 +1,9 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-15T22:55:51+0000",
+ "generated_at": "2026-09-16T22:51:20+0000",
  "overall": "PASS",
  "item_count": 2220,
- "previous_count": 2215,
+ "previous_count": 2220,
  "checks": [
   {
    "check": "province_hebei",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2215 条 → 本次 2220 条（下降 -5 条 / -0%）"
+   "detail": "上次 2220 条 → 本次 2220 条（下降 0 条 / 0%）"
   }
  ],
  "category_results": [
@@ -58,14 +58,14 @@
    "label": "加装包",
    "items": 676,
    "beans": 640,
-   "total": 674,
+   "total": 673,
    "note": ""
   },
   {
    "label": "营销活动",
    "items": 1035,
    "beans": 1025,
-   "total": 1034,
+   "total": 1035,
    "note": ""
   },
   {

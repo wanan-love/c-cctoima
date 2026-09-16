@@ -1,46 +1,267 @@
 {
- "generated_at": "2026-09-15T22:57:55+0000",
- "current_count": 1701,
+ "generated_at": "2026-09-16T22:53:24+0000",
+ "current_count": 1711,
  "previous_count": 1701,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 10,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300404",
+    "name": "联通智家5G云智套餐分月送券合约399元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300405",
+    "name": "联通智家5G云智套餐分月送券合约530元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300406",
+    "name": "联通智家5G云智套餐分月送券合约552元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300407",
+    "name": "联通智家5G云智套餐分月送券合约585元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300408",
+    "name": "联通智家5G云智套餐分月送券合约331元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300409",
+    "name": "联通智家5G云智套餐分月送券合约852元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300410",
+    "name": "联通智家5G云智套餐分月送券合约750元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300411",
+    "name": "联通智家5G云智套餐分月送券合约1349元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300412",
+    "name": "联通智家5G云智套餐分月送券合约1580元36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300413",
+    "name": "联通智家5G云智套餐分月送券合约2272元36个月（河北）-次月生效",
+    "category": "套餐"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 3,
+  "count": 29,
   "items": [
    {
-    "tariff_id": "CUCC-25HE300545",
-    "name": "500M包月30元（第二条宽带）（河北）",
+    "tariff_id": "CUCC-25HE300478",
+    "name": "500M包月30元（冰激凌专享）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300482",
+    "name": "300M 包月30元（第二条宽带）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300525",
+    "name": "二宽500M包月0元（冰激凌专享）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300534",
+    "name": "300M包3年1440元（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300547",
+    "name": "500M包月10元（冰激凌专享）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300560",
+    "name": "300M包2年1100元（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300667",
+    "name": "FTTR组网256G云存储1服务5元/月36个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300669",
+    "name": "FTTR组网标准档从光猫1服务7元/月36个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300673",
+    "name": "FTTR组网标准档二次利用从光猫2调测费50元（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300674",
+    "name": "FTTR组网标准档二次利用主+从光猫1调测费100元（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300675",
+    "name": "FTTR组网标准档二次利用主+从光猫1调测费150元（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300678",
+    "name": "FTTR组网标准档二次利用主+从光猫1调测费减免（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300680",
+    "name": "FTTR组网高档从光猫3服务费10元/月有效期36个月-立即生效（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300681",
+    "name": "FTTR组网高档从光猫4服务费10元/月有效期36个月-立即生效（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300682",
+    "name": "FTTR组网中档从光猫1服务7元/月36个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300684",
+    "name": "FTTR组网中档从光猫2服务费10元/月有效期36个月-立即生效（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300685",
+    "name": "FTTR组网中档从光猫3服务费10元/月有效期36个月-立即生效（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300686",
+    "name": "FTTR组网中档从光猫4服务费10元/月有效期36个月-立即生效（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300687",
+    "name": "FTTR组网主光猫服务8元/月36个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300790",
+    "name": "300M包1年 600元（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301083",
+    "name": "FTTR组网99元-159元档产品(河北)-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301084",
+    "name": "FTTR组网199元-239元档产品(河北)-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301085",
+    "name": "FTTR组网299元及以上档产品(河北)-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301193",
+    "name": "FTTR组网299版主光猫服务10元/月长期（河北）-次月生效",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301194",
+    "name": "FTTR组网标准档从光猫1服务10元/月长期（河北）-次月生效",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300254",
+    "name": "99元联通智家5G终端套餐存1062元送1062元电子券智家版合约36个月（河北）-次月生效",
     "category": "套餐",
     "fields": [
-     "eligibility"
+     "category",
+     "subcategory"
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300192",
-    "name": "1元300分钟语音40GB流量组合包（河北）-立即生效",
-    "category": "加装包",
+    "tariff_id": "CUCC-26HE300255",
+    "name": "129元联通智家5G终端套餐存1386元送1386元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐",
     "fields": [
-     "eligibility"
+     "category",
+     "subcategory"
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300193",
-    "name": "2元500分钟语音80GB流量组合包（河北）-立即生效",
-    "category": "加装包",
+    "tariff_id": "CUCC-26HE300256",
+    "name": "169元联通智家5G终端套餐存1818元送1818元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐",
     "fields": [
-     "eligibility"
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300257",
+    "name": "199元联通智家5G终端套餐存2106元送2106元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "category",
+     "subcategory"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 1698
+  "count": 1672
  },
  "has_change": true,
  "status": "CHANGED"

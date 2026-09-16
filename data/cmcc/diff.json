@@ -1,219 +1,117 @@
 {
- "generated_at": "2026-09-15T22:57:55+0000",
+ "generated_at": "2026-09-16T22:53:24+0000",
  "current_count": 2220,
- "previous_count": 2215,
+ "previous_count": 2220,
  "added": {
-  "count": 6,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200340",
-    "name": "5G金币购机套餐合约活动198元档",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE202924",
-    "name": "创业冀享卡39档",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201200",
-    "name": "爱家光网服务-青春版-30元B档",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201201",
-    "name": "25GB通用流量套餐扩容包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201202",
-    "name": "悦享套餐39元档（权益版）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201203",
-    "name": "悦享套餐39元档（大流量版）",
-    "category": "套餐"
-   }
-  ]
- },
- "removed": {
-  "count": 1,
+  "count": 2,
   "items": [
    {
     "tariff_id": "CMCC-25HE202943",
     "name": "15GB夜间流量包1个月（AI豆）",
     "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201204",
+    "name": "10元随心选权益包_39悦享专属",
+    "category": "营销活动"
+   }
+  ]
+ },
+ "removed": {
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE200532",
+    "name": "心级服务随心看会员",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE200015",
+    "name": "咪咕快游会员36个月-冀享专属",
+    "category": "加装包"
    }
   ]
  },
  "modified": {
-  "count": 21,
+  "count": 9,
   "items": [
    {
-    "tariff_id": "CMCC-25HE202453",
-    "name": "咪咕视频会员体验次包",
-    "category": "加装包",
+    "tariff_id": "CMCC-25HE201925",
+    "name": "购机直降活动档次",
+    "category": "营销活动",
     "fields": [
      "eligibility"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203225",
-    "name": "咪咕云游潮玩包（AI豆）",
-    "category": "加装包",
-    "fields": []
+    "tariff_id": "CMCC-25HE201930",
+    "name": "30G通用流量包（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
    },
    {
-    "tariff_id": "CMCC-25HE203226",
-    "name": "咪咕视频1个月会员（AI豆）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-25HE203227",
-    "name": "视频彩铃钻石会员包（AI豆)",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-25HE203228",
-    "name": "咪咕视频特惠包（AI豆）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-26HE200603",
-    "name": "爱家伴学-智慧学习20元包",
-    "category": "套餐",
+    "tariff_id": "CMCC-25HE201931",
+    "name": "40G通用流量包（36个月）",
+    "category": "营销活动",
     "fields": [
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE200604",
-    "name": "爱家生活-爱宠伴宠20元包",
-    "category": "套餐",
+    "tariff_id": "CMCC-25HE202732",
+    "name": "购机直降活动档次_社会渠道",
+    "category": "营销活动",
     "fields": [
-     "description"
+     "eligibility"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE200606",
-    "name": "爱家生活-爱宠寻宠15元包",
-    "category": "套餐",
+    "tariff_id": "CMCC-26HE201075",
+    "name": "校园入网预存200元",
+    "category": "营销活动",
     "fields": [
-     "description"
+     "price"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE200617",
-    "name": "爱家伴学-远程伴学15元包",
-    "category": "套餐",
+    "tariff_id": "CMCC-26HE201077",
+    "name": "校园入网预存50元",
+    "category": "营销活动",
     "fields": [
-     "description"
+     "price"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE200636",
-    "name": "爱家健康-银发健康20元包",
-    "category": "套餐",
+    "tariff_id": "CMCC-26HE201078",
+    "name": "校园入网预存100元",
+    "category": "营销活动",
     "fields": [
-     "description"
+     "price"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE200637",
-    "name": "爱家健康-银发健康5元包",
+    "tariff_id": "CMCC-26HE201202",
+    "name": "悦享套餐39元档（权益版）",
     "category": "套餐",
     "fields": [
-     "description"
+     "validity"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE200638",
-    "name": "爱家健康-银发运动15元包",
+    "tariff_id": "CMCC-26HE201203",
+    "name": "悦享套餐39元档（大流量版）",
     "category": "套餐",
     "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200639",
-    "name": "爱家健康-银发健康50元包",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200640",
-    "name": "爱家健康-银发健康10元包",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200641",
-    "name": "爱家健康-银发健康30元包",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200642",
-    "name": "爱家生活-智能照明10元包",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200643",
-    "name": "爱家生活-美食烹饪20元包",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200644",
-    "name": "爱家生活-智能出入50元包",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200645",
-    "name": "爱家生活-用电守护5元包",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200646",
-    "name": "爱家生活-口腔清洁15元包",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200647",
-    "name": "爱家生活-智能厨电30元包",
-    "category": "套餐",
-    "fields": [
-     "description"
+     "validity"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2193
+  "count": 2209
  },
  "has_change": true,
  "status": "CHANGED"
