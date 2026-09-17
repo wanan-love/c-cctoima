@@ -1,9 +1,9 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-16T22:31:58+0000",
+ "generated_at": "2026-09-17T22:35:13+0000",
  "overall": "PASS",
- "item_count": 1711,
- "previous_count": 1701,
+ "item_count": 1712,
+ "previous_count": 1711,
  "checks": [
   {
    "check": "province_hebei",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1711 条；name 覆盖 1711/1711，details 覆盖 1711/1711（阈值 0.95）"
+   "detail": "1712 条；name 覆盖 1712/1712，details 覆盖 1712/1712（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1701 条 → 本次 1711 条（下降 -10 条 / -1%）"
+   "detail": "上次 1711 条 → 本次 1712 条（下降 -1 条 / -0%）"
   }
  ],
  "category_results": [
@@ -97,14 +97,14 @@
   },
   {
    "category": "加装包>新业务",
-   "expected": 136,
-   "collected": 136,
+   "expected": 118,
+   "collected": 118,
    "error": ""
   },
   {
    "category": "加装包>其他",
-   "expected": 63,
-   "collected": 63,
+   "expected": 64,
+   "collected": 64,
    "error": ""
   },
   {
@@ -157,8 +157,8 @@
   },
   {
    "category": "停售套餐>加装包",
-   "expected": 274,
-   "collected": 274,
+   "expected": 292,
+   "collected": 292,
    "error": ""
   },
   {

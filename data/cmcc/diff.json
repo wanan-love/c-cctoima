@@ -1,117 +1,33 @@
 {
- "generated_at": "2026-09-16T22:53:24+0000",
+ "generated_at": "2026-09-17T22:56:11+0000",
  "current_count": 2220,
  "previous_count": 2220,
  "added": {
-  "count": 2,
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE201205",
+    "name": "2元5GA视频业务保障月包",
+    "category": "加装包"
+   }
+  ]
+ },
+ "removed": {
+  "count": 1,
   "items": [
    {
     "tariff_id": "CMCC-25HE202943",
     "name": "15GB夜间流量包1个月（AI豆）",
     "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201204",
-    "name": "10元随心选权益包_39悦享专属",
-    "category": "营销活动"
-   }
-  ]
- },
- "removed": {
-  "count": 2,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE200532",
-    "name": "心级服务随心看会员",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200015",
-    "name": "咪咕快游会员36个月-冀享专属",
-    "category": "加装包"
    }
   ]
  },
  "modified": {
-  "count": 9,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE201925",
-    "name": "购机直降活动档次",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE201930",
-    "name": "30G通用流量包（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE201931",
-    "name": "40G通用流量包（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE202732",
-    "name": "购机直降活动档次_社会渠道",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201075",
-    "name": "校园入网预存200元",
-    "category": "营销活动",
-    "fields": [
-     "price"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201077",
-    "name": "校园入网预存50元",
-    "category": "营销活动",
-    "fields": [
-     "price"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201078",
-    "name": "校园入网预存100元",
-    "category": "营销活动",
-    "fields": [
-     "price"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201202",
-    "name": "悦享套餐39元档（权益版）",
-    "category": "套餐",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201203",
-    "name": "悦享套餐39元档（大流量版）",
-    "category": "套餐",
-    "fields": [
-     "validity"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2209
+  "count": 2219
  },
  "has_change": true,
  "status": "CHANGED"

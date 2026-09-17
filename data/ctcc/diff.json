@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T22:53:24+0000",
+ "generated_at": "2026-09-17T22:56:11+0000",
  "current_count": 886,
  "previous_count": 886,
  "added": {
@@ -11,12 +11,29 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100230",
+    "name": "魔方宽带1000M",
+    "category": "套餐",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100231",
+    "name": "魔方宽带300M",
+    "category": "套餐",
+    "fields": [
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 886
+  "count": 884
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
