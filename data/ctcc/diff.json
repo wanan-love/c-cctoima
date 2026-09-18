@@ -1,38 +1,62 @@
 {
- "generated_at": "2026-09-17T22:56:11+0000",
- "current_count": 886,
+ "generated_at": "2026-09-18T22:24:07+0000",
+ "current_count": 878,
  "previous_count": 886,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 0,
-  "items": []
- },
- "modified": {
-  "count": 2,
+  "count": 8,
   "items": [
    {
-    "tariff_id": "CTCC-26HE100230",
-    "name": "魔方宽带1000M",
-    "category": "套餐",
-    "fields": [
-     "eligibility"
-    ]
+    "tariff_id": "CTCC-26HE100005",
+    "name": "客户回馈10元2个月-转兑（202110）",
+    "category": "营销活动"
    },
    {
-    "tariff_id": "CTCC-26HE100231",
-    "name": "魔方宽带300M",
-    "category": "套餐",
-    "fields": [
-     "eligibility"
-    ]
+    "tariff_id": "CTCC-26HE100006",
+    "name": "客户回馈20元2个月-转兑（202110）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100008",
+    "name": "客户回馈5元3个月-转兑（202103）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100010",
+    "name": "客户回馈10元6个月-转兑（202103）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100018",
+    "name": "宽带客户回馈10元（202103）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100019",
+    "name": "宽带客户回馈20元（202103）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100115",
+    "name": "客户回馈10元12个月-转兑（202103）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100206",
+    "name": "客户回馈5元12个月-转兑（202103）",
+    "category": "营销活动"
    }
   ]
  },
+ "modified": {
+  "count": 0,
+  "items": []
+ },
  "unchanged": {
-  "count": 884
+  "count": 878
  },
  "has_change": true,
  "status": "CHANGED"

@@ -1,8 +1,8 @@
 {
  "operator": "ctcc",
- "generated_at": "2026-09-17T22:30:53+0000",
+ "generated_at": "2026-09-18T22:00:13+0000",
  "overall": "PASS",
- "item_count": 886,
+ "item_count": 878,
  "previous_count": 886,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "886 条；name 覆盖 886/886，details 覆盖 886/886（阈值 0.95）"
+   "detail": "878 条；name 覆盖 878/878，details 覆盖 878/878（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 886 条 → 本次 886 条（下降 0 条 / 0%）"
+   "detail": "上次 886 条 → 本次 878 条（下降 8 条 / 1%）"
   }
  ],
  "category_results": [
@@ -61,8 +61,8 @@
   },
   {
    "category": "营销活动",
-   "expected": 319,
-   "collected": 319,
+   "expected": 311,
+   "collected": 311,
    "error": ""
   },
   {

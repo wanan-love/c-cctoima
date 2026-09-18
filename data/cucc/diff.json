@@ -1,190 +1,34 @@
 {
- "generated_at": "2026-09-17T22:56:11+0000",
+ "generated_at": "2026-09-18T22:24:07+0000",
  "current_count": 1712,
- "previous_count": 1711,
+ "previous_count": 1712,
  "added": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CUCC-26HE300414",
-    "name": "畅越优选差旅权益包20元赠费包(河北)-立即生效",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 18,
+  "count": 2,
   "items": [
    {
-    "tariff_id": "CUCC-25HE300667",
-    "name": "FTTR组网256G云存储1服务5元/月36个月（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
+    "tariff_id": "CUCC-26HE300192",
+    "name": "1元300分钟语音40GB流量组合包（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
    },
    {
-    "tariff_id": "CUCC-25HE300669",
-    "name": "FTTR组网标准档从光猫1服务7元/月36个月（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300673",
-    "name": "FTTR组网标准档二次利用从光猫2调测费50元（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300674",
-    "name": "FTTR组网标准档二次利用主+从光猫1调测费100元（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300675",
-    "name": "FTTR组网标准档二次利用主+从光猫1调测费150元（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300678",
-    "name": "FTTR组网标准档二次利用主+从光猫1调测费减免（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300680",
-    "name": "FTTR组网高档从光猫3服务费10元/月有效期36个月-立即生效（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300681",
-    "name": "FTTR组网高档从光猫4服务费10元/月有效期36个月-立即生效（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300682",
-    "name": "FTTR组网中档从光猫1服务7元/月36个月（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300684",
-    "name": "FTTR组网中档从光猫2服务费10元/月有效期36个月-立即生效（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300685",
-    "name": "FTTR组网中档从光猫3服务费10元/月有效期36个月-立即生效（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300686",
-    "name": "FTTR组网中档从光猫4服务费10元/月有效期36个月-立即生效（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300687",
-    "name": "FTTR组网主光猫服务8元/月36个月（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301083",
-    "name": "FTTR组网99元-159元档产品(河北)-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301084",
-    "name": "FTTR组网199元-239元档产品(河北)-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301085",
-    "name": "FTTR组网299元及以上档产品(河北)-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301193",
-    "name": "FTTR组网299版主光猫服务10元/月长期（河北）-次月生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE301194",
-    "name": "FTTR组网标准档从光猫1服务10元/月长期（河北）-次月生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
+    "tariff_id": "CUCC-26HE300193",
+    "name": "2元500分钟语音80GB流量组合包（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
    }
   ]
  },
  "unchanged": {
-  "count": 1693
+  "count": 1710
  },
  "has_change": true,
  "status": "CHANGED"
