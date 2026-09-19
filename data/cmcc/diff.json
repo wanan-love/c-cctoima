@@ -1,123 +1,22 @@
 {
- "generated_at": "2026-09-18T22:24:07+0000",
+ "generated_at": "2026-09-19T22:17:16+0000",
  "current_count": 2235,
- "previous_count": 2220,
+ "previous_count": 2235,
  "added": {
-  "count": 15,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200106",
-    "name": "3元短彩信消息包（2022版）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-24HE200107",
-    "name": "5元短彩信消息包（2022版）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200532",
-    "name": "心级服务随心看会员",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE202555",
-    "name": "金牌回馈24个月-专属流量扩容包30GB全国通用流量（不含港澳台地区）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200043",
-    "name": "全家享20G通用流量包2026版（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200300",
-    "name": "50元返费优惠2026版（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200341",
-    "name": "80元返费优惠2026版（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200343",
-    "name": "60元返费优惠2026版（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201206",
-    "name": "雾影猎人游戏豪华版CDKEY专享版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201207",
-    "name": "2026移动看家室内安防优享升级版—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201208",
-    "name": "2026移动看家室外安防基础版—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201209",
-    "name": "2026移动看家室外安防升级版—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201210",
-    "name": "2026移动看家室内安防基础版—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201211",
-    "name": "2026移动看家室内安防升级版—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201212",
-    "name": "移动优选PLUS会员5元月包（36个月-新机）",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 3,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200028",
-    "name": "动感地带萌卡",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200353",
-    "name": "健康服务轻享版（24个月）-新",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200675",
-    "name": "台灯伴学服务（36个月）预存100-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2217
+  "count": 2235
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

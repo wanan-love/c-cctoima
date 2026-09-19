@@ -1,55 +1,14 @@
 {
- "generated_at": "2026-09-18T22:24:07+0000",
+ "generated_at": "2026-09-19T22:17:17+0000",
  "current_count": 878,
- "previous_count": 886,
+ "previous_count": 878,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 8,
-  "items": [
-   {
-    "tariff_id": "CTCC-26HE100005",
-    "name": "客户回馈10元2个月-转兑（202110）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-26HE100006",
-    "name": "客户回馈20元2个月-转兑（202110）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-26HE100008",
-    "name": "客户回馈5元3个月-转兑（202103）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-26HE100010",
-    "name": "客户回馈10元6个月-转兑（202103）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-26HE100018",
-    "name": "宽带客户回馈10元（202103）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-26HE100019",
-    "name": "宽带客户回馈20元（202103）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-26HE100115",
-    "name": "客户回馈10元12个月-转兑（202103）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-26HE100206",
-    "name": "客户回馈5元12个月-转兑（202103）",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
   "count": 0,
@@ -58,6 +17,6 @@
  "unchanged": {
   "count": 878
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

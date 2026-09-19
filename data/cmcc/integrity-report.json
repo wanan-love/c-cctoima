@@ -1,9 +1,9 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-18T22:22:07+0000",
+ "generated_at": "2026-09-19T22:15:17+0000",
  "overall": "PASS",
  "item_count": 2235,
- "previous_count": 2220,
+ "previous_count": 2235,
  "checks": [
   {
    "check": "province_hebei",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2220 条 → 本次 2235 条（下降 -15 条 / -1%）"
+   "detail": "上次 2235 条 → 本次 2235 条（下降 0 条 / 0%）"
   }
  ],
  "category_results": [

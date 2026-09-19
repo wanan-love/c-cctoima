@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T22:24:07+0000",
+ "generated_at": "2026-09-19T22:17:17+0000",
  "current_count": 1712,
  "previous_count": 1712,
  "added": {
@@ -11,25 +11,12 @@
   "items": []
  },
  "modified": {
-  "count": 2,
-  "items": [
-   {
-    "tariff_id": "CUCC-26HE300192",
-    "name": "1元300分钟语音40GB流量组合包（河北）-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-26HE300193",
-    "name": "2元500分钟语音80GB流量组合包（河北）-立即生效",
-    "category": "加装包",
-    "fields": []
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 1710
+  "count": 1712
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
