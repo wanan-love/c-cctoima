@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T22:17:17+0000",
+ "generated_at": "2026-09-20T22:25:01+0000",
  "current_count": 1712,
  "previous_count": 1712,
  "added": {
@@ -11,12 +11,129 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 13,
+  "items": [
+   {
+    "tariff_id": "CUCC-25HE300484",
+    "name": "500M包1年720元（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300535",
+    "name": "500M包月0元（冰激凌专享）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300049",
+    "name": "联通智家云智版10元月包金融分期购机合约优惠292元有效期36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300050",
+    "name": "联通智家云智版20元月包金融分期购机合约优惠585元有效期36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300051",
+    "name": "联通智家云智版30元月包金融分期购机合约优惠878元有效期36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300052",
+    "name": "联通智家云智版40元月包金融分期购机合约优惠1170元有效期36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300053",
+    "name": "联通智家云智版50元月包金融分期购机合约优惠1463元有效期36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300113",
+    "name": "99元联通智家5G终端套餐金融分期合约购机优惠S版1434元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300114",
+    "name": "129元联通智家5G终端套餐金融分期合约购机优惠S版1873元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300115",
+    "name": "169元联通智家5G终端套餐金融分期合约购机优惠S版2458元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300116",
+    "name": "199元联通智家5G终端套餐金融分期合约购机优惠S版2897元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300117",
+    "name": "239元联通智家5G终端套餐金融分期合约购机优惠S版3482元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300118",
+    "name": "299元联通智家5G终端套餐金融分期合约购机优惠S版4361元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 1712
+  "count": 1699
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
