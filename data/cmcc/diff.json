@@ -1,78 +1,22 @@
 {
- "generated_at": "2026-09-20T22:25:01+0000",
+ "generated_at": "2026-09-21T23:25:41+0000",
  "current_count": 2240,
- "previous_count": 2235,
+ "previous_count": 2240,
  "added": {
-  "count": 7,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE202943",
-    "name": "15GB夜间流量包1个月（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201213",
-    "name": "AI灵犀屏智享包装维版-安防",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201214",
-    "name": "防诈宝个人版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201215",
-    "name": "医保保（60岁以下）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201216",
-    "name": "医保保（60岁及以上）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201217",
-    "name": "防诈宝家庭版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201218",
-    "name": "存100元分月返（2026）",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 2,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200340",
-    "name": "5G金币购机套餐合约活动198元档",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE202555",
-    "name": "金牌回馈24个月-专属流量扩容包30GB全国通用流量（不含港澳台地区）",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CMCC-26HE201062",
-    "name": "关闭自动续订续费外呼提醒服务",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2232
+  "count": 2240
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

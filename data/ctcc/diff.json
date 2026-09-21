@@ -1,22 +1,262 @@
 {
- "generated_at": "2026-09-20T22:25:01+0000",
- "current_count": 878,
+ "generated_at": "2026-09-21T23:25:41+0000",
+ "current_count": 884,
  "previous_count": 878,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 6,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100233",
+    "name": "电视会员包季（55元）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100234",
+    "name": "促销-电视会员包年（189元）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100235",
+    "name": "促销-电视会员包年（169元）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100236",
+    "name": "电视会员连续包月20元",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100237",
+    "name": "促销-电视会员包季（49元）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100238",
+    "name": "电视会员包年（209元）",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 26,
+  "items": [
+   {
+    "tariff_id": "CTCC-25HE100117",
+    "name": "促销-共享流量包35G",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100194",
+    "name": "促销-共享流量包40G",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100196",
+    "name": "促销-共享流量包60G",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100389",
+    "name": "天翼高清（纯享版）-20元/月",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100125",
+    "name": "客户回馈-宽带补贴5元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100126",
+    "name": "客户回馈-宽带补贴20元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100127",
+    "name": "客户回馈-话费补贴20元（3个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100128",
+    "name": "客户回馈-话费补贴20元（2个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100129",
+    "name": "客户回馈-话费补贴10元（1个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100130",
+    "name": "客户回馈-话费补贴20元（1个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100131",
+    "name": "客户回馈-话费补贴5元（3个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100132",
+    "name": "客户回馈-话费补贴5元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100133",
+    "name": "客户回馈-话费补贴10元（3个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100134",
+    "name": "客户回馈-话费补贴10元（2个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100135",
+    "name": "客户回馈-话费补贴20元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100136",
+    "name": "客户回馈-话费补贴10元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100137",
+    "name": "客户回馈-宽带补贴10元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100138",
+    "name": "客户回馈-语音100分钟（1个月）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100139",
+    "name": "客户回馈-语音100分钟（6个月）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100140",
+    "name": "客户回馈-全国语音200分钟（6个月）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100141",
+    "name": "客户回馈-共享流量包20GB（6个月）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100142",
+    "name": "客户回馈-共享流量包10GB（6个月）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100143",
+    "name": "客户回馈-共享流量包10GB（31日）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100144",
+    "name": "客户回馈-共享流量包20GB（31日）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100145",
+    "name": "客户回馈-共享流量包10GB（3个月）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100146",
+    "name": "客户回馈-共享流量包20GB（3个月）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 878
+  "count": 852
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
