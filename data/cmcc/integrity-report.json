@@ -1,8 +1,8 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-21T23:23:38+0000",
+ "generated_at": "2026-09-22T22:55:49+0000",
  "overall": "PASS",
- "item_count": 2240,
+ "item_count": 2246,
  "previous_count": 2240,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2240 条；name 覆盖 2240/2240，details 覆盖 2240/2240（阈值 0.95）"
+   "detail": "2246 条；name 覆盖 2246/2246，details 覆盖 2246/2246（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,29 +43,29 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2240 条 → 本次 2240 条（下降 0 条 / 0%）"
+   "detail": "上次 2240 条 → 本次 2246 条（下降 -6 条 / -0%）"
   }
  ],
  "category_results": [
   {
    "label": "套餐",
-   "items": 428,
-   "beans": 335,
-   "total": 425,
+   "items": 438,
+   "beans": 345,
+   "total": 433,
    "note": ""
   },
   {
    "label": "加装包",
-   "items": 686,
-   "beans": 650,
-   "total": 683,
+   "items": 683,
+   "beans": 670,
+   "total": 682,
    "note": ""
   },
   {
    "label": "营销活动",
    "items": 1040,
    "beans": 1030,
-   "total": 1039,
+   "total": 1038,
    "note": ""
   },
   {
@@ -77,9 +77,9 @@
   },
   {
    "label": "标准资费",
-   "items": 86,
-   "beans": 86,
-   "total": 86,
+   "items": 85,
+   "beans": 85,
+   "total": 85,
    "note": ""
   }
  ],

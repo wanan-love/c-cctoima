@@ -1,261 +1,318 @@
 {
- "generated_at": "2026-09-21T23:25:41+0000",
+ "generated_at": "2026-09-22T22:57:56+0000",
  "current_count": 884,
- "previous_count": 878,
+ "previous_count": 884,
  "added": {
-  "count": 6,
-  "items": [
-   {
-    "tariff_id": "CTCC-26HE100233",
-    "name": "电视会员包季（55元）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100234",
-    "name": "促销-电视会员包年（189元）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100235",
-    "name": "促销-电视会员包年（169元）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100236",
-    "name": "电视会员连续包月20元",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100237",
-    "name": "促销-电视会员包季（49元）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100238",
-    "name": "电视会员包年（209元）",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 26,
+  "count": 37,
   "items": [
    {
-    "tariff_id": "CTCC-25HE100117",
-    "name": "促销-共享流量包35G",
+    "tariff_id": "CTCC-26HE100154",
+    "name": "视频级联服务",
     "category": "加装包",
     "fields": [
-     "validity"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-25HE100194",
-    "name": "促销-共享流量包40G",
+    "tariff_id": "CTCC-26HE100155",
+    "name": "天翼视联1天事件云回看月包",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-25HE100196",
-    "name": "促销-共享流量包60G",
+    "tariff_id": "CTCC-26HE100156",
+    "name": "天翼视联7天事件云回看月包",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-25HE100389",
-    "name": "天翼高清（纯享版）-20元/月",
+    "tariff_id": "CTCC-26HE100158",
+    "name": "天翼视联7天全天云回看月包",
     "category": "加装包",
     "fields": [
-     "validity"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100125",
-    "name": "客户回馈-宽带补贴5元（12个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100126",
-    "name": "客户回馈-宽带补贴20元（12个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100127",
-    "name": "客户回馈-话费补贴20元（3个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100128",
-    "name": "客户回馈-话费补贴20元（2个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100129",
-    "name": "客户回馈-话费补贴10元（1个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100130",
-    "name": "客户回馈-话费补贴20元（1个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100131",
-    "name": "客户回馈-话费补贴5元（3个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100132",
-    "name": "客户回馈-话费补贴5元（6个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100133",
-    "name": "客户回馈-话费补贴10元（3个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100134",
-    "name": "客户回馈-话费补贴10元（2个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100135",
-    "name": "客户回馈-话费补贴20元（6个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100136",
-    "name": "客户回馈-话费补贴10元（6个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100137",
-    "name": "客户回馈-宽带补贴10元（12个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100138",
-    "name": "客户回馈-语音100分钟（1个月）",
+    "tariff_id": "CTCC-26HE100159",
+    "name": "30天抓拍图片云存储月包",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100139",
-    "name": "客户回馈-语音100分钟（6个月）",
+    "tariff_id": "CTCC-26HE100160",
+    "name": "入侵检测",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100140",
-    "name": "客户回馈-全国语音200分钟（6个月）",
+    "tariff_id": "CTCC-26HE100161",
+    "name": "设备异常巡检",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100141",
-    "name": "客户回馈-共享流量包20GB（6个月）",
+    "tariff_id": "CTCC-26HE100162",
+    "name": "时光缩影",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100142",
-    "name": "客户回馈-共享流量包10GB（6个月）",
+    "tariff_id": "CTCC-26HE100164",
+    "name": "看店宝",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100143",
-    "name": "客户回馈-共享流量包10GB（31日）",
+    "tariff_id": "CTCC-26HE100166",
+    "name": "智能播报",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100144",
-    "name": "客户回馈-共享流量包20GB（31日）",
+    "tariff_id": "CTCC-26HE100168",
+    "name": "智慧监管(明厨亮灶)应用月包",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100145",
-    "name": "客户回馈-共享流量包10GB（3个月）",
+    "tariff_id": "CTCC-26HE100169",
+    "name": "平安慧眼行业应用月包",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100146",
-    "name": "客户回馈-共享流量包20GB（3个月）",
+    "tariff_id": "CTCC-26HE100173",
+    "name": "消防预警行业应用月包",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100175",
+    "name": "视频纳管服务",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100176",
+    "name": "天翼视联3天事件云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100177",
+    "name": "天翼视联15天事件云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100178",
+    "name": "天翼视联30天事件云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100179",
+    "name": "天翼视联90天事件云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100180",
+    "name": "天翼视联15天全天云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100181",
+    "name": "天翼视联30天全天云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100182",
+    "name": "天翼视联90天全天云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100183",
+    "name": "天翼视联7天全天高清云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100184",
+    "name": "天翼视联30天全天高清云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100185",
+    "name": "天翼视联30天全天超清云回看月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100186",
+    "name": "天翼视联图文短信100条月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100187",
+    "name": "天翼视联语音100条月包",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100188",
+    "name": "人员识别与行为分析",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100189",
+    "name": "车辆识别与行为分析",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100190",
+    "name": "客流统计",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100191",
+    "name": "火情识别",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100192",
+    "name": "口罩识别",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100193",
+    "name": "电动车识别",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100194",
+    "name": "抽烟识别",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100195",
+    "name": "戴帽识别",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100196",
+    "name": "手机识别",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100197",
+    "name": "衣着识别",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100198",
+    "name": "垃圾治理",
+    "category": "加装包",
+    "fields": [
+     "price"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 852
+  "count": 847
  },
  "has_change": true,
  "status": "CHANGED"

@@ -1,28 +1,112 @@
 {
- "generated_at": "2026-09-21T23:25:41+0000",
- "current_count": 1712,
+ "generated_at": "2026-09-22T22:57:56+0000",
+ "current_count": 1716,
  "previous_count": 1712,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300417",
+    "name": "FTTR调测费799元一次性",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CUCC-26HE300418",
+    "name": "0元3000M宽带（河北）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300419",
+    "name": "联通智家5G视联网双端产品39元档（河北）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-26HE300420",
+    "name": "联通智家5G视联网双端产品50元档（河北）",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 1,
+  "count": 10,
   "items": [
    {
-    "tariff_id": "CUCC-26HE300182",
-    "name": "联通5G智享专属100分钟国内通用语音包有效期36个月（河北）-立即生效",
-    "category": "加装包",
+    "tariff_id": "CUCC-25HE300508",
+    "name": "200M包月80元（河北）",
+    "category": "套餐",
     "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300559",
+    "name": "河北宽带2000M包月（跨域融合）0元/月（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300708",
+    "name": "畅越优选流量10元赠费包3个月（河北）-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300792",
+    "name": "500M 包月80元（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300093",
+    "name": "校园0元宽带(200M)[河北]",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300096",
+    "name": "校园WIFI宽带(200M)【河北】",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300099",
+    "name": "唐山学院200M宽带（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300100",
+    "name": "唐山师范学院200M宽带（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300404",
+    "name": "联通智家5G云智套餐分月送券合约399元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300410",
+    "name": "联通智家5G云智套餐分月送券合约750元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
    }
   ]
  },
  "unchanged": {
-  "count": 1711
+  "count": 1702
  },
  "has_change": true,
  "status": "CHANGED"
