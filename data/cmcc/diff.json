@@ -1,313 +1,657 @@
 {
- "generated_at": "2026-09-22T22:57:56+0000",
- "current_count": 2246,
- "previous_count": 2240,
+ "generated_at": "2026-09-23T22:58:18+0000",
+ "current_count": 2237,
+ "previous_count": 2246,
  "added": {
-  "count": 32,
+  "count": 57,
   "items": [
    {
-    "tariff_id": "CMCC-24HE200340",
-    "name": "5G金币购机套餐合约活动198元档",
+    "tariff_id": "CMCC-24HE200021",
+    "name": "和家庭计划0元套餐(5G)",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE200563",
-    "name": "智能组网尊享服务（分月版新）-后",
+    "tariff_id": "CMCC-24HE200698",
+    "name": "游戏加速融合服务",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE202555",
-    "name": "金牌回馈24个月-专属流量扩容包30GB全国通用流量（不含港澳台地区）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE202883",
-    "name": "承德家庭财产保障服务40元档次-2年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202884",
-    "name": "承德家庭财产保障服务20元档次-2年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202885",
-    "name": "承德家庭财产保障服务20元档次-3年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202886",
-    "name": "承德家庭财产保障服务20元档次-1年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202887",
-    "name": "承德家庭财产保障服务40元档次-3年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202931",
-    "name": "2G流量日包（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202933",
-    "name": "15GB抖音流量包1个月（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202936",
-    "name": "15GB夜间流量包2个月（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202937",
-    "name": "15GB快手流量包2个月（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202938",
-    "name": "5G流量周包（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202941",
-    "name": "2G流量周包（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202948",
-    "name": "1G流量包1个月（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202949",
-    "name": "1G流量日包（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202950",
-    "name": "15GB快手流量包3个月（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202952",
-    "name": "1G流量周包（AI豆）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200031",
-    "name": "20元300分钟通话周包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200032",
-    "name": "30元15GB提速服务流量月包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200033",
-    "name": "20元10GB提速服务流量月包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200034",
-    "name": "120元1200分钟通话年包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200035",
-    "name": "10元100分钟通话周包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200036",
-    "name": "60元600分钟通话半年包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201220",
-    "name": "2026移动看家室内安防升级版",
+    "tariff_id": "CMCC-24HE201101",
+    "name": "移动看家服务AI基础版（室内安防）",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201221",
-    "name": "2026移动看家服务室外双目装维版",
+    "tariff_id": "CMCC-25HE200097",
+    "name": "爱家光网单从光猫（预存版）",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201222",
-    "name": "2026移动看家服务室外双目优享社会版",
+    "tariff_id": "CMCC-25HE200099",
+    "name": "爱家光网单从光猫（分月版）",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201223",
-    "name": "2026移动看家室内安防基础版",
+    "tariff_id": "CMCC-25HE200206",
+    "name": "智能组网尊享服务（预存版）-后",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201224",
-    "name": "2026移动看家室外安防升级版",
+    "tariff_id": "CMCC-25HE200207",
+    "name": "智能组网服务（预存版）-前",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201225",
-    "name": "2026移动看家室内安防优享升级版",
+    "tariff_id": "CMCC-25HE200209",
+    "name": "智能组网服务设备版（预存版）",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201226",
-    "name": "2026移动看家服务室外优享社会版",
+    "tariff_id": "CMCC-25HE200210",
+    "name": "智能组网服务（预存版）-后",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201227",
-    "name": "2026移动看家室外安防基础版",
+    "tariff_id": "CMCC-25HE200211",
+    "name": "智能组网尊享服务（预存版）-前",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200255",
+    "name": "台灯伴学服务（24个月）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200504",
+    "name": "中屏服务基础版（千兆提速）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200505",
+    "name": "中屏服务升级版（千兆提速）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200506",
+    "name": "中屏服务基础版（千兆提速）-连续包月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200507",
+    "name": "中屏服务升级版（千兆提速）-连续包月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200508",
+    "name": "爱家音箱10寸版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200531",
+    "name": "健康服务尊享版（36个月）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200540",
+    "name": "台灯伴学服务（36个月）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200559",
+    "name": "智能组网尊享服务（分月版新）-前",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200561",
+    "name": "智能组网服务（分月版新）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200564",
+    "name": "智能组网服务设备版（分月版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE200565",
+    "name": "智能组网服务（分月版新）-前",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE201033",
+    "name": "中屏服务（普通版）-连续包月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE201034",
+    "name": "中屏服务（投屏版）-连续包月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE201132",
+    "name": "2025移动看家服务AI可选包基础版（室内安防装维版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE201133",
+    "name": "2025移动看家服务AI可选包基础版（室内安防装维版）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE201968",
+    "name": "智能组网服务设备版（中国移动APP专属）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202283",
+    "name": "爱家光网服务惠享版1500M（赠费）-划拨版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202284",
+    "name": "爱家光网服务惠享版1000M（赠费）-划拨版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202286",
+    "name": "爱家光网服务悦享版1500M（赠费）-划拨版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202290",
+    "name": "爱家光网服务悦享版2000M（赠费）-划拨版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202291",
+    "name": "爱家光网服务尊享版2000M（赠费）-划拨版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202295",
+    "name": "爱家光网服务悦享版2000M（赠费）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202296",
+    "name": "爱家光网服务尊享版2000M（赠费）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202297",
+    "name": "爱家光网服务悦享版1500M（赠费）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202298",
+    "name": "爱家光网服务惠享版1000M（赠费）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202299",
+    "name": "爱家光网服务惠享版1500M（赠费）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202330",
+    "name": "健康服务轻享版-预存240元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202333",
+    "name": "台灯伴学服务（240元）-预存版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202383",
+    "name": "2024儿童成长合约包（24个月）10元档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202385",
+    "name": "2024儿童成长合约包（24个月）预存版10元档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202562",
+    "name": "康养遥控器（IPTV版）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202830",
+    "name": "机顶盒安装服务-12个月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202831",
+    "name": "机顶盒安装服务-24个月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202874",
+    "name": "智能组网标准服务装维版（分月版）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202875",
+    "name": "智能组网优享服务装维版（分月版）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202919",
+    "name": "廊坊智能组网服务（分月版新）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE202920",
+    "name": "廊坊智能组网服务（分月版新）-前",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203244",
+    "name": "悦享套餐49元档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203245",
+    "name": "悦享套餐39元档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203336",
+    "name": "全家享全国版套餐129档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203354",
+    "name": "新版0预存5G金币购机合约活动（DB）79元档（36个月）-社会渠道-直降540元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203366",
+    "name": "移动看家服务AI可选包升级版（室外安防枪机装维版）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203367",
+    "name": "移动看家服务AI可选包升级版（室内安防带屏装维版）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203368",
+    "name": "移动看家服务AI可选包升级版（室外安防球机装维版）-后",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE200008",
+    "name": "0预存5G金币购机合约活动79元档（36个月）-社会渠道-直降720元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE200040",
+    "name": "机顶盒安装服务200元-划拨版",
     "category": "套餐"
    }
   ]
  },
  "removed": {
-  "count": 26,
+  "count": 66,
   "items": [
    {
-    "tariff_id": "CMCC-26HE200564",
-    "name": "14元15G3天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200363",
+    "name": "12期20元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200565",
-    "name": "8元5G1天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200364",
+    "name": "12期30元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200566",
-    "name": "10元10G1天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200366",
+    "name": "12期50元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200567",
-    "name": "12元15G1天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200367",
+    "name": "12期60元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200568",
-    "name": "17元15G5天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200368",
+    "name": "12期70元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200569",
-    "name": "9元5G3天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200369",
+    "name": "12期80元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200570",
-    "name": "20元15G7天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200370",
+    "name": "12期90元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200571",
-    "name": "10元5G5天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200372",
+    "name": "10元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200572",
-    "name": "11元5G7天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200373",
+    "name": "20元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200573",
-    "name": "12元10G3天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200374",
+    "name": "30元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200574",
-    "name": "14元10G5天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200375",
+    "name": "40元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200575",
-    "name": "15元10G7天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200376",
+    "name": "50元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200576",
-    "name": "5元5G5天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200377",
+    "name": "60元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200577",
-    "name": "12元15G5天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200378",
+    "name": "70元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200578",
-    "name": "15元15G7天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200379",
+    "name": "80元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200579",
-    "name": "4元5G3天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200382",
+    "name": "36期10元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200580",
-    "name": "7元15G1天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200383",
+    "name": "36期20元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200581",
-    "name": "6元5G7天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200384",
+    "name": "36期30元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200582",
-    "name": "9元10G5天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200385",
+    "name": "36期40元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200583",
-    "name": "9元15G3天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200386",
+    "name": "36期50元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200584",
-    "name": "5元10G1天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200387",
+    "name": "36期60元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200585",
-    "name": "7元10G3天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200388",
+    "name": "36期70元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200586",
-    "name": "10元10G7天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200389",
+    "name": "36期80元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200587",
-    "name": "3元5G1天包",
-    "category": "加装包"
+    "tariff_id": "CMCC-24HE200390",
+    "name": "36期90元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200588",
-    "name": "10GPON光猫安装服务（全球通专享千兆回馈）",
-    "category": "营销活动"
+    "tariff_id": "CMCC-24HE200391",
+    "name": "36期100元档分期包",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200589",
-    "name": "河北移动1000M家庭融合宽带（全球通专享千兆回馈）",
-    "category": "标准资费"
+    "tariff_id": "CMCC-24HE200392",
+    "name": "36期200元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200393",
+    "name": "36期300元档分期包-社会渠道",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200474",
+    "name": "10元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200475",
+    "name": "20元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200476",
+    "name": "30元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200477",
+    "name": "40元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200478",
+    "name": "50元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200479",
+    "name": "60元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200480",
+    "name": "70元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200481",
+    "name": "80元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200482",
+    "name": "90元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200484",
+    "name": "10元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200486",
+    "name": "30元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200489",
+    "name": "60元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200495",
+    "name": "36期300元档分期包-自有渠道",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200496",
+    "name": "10元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200499",
+    "name": "40元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200500",
+    "name": "50元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200501",
+    "name": "60元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200502",
+    "name": "70元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200503",
+    "name": "80元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200504",
+    "name": "90元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200505",
+    "name": "100元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200506",
+    "name": "10元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200507",
+    "name": "20元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200508",
+    "name": "30元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200509",
+    "name": "40元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200510",
+    "name": "50元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200513",
+    "name": "80元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200514",
+    "name": "90元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200515",
+    "name": "100元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200516",
+    "name": "10元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200517",
+    "name": "20元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200518",
+    "name": "30元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200519",
+    "name": "40元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200520",
+    "name": "50元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200521",
+    "name": "60元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200522",
+    "name": "70元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200523",
+    "name": "80元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200524",
+    "name": "90元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE200525",
+    "name": "100元档分期包",
+    "category": "套餐"
    }
   ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE201129",
+    "name": "智能组网调优服务（后置2026）",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201130",
+    "name": "智能组网调优服务（后置2026）-冀享专属",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 2214
+  "count": 2178
  },
  "has_change": true,
  "status": "CHANGED"
