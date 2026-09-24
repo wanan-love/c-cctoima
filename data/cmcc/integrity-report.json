@@ -1,9 +1,9 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-23T22:56:13+0000",
- "overall": "PASS",
- "item_count": 2237,
- "previous_count": 2246,
+ "generated_at": "2026-09-24T23:47:47+0000",
+ "overall": "FAIL",
+ "item_count": 2242,
+ "previous_count": 2237,
  "checks": [
   {
    "check": "province_hebei",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2237 条；name 覆盖 2237/2237，details 覆盖 2237/2237（阈值 0.95）"
+   "detail": "2242 条；name 覆盖 2242/2242，details 覆盖 2242/2242（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -37,13 +37,13 @@
   },
   {
    "check": "no_severe_errors",
-   "status": "PASS",
-   "detail": "无采集错误"
+   "status": "FAIL",
+   "detail": "采集错误 1 条: navigate: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html?pageId=834148205904408576&prov=311&channelId=P00000010686\","
   },
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2246 条 → 本次 2237 条（下降 9 条 / 0%）"
+   "detail": "上次 2237 条 → 本次 2242 条（下降 -5 条 / -0%）"
   }
  ],
  "category_results": [
@@ -63,9 +63,9 @@
   },
   {
    "label": "营销活动",
-   "items": 1040,
-   "beans": 1030,
-   "total": 1038,
+   "items": 1045,
+   "beans": 1035,
+   "total": 1041,
    "note": ""
   },
   {
@@ -101,5 +101,7 @@
    "标准资费"
   ]
  },
- "failure_reasons": []
+ "failure_reasons": [
+  "no_severe_errors: 采集错误 1 条: navigate: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html?pageId=834148205904408576&prov=311&channelId=P00000010686\","
+ ]
 }
