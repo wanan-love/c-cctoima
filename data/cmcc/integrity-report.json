@@ -1,7 +1,7 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-09-24T23:47:47+0000",
- "overall": "FAIL",
+ "generated_at": "2026-09-25T23:22:03+0000",
+ "overall": "PASS",
  "item_count": 2242,
  "previous_count": 2237,
  "checks": [
@@ -37,8 +37,8 @@
   },
   {
    "check": "no_severe_errors",
-   "status": "FAIL",
-   "detail": "采集错误 1 条: navigate: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html?pageId=834148205904408576&prov=311&channelId=P00000010686\","
+   "status": "PASS",
+   "detail": "无采集错误"
   },
   {
    "check": "no_abnormal_drop",
@@ -65,7 +65,7 @@
    "label": "营销活动",
    "items": 1045,
    "beans": 1035,
-   "total": 1041,
+   "total": 1042,
    "note": ""
   },
   {
@@ -101,7 +101,5 @@
    "标准资费"
   ]
  },
- "failure_reasons": [
-  "no_severe_errors: 采集错误 1 条: navigate: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html?pageId=834148205904408576&prov=311&channelId=P00000010686\","
- ]
+ "failure_reasons": []
 }

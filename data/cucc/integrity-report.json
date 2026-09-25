@@ -1,9 +1,9 @@
 {
  "operator": "cucc",
- "generated_at": "2026-09-24T22:51:50+0000",
+ "generated_at": "2026-09-25T22:57:37+0000",
  "overall": "PASS",
  "item_count": 1717,
- "previous_count": 1716,
+ "previous_count": 1717,
  "checks": [
   {
    "check": "province_hebei",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1716 条 → 本次 1717 条（下降 -1 条 / -0%）"
+   "detail": "上次 1717 条 → 本次 1717 条（下降 0 条 / 0%）"
   }
  ],
  "category_results": [
@@ -109,8 +109,8 @@
   },
   {
    "category": "营销活动>促销",
-   "expected": 138,
-   "collected": 138,
+   "expected": 137,
+   "collected": 137,
    "error": ""
   },
   {
@@ -163,8 +163,8 @@
   },
   {
    "category": "停售套餐>营销活动",
-   "expected": 132,
-   "collected": 132,
+   "expected": 133,
+   "collected": 133,
    "error": ""
   },
   {
