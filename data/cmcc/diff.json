@@ -1,15 +1,75 @@
 {
- "generated_at": "2026-09-29T00:28:56+0000",
- "current_count": 2247,
- "previous_count": 2242,
+ "generated_at": "2026-09-29T23:48:49+0000",
+ "current_count": 2252,
+ "previous_count": 2247,
  "added": {
-  "count": 19,
+  "count": 12,
   "items": [
    {
-    "tariff_id": "CMCC-25HE200450",
-    "name": "新版老客户升级99尊享60GB流量（36个月）",
+    "tariff_id": "CMCC-25HE200456",
+    "name": "新版老客户升级79尊享45GB流量（36个月）",
     "category": "加装包"
    },
+   {
+    "tariff_id": "CMCC-25HE200532",
+    "name": "心级服务随心看会员",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE202864",
+    "name": "新版老客户升级29尊享15GB流量（36个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201244",
+    "name": "河北移动爱奇艺四屏卡年包",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201245",
+    "name": "爱家光网服务-129档及以上-存量促销版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201246",
+    "name": "爱家光网服务-129档及以上-新增促销版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201247",
+    "name": "爱家光网服务-冀享专属-新增促销版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201248",
+    "name": "爱家光网服务-冀享专属-存量促销版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201249",
+    "name": "爱家光网服务-促销版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201250",
+    "name": "400元宽带提速流量融合包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201251",
+    "name": "200元宽带提速流量融合包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201252",
+    "name": "100元宽带提速流量融合包",
+    "category": "加装包"
+   }
+  ]
+ },
+ "removed": {
+  "count": 7,
+  "items": [
    {
     "tariff_id": "CMCC-25HE201745",
     "name": "金牌回馈-超高端客户FTTR体验36个月",
@@ -26,163 +86,163 @@
     "category": "营销活动"
    },
    {
-    "tariff_id": "CMCC-25HE203015",
-    "name": "爱家光网服务-青春版-30元A档",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE203016",
-    "name": "爱家光网服务-青春版-20元A档",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE203242",
-    "name": "爱家光网服务-129档青春版",
-    "category": "套餐"
-   },
-   {
     "tariff_id": "CMCC-25HE203334",
     "name": "动感地带品牌套餐-39元档",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201232",
-    "name": "移动优选PLUS会员5元月包（24个月-新机）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201233",
-    "name": "雄安宽带融合升级包20元5个月2-划拨",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201234",
-    "name": "雄安宽带融合升级包20元5个月1",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201235",
-    "name": "雄安宽带融合升级包20元5个月2",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201236",
-    "name": "雄安宽带融合升级包30元10个月1",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201237",
-    "name": "雄安宽带融合升级包30元10个月1-划拨",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201238",
-    "name": "雄安宽带融合升级包30元10个月2-划拨",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201239",
-    "name": "雄安宽带融合升级包20元5个月1-划拨",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201240",
-    "name": "雄安宽带融合升级包30元10个月2",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201241",
-    "name": "20元云机福袋",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201242",
-    "name": "10元云机福袋",
-    "category": "营销活动"
-   }
-  ]
- },
- "removed": {
-  "count": 14,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200060",
-    "name": "10元5GB流量月包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-24HE200264",
-    "name": "存100元分月返（2022）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-24HE200362",
-    "name": "12期10元档分期包",
+    "tariff_id": "CMCC-26HE200348",
+    "name": "骑士卡39元档",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-24HE201010",
-    "name": "安心防扰包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200532",
-    "name": "心级服务随心看会员",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE202555",
-    "name": "金牌回馈24个月-专属流量扩容包30GB全国通用流量（不含港澳台地区）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE203346",
-    "name": "30元15GB流量月包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE203350",
-    "name": "20元10GB流量月包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE203354",
-    "name": "新版0预存5G金币购机合约活动（DB）79元档（36个月）-社会渠道-直降540元",
+    "tariff_id": "CMCC-26HE200349",
+    "name": "骑士卡29元档",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE200001",
-    "name": "60元30G流量半年包（支付版）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200194",
-    "name": "冀享礼包59元-3年畅享版",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200519",
-    "name": "0预存5G金币购机合约活动199元档（36个月）(DB)-社会渠道-直降2160元",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE200521",
-    "name": "0预存5G金币购机合约活动169元档（36个月）(DB)-社会渠道-直降1440元",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE200523",
-    "name": "0预存5G金币购机合约活动169元档（36个月）(DB)-社会渠道-直降1800元",
+    "tariff_id": "CMCC-26HE200350",
+    "name": "骑士卡59元档",
     "category": "套餐"
    }
   ]
  },
  "modified": {
-  "count": 1,
+  "count": 17,
   "items": [
    {
-    "tariff_id": "CMCC-25HE201861",
-    "name": "客户回馈-200分钟语音包（36个月）",
+    "tariff_id": "CMCC-25HE200483",
+    "name": "200MB国内通用流量日包",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE200484",
+    "name": "100MB国内通用流量日包",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE200485",
+    "name": "500MB国内通用流量日包",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE201878",
+    "name": "1GB国内通用流量月包",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE201880",
+    "name": "5GB国内通用流量月包",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE201881",
+    "name": "3GB国内通用流量月包",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE201882",
+    "name": "5GB国内通用流量7天包",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE201883",
+    "name": "2GB国内通用流量月包",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE202336",
+    "name": "1GB国内通用流量小时包",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE202433",
+    "name": "1GB国内通用流量日包",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200243",
+    "name": "50MB国内通用流量日包",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200332",
+    "name": "反诈宝家庭版",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200334",
+    "name": "反诈宝个人版",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200756",
+    "name": "医保保（普通版）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CMCC-26HE200757",
+    "name": "医保保（老年版）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CMCC-26HE201190",
+    "name": "IPTV奇好看VIP-12个月",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201191",
+    "name": "IPTV奇好看VIP",
     "category": "营销活动",
     "fields": [
      "eligibility"
@@ -191,7 +251,7 @@
   ]
  },
  "unchanged": {
-  "count": 2227
+  "count": 2223
  },
  "has_change": true,
  "status": "CHANGED"
