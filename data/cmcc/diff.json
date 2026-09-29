@@ -1,22 +1,198 @@
 {
- "generated_at": "2026-09-27T23:07:28+0000",
- "current_count": 2242,
+ "generated_at": "2026-09-29T00:28:56+0000",
+ "current_count": 2247,
  "previous_count": 2242,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 19,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE200450",
+    "name": "新版老客户升级99尊享60GB流量（36个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE201745",
+    "name": "金牌回馈-超高端客户FTTR体验36个月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE201844",
+    "name": "客户回馈-1000分钟语音包（36个月）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201966",
+    "name": "客户回馈-60G通用流量包（36个月）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE203015",
+    "name": "爱家光网服务-青春版-30元A档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203016",
+    "name": "爱家光网服务-青春版-20元A档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203242",
+    "name": "爱家光网服务-129档青春版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203334",
+    "name": "动感地带品牌套餐-39元档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201232",
+    "name": "移动优选PLUS会员5元月包（24个月-新机）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201233",
+    "name": "雄安宽带融合升级包20元5个月2-划拨",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201234",
+    "name": "雄安宽带融合升级包20元5个月1",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201235",
+    "name": "雄安宽带融合升级包20元5个月2",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201236",
+    "name": "雄安宽带融合升级包30元10个月1",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201237",
+    "name": "雄安宽带融合升级包30元10个月1-划拨",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201238",
+    "name": "雄安宽带融合升级包30元10个月2-划拨",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201239",
+    "name": "雄安宽带融合升级包20元5个月1-划拨",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201240",
+    "name": "雄安宽带融合升级包30元10个月2",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201241",
+    "name": "20元云机福袋",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201242",
+    "name": "10元云机福袋",
+    "category": "营销活动"
+   }
+  ]
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 14,
+  "items": [
+   {
+    "tariff_id": "CMCC-24HE200060",
+    "name": "10元5GB流量月包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-24HE200264",
+    "name": "存100元分月返（2022）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-24HE200362",
+    "name": "12期10元档分期包",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-24HE201010",
+    "name": "安心防扰包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE200532",
+    "name": "心级服务随心看会员",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE202555",
+    "name": "金牌回馈24个月-专属流量扩容包30GB全国通用流量（不含港澳台地区）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE203346",
+    "name": "30元15GB流量月包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE203350",
+    "name": "20元10GB流量月包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE203354",
+    "name": "新版0预存5G金币购机合约活动（DB）79元档（36个月）-社会渠道-直降540元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE200001",
+    "name": "60元30G流量半年包（支付版）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE200194",
+    "name": "冀享礼包59元-3年畅享版",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE200519",
+    "name": "0预存5G金币购机合约活动199元档（36个月）(DB)-社会渠道-直降2160元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE200521",
+    "name": "0预存5G金币购机合约活动169元档（36个月）(DB)-社会渠道-直降1440元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE200523",
+    "name": "0预存5G金币购机合约活动169元档（36个月）(DB)-社会渠道-直降1800元",
+    "category": "套餐"
+   }
+  ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE201861",
+    "name": "客户回馈-200分钟语音包（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 2242
+  "count": 2227
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

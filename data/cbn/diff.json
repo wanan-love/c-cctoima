@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T23:07:28+0000",
+ "generated_at": "2026-09-29T00:28:56+0000",
  "current_count": 131,
  "previous_count": 131,
  "added": {
@@ -11,12 +11,19 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CBN-25HE500066",
+    "name": "升卿卡升级版",
+    "category": "套餐",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 131
+  "count": 130
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
