@@ -1,114 +1,378 @@
 {
- "generated_at": "2026-09-29T23:48:49+0000",
- "current_count": 1717,
+ "generated_at": "2026-09-30T23:41:54+0000",
+ "current_count": 1724,
  "previous_count": 1717,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 7,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300422",
+    "name": "联通智家畅越云龙通通乐购999元分月送券1200元活动36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300423",
+    "name": "联通智家畅越云龙基础乐购659元分月送券800元活动36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300424",
+    "name": "联通智家畅越云智双看家乐购360元分月送券450元活动36个月（河北）次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300425",
+    "name": "联通智家畅越云智光宽带乐购499元分月送券560元活动36个月（河北）次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300426",
+    "name": "联通智家畅越FTTR乐购299元分月送券360元活动36个月（河北）次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300427",
+    "name": "联通智家畅越云智双看家乐购360元分月送券400元活动36个月（河北）次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300428",
+    "name": "联通智家畅越云智看家乐购200元分月送券240元活动24个月（河北）次月生效",
+    "category": "套餐"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 14,
+  "count": 36,
   "items": [
    {
-    "tariff_id": "CUCC-26HE300254",
-    "name": "99元联通智家5G终端套餐存1062元送1062元电子券智家版合约36个月（河北）-次月生效",
-    "category": "套餐",
+    "tariff_id": "CUCC-24HE300034",
+    "name": "客户维系7折优惠包12个月（河北）",
+    "category": "营销活动",
     "fields": [
-     "validity"
+     "eligibility"
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300255",
-    "name": "129元联通智家5G终端套餐存1386元送1386元电子券智家版合约36个月（河北）-次月生效",
-    "category": "套餐",
+    "tariff_id": "CUCC-25HE300460",
+    "name": "河北智慧沃家宽带包月38元套餐（特惠版58元套餐专用）-200M（河北）",
+    "category": "停售套餐",
     "fields": [
-     "validity"
+     "category",
+     "subcategory"
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300256",
-    "name": "169元联通智家5G终端套餐存1818元送1818元电子券智家版合约36个月（河北）-次月生效",
-    "category": "套餐",
+    "tariff_id": "CUCC-25HE300489",
+    "name": "河北智慧沃家宽带包月18.1元套餐（黄金版98元套餐专用）-200M（河北）",
+    "category": "停售套餐",
     "fields": [
-     "validity"
+     "category",
+     "subcategory"
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300257",
-    "name": "199元联通智家5G终端套餐存2106元送2106元电子券智家版合约36个月（河北）-次月生效",
-    "category": "套餐",
+    "tariff_id": "CUCC-25HE300500",
+    "name": "智慧沃家套内宽带18元/月-300M（河北）",
+    "category": "停售套餐",
     "fields": [
-     "validity"
+     "category",
+     "subcategory"
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300404",
-    "name": "联通智家5G云智套餐分月送券合约399元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-25HE300505",
+    "name": "河北智慧沃家宽带包月18元套餐（特惠版38元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300405",
-    "name": "联通智家5G云智套餐分月送券合约530元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-25HE300511",
+    "name": "河北智慧沃家宽带包月8.1元套餐（黄金版58元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300406",
-    "name": "联通智家5G云智套餐分月送券合约552元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-25HE300512",
+    "name": "河北智慧沃家宽带包月8.1元套餐（黄金版58元套餐专用）-100M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300407",
-    "name": "联通智家5G云智套餐分月送券合约585元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-26HE300069",
+    "name": "客户维系7折优惠包24个月（河北）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300408",
-    "name": "联通智家5G云智套餐分月送券合约331元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-26HE300186",
+    "name": "宽视界调测费200元",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300409",
-    "name": "联通智家5G云智套餐分月送券合约852元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-26HE300194",
+    "name": "沃派云智套餐校园专属存50元得100元有效期6个月（河北）-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300410",
-    "name": "联通智家5G云智套餐分月送券合约750元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-26HE300217",
+    "name": "(河北)中国联通APP月月抽好礼活动",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300411",
-    "name": "联通智家5G云智套餐分月送券合约1349元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-26HE300243",
+    "name": "客户维系9折优惠包24个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300412",
-    "name": "联通智家5G云智套餐分月送券合约1580元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-26HE300244",
+    "name": "客户维系8折优惠包24个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
    },
    {
-    "tariff_id": "CUCC-26HE300413",
-    "name": "联通智家5G云智套餐分月送券合约2272元36个月（河北）-次月生效",
-    "category": "套餐",
-    "fields": []
+    "tariff_id": "CUCC-26HE300283",
+    "name": "河北智慧沃家宽带包月18.1元套餐（黄金版38元套餐专用）-100M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300284",
+    "name": "河北智慧沃家宽带包月18.1元套餐（黄金版48元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300285",
+    "name": "河北智慧沃家宽带包月58.1元套餐（黄金版108元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300286",
+    "name": "河北智慧沃家包月58.1元套餐（98/108元套餐专用）-20M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300287",
+    "name": "河北智慧沃家包月58.1元套餐（98/108元套餐专用）-100M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300288",
+    "name": "河北智慧沃家包月58.1元套餐（168省内畅爽用套餐专用）-200M-立即生效（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300289",
+    "name": "河北智慧沃家包月58.1元套餐（78/88元套餐专用）-100M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300290",
+    "name": "河北智慧沃家包月58.1元套餐（56/58元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300291",
+    "name": "河北宽带20M融合内固定资费包月-52.1元/月",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300292",
+    "name": "河北宽带100M融合内固定资费包月-52.1元/月",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300293",
+    "name": "河北宽带50M融合内资费包月- 52.1元/月",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300294",
+    "name": "河北智慧沃家包月58.1元套餐（河北智慧沃家冰激凌98元套餐专用）-100M（次月生效）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300295",
+    "name": "河北智慧沃家包月58.1元套餐（56/58元套餐专用）-100M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300296",
+    "name": "河北智慧沃家包月58.1元套餐（河北智慧沃家冰激凌98元套餐专用）-100M（立即生效）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300297",
+    "name": "河北智慧沃家包月58.1元套餐（98/108元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300298",
+    "name": "河北智慧沃家宽带包月28.1元套餐（黄金版78元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300299",
+    "name": "河北智慧沃家包月58.1元套餐（168省内畅爽用套餐专用）-200M-次月生效（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300300",
+    "name": "河北智慧沃家包月58.1元套餐（78/88元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300301",
+    "name": "河北智慧沃家宽带包月38.1元套餐（黄金版88元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300302",
+    "name": "河北宽带200M融合内固定资费包月-52.1元/月（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300303",
+    "name": "河北宽带100M融合内固定资费包月- 56.1元/月",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300304",
+    "name": "河北宽带50M融合内固定资费包月-56.1元/月",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300305",
+    "name": "河北智慧沃家宽带包月58.1元套餐（黄金版168元套餐专用）-200M（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    }
   ]
  },
  "unchanged": {
-  "count": 1703
+  "count": 1681
  },
  "has_change": true,
  "status": "CHANGED"

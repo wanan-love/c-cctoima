@@ -1,22 +1,368 @@
 {
- "generated_at": "2026-09-29T23:48:49+0000",
- "current_count": 826,
+ "generated_at": "2026-09-30T23:41:54+0000",
+ "current_count": 784,
  "previous_count": 826,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100249",
+    "name": "公众-租机标识-36个月",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 43,
+  "items": [
+   {
+    "tariff_id": "CTCC-24HE100097",
+    "name": "随享合约10元-24个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100098",
+    "name": "随享合约20元-24个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100099",
+    "name": "随享合约30元-24个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100100",
+    "name": "随享合约20元-36个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100101",
+    "name": "随享合约40元-24个月",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-24HE100102",
+    "name": "随享合约15元-36个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100103",
+    "name": "随享合约40元-36个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100104",
+    "name": "随享合约50元-36个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100105",
+    "name": "随享合约分月转兑-10元/月24期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100106",
+    "name": "随享合约分月转兑-30元/月24期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100107",
+    "name": "随享合约分月转兑-20元/月24期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100108",
+    "name": "随享合约分月转兑-50元/月24期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100109",
+    "name": "随享合约分月转兑-15元/月36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100110",
+    "name": "随享合约分月转兑-10元/月36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100111",
+    "name": "随享合约分月转兑-20元/月36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100112",
+    "name": "随享合约分月转兑-30元/月36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100113",
+    "name": "随享合约分月转兑-40元/月36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100114",
+    "name": "随享合约分月转兑-50元/月36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100122",
+    "name": "随享合约15元-24个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100123",
+    "name": "随享合约10元-36个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100124",
+    "name": "随享合约30元-36个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100125",
+    "name": "随享合约分月转兑-40元/月24期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100127",
+    "name": "随享合约分月转兑-15元/月24期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE100128",
+    "name": "随享合约50元-24个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE101961",
+    "name": "【租机】橙分期-天翼畅享399元套餐201910",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE101995",
+    "name": "橙分期-5G畅享399元档合约-36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-24HE101998",
+    "name": "橙分期-5G畅享99元档合约-36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100075",
+    "name": "云U盘(天翼云盘PC挂载)",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100217",
+    "name": "随享合约分月转兑-18元/月36期（端业产品）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100219",
+    "name": "随享合约分月转兑-8元/月36期（端业产品）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100220",
+    "name": "随享合约FTTR服务30元",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100221",
+    "name": "随享合约电视康养服务10元",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100222",
+    "name": "随享合约80元-24个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100223",
+    "name": "随享合约100元-24个月",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100224",
+    "name": "随享合约分月转兑-22元/月36期（端业产品）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100226",
+    "name": "随享合约生活权益礼包20元36个月",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100227",
+    "name": "随享合约分月转兑-10元/月36期（生活权益礼包）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100387",
+    "name": "随享合约标识可选包0元-36个月",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100388",
+    "name": "随享合约标识可选包0元-24个月",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100022",
+    "name": "随享合约分月转兑-5元/月36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100023",
+    "name": "随享合约80元-36个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100027",
+    "name": "随享合约分月转兑-80元/月36期",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100029",
+    "name": "随享合约分月转兑-80元/月24期",
+    "category": "营销活动"
+   }
+  ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 15,
+  "items": [
+   {
+    "tariff_id": "CTCC-24HE100138",
+    "name": "副卡功能费优惠可选包（优惠至0元）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE102319",
+    "name": "直连卫星功能",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE102412",
+    "name": "399元FTTR调测包",
+    "category": "加装包",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100115",
+    "name": "促销-共享流量包170G",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100188",
+    "name": "199元FTTR调测包",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100205",
+    "name": "299元FTTR调测包",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100298",
+    "name": "促销-套餐优惠（199元套餐优惠至139元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100306",
+    "name": "促销-套餐优惠（99元套餐优惠至69元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100309",
+    "name": "促销-套餐优惠（169元套餐优惠至118元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100324",
+    "name": "促销-套餐优惠（59元套餐优惠至41元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100331",
+    "name": "促销-套餐优惠（129元套餐优惠至90元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100336",
+    "name": "促销-套餐优惠（79元套餐优惠至55元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100056",
+    "name": "0元500M宽带提速包（202103）",
+    "category": "加装包",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100119",
+    "name": "促销-套餐优惠（239元套餐优惠至167元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100236",
+    "name": "电视会员连续包月20元",
+    "category": "加装包",
+    "fields": [
+     "description"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 826
+  "count": 768
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
