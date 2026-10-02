@@ -1,137 +1,201 @@
 {
- "generated_at": "2026-09-30T23:41:53+0000",
- "current_count": 2245,
- "previous_count": 2252,
+ "generated_at": "2026-10-02T00:28:54+0000",
+ "current_count": 2249,
+ "previous_count": 2245,
  "added": {
-  "count": 7,
+  "count": 8,
   "items": [
+   {
+    "tariff_id": "CMCC-24HE200720",
+    "name": "0元语音版机顶盒安装服务费(利旧)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-24HE200722",
+    "name": "0元语音版机顶盒安装服务费",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE202018",
+    "name": "0元光猫调测(利旧)",
+    "category": "标准资费"
+   },
+   {
+    "tariff_id": "CMCC-25HE202032",
+    "name": "10GPON新品设备（0元）_新装宽带",
+    "category": "标准资费"
+   },
+   {
+    "tariff_id": "CMCC-25HE202033",
+    "name": "0元光猫调测（专用）",
+    "category": "标准资费"
+   },
+   {
+    "tariff_id": "CMCC-25HE202034",
+    "name": "10GPON利旧设备（0元）_新装宽带",
+    "category": "标准资费"
+   },
+   {
+    "tariff_id": "CMCC-25HE203108",
+    "name": "智能组网服务（线上专属）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201243",
+    "name": "唐山-10元返费优惠（36个月）-电视专属",
+    "category": "营销活动"
+   }
+  ]
+ },
+ "removed": {
+  "count": 4,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE200532",
+    "name": "心级服务随心看会员",
+    "category": "营销活动"
+   },
    {
     "tariff_id": "CMCC-25HE202555",
     "name": "金牌回馈24个月-专属流量扩容包30GB全国通用流量（不含港澳台地区）",
     "category": "营销活动"
    },
    {
-    "tariff_id": "CMCC-26HE201253",
-    "name": "河北移动单宽宽带300M480元2年到期转包月产品(2026)",
-    "category": "标准资费"
+    "tariff_id": "CMCC-25HE203242",
+    "name": "爱家光网服务-129档青春版",
+    "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201254",
-    "name": "河北移动单宽宽带600M720元2年到期转包月产品（2026）",
-    "category": "标准资费"
-   },
-   {
-    "tariff_id": "CMCC-26HE201255",
-    "name": "河北移动单宽宽带1000M1200元2年到期转包月产品（2026）",
-    "category": "标准资费"
-   },
-   {
-    "tariff_id": "CMCC-26HE201256",
-    "name": "廊坊100元宽带流量融合包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201257",
-    "name": "廊坊200元宽带流量融合包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201258",
-    "name": "廊坊400元宽带流量融合包-129以下",
-    "category": "加装包"
-   }
-  ]
- },
- "removed": {
-  "count": 14,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE201296",
-    "name": "河北铁塔10天换电权益包（24个月）",
+    "tariff_id": "CMCC-26HE200301",
+    "name": "10元返费优惠2026版（36个月）",
     "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE200450",
-    "name": "新版老客户升级99尊享60GB流量（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200456",
-    "name": "新版老客户升级79尊享45GB流量（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200852",
-    "name": "心级服务1GB流量包（河北）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200853",
-    "name": "心级服务10GB流量包（河北）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE200854",
-    "name": "心级服务2GB流量包（河北）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE200866",
-    "name": "心级服务3GB提速流量包（河北）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE200869",
-    "name": "心级服务3GB流量包（河北）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE202016",
-    "name": "0元提速至300M1个月优惠（手机宽带）",
-    "category": "标准资费"
-   },
-   {
-    "tariff_id": "CMCC-25HE202864",
-    "name": "新版老客户升级29尊享15GB流量（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202975",
-    "name": "移动优选PLUS会员年包99元档（三重权益）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE203104",
-    "name": "移动优选PLUS会员年包49元档（壳膜）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200756",
-    "name": "医保保（普通版）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200757",
-    "name": "医保保（老年版）",
-    "category": "加装包"
    }
   ]
  },
  "modified": {
-  "count": 1,
+  "count": 14,
   "items": [
    {
-    "tariff_id": "CMCC-25HE202278",
-    "name": "和家庭计划免10元副号功能费优惠(2021版)",
-    "category": "营销活动",
+    "tariff_id": "CMCC-25HE201033",
+    "name": "中屏服务（普通版）-连续包月",
+    "category": "套餐",
     "fields": [
-     "eligibility"
+     "traffic",
+     "voice",
+     "sms",
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203336",
+    "name": "全家享全国版套餐129档",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200140",
+    "name": "时光畅享套餐239元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200141",
+    "name": "时光畅享套餐29元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200142",
+    "name": "时光畅享套餐39元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200144",
+    "name": "时光畅享套餐99元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200145",
+    "name": "时光畅享套餐149元档",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200146",
+    "name": "时光畅享套餐59元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200147",
+    "name": "时光畅享套餐89元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200148",
+    "name": "时光畅享套餐79元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200149",
+    "name": "时光畅享套餐129元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200150",
+    "name": "时光畅享套餐69元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200151",
+    "name": "时光畅享套餐499元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200152",
+    "name": "时光畅享套餐50元档",
+    "category": "套餐",
+    "fields": [
+     "validity"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2237
+  "count": 2227
  },
  "has_change": true,
  "status": "CHANGED"

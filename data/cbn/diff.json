@@ -1,22 +1,688 @@
 {
- "generated_at": "2026-09-30T23:41:54+0000",
- "current_count": 133,
+ "generated_at": "2026-10-02T00:28:54+0000",
+ "current_count": 0,
  "previous_count": 133,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 133,
+  "items": [
+   {
+    "tariff_id": "CBN-24HE500001",
+    "name": "惠民卡",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500003",
+    "name": "惠民年卡",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500004",
+    "name": "惠民卡MAX",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500005",
+    "name": "惠民年卡MAX",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500006",
+    "name": "惠民年卡PLUS（含随心选权益）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500007",
+    "name": "双百套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500008",
+    "name": "双百套餐2.0",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500009",
+    "name": "双百套餐2.0MAX",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500010",
+    "name": "192流量卡20元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500011",
+    "name": "192流量卡30元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500012",
+    "name": "192流量卡套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500013",
+    "name": "192流量卡套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500014",
+    "name": "192流量卡套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500017",
+    "name": "精彩38元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500018",
+    "name": "精彩58元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500019",
+    "name": "精彩68元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500020",
+    "name": "精彩88元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500021",
+    "name": "精彩118元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500022",
+    "name": "精彩158元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500023",
+    "name": "精彩188元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500024",
+    "name": "精彩228元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500025",
+    "name": "精彩288元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500026",
+    "name": "精彩388元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500027",
+    "name": "精彩588元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500028",
+    "name": "49元任性享套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500030",
+    "name": "59元宽带套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500032",
+    "name": "69元宽带套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500033",
+    "name": "79元任性选",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500034",
+    "name": "119元任性选套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500035",
+    "name": "精彩71-强国卡",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500036",
+    "name": "中国广电青春卡38元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500037",
+    "name": "中国广电青春卡58元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500038",
+    "name": "慧家88元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500039",
+    "name": "慧家118元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500040",
+    "name": "慧家158元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500041",
+    "name": "慧家188元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500042",
+    "name": "慧家228元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500043",
+    "name": "慧家288元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500044",
+    "name": "慧家388元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500045",
+    "name": "慧家58元套餐特惠版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500046",
+    "name": "慧家118元套餐特惠版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500047",
+    "name": "慧家228元套餐特惠版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500048",
+    "name": "慧家588元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500049",
+    "name": "慧家18元套餐特惠版（员工套餐）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500050",
+    "name": "慧家36元套餐特惠版（员工套餐）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500051",
+    "name": "慧家69元套餐特惠版（员工套餐）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500052",
+    "name": "慧家38元套餐特惠版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500053",
+    "name": "慧家39元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500054",
+    "name": "慧家49元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500055",
+    "name": "慧家59元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500056",
+    "name": "慧家69元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500057",
+    "name": "慧家流量王59元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500058",
+    "name": "慧家流量王88元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500059",
+    "name": "慧家388元套餐特惠版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500060",
+    "name": "慧家流量王58元套餐特惠版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500061",
+    "name": "慧家流量王118元套餐特惠版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500063",
+    "name": "慧家特惠（优享）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500064",
+    "name": "省公司慧家特惠优享A套餐1000M宽带40元/月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500065",
+    "name": "省公司慧家特惠优享A套餐600M宽带40元/月",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500066",
+    "name": "省公司5G慧家39元套餐（单宽带）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500067",
+    "name": "省公司春季行动智能盒100-200M宽带+电视",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500068",
+    "name": "省公司软终端新视听（300M宽带+电视）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500069",
+    "name": "全省慧家宽带优享套餐三年",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500070",
+    "name": "全省慧家宽带至尊套餐两年",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500071",
+    "name": "全省慧家宽带至尊套餐三年",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500072",
+    "name": "全省慧家宽带尊享套餐两年",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500073",
+    "name": "全省慧家宽带尊享套餐三年",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500074",
+    "name": "全省慧家宽带优享套餐两年",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500075",
+    "name": "省公司统一账户45元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500076",
+    "name": "省公司统一账户55元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500077",
+    "name": "有线专属卡B档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500078",
+    "name": "有线专属卡C档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500079",
+    "name": "有线专属卡D档",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500080",
+    "name": "24版慧家特惠流量王38元体验营销套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500081",
+    "name": "国内流量月包10元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500082",
+    "name": "国内流量月包20元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500083",
+    "name": "国内流量月包30元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500084",
+    "name": "国内流量月包60元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500085",
+    "name": "国内流量月包90元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500086",
+    "name": "国内流量月包150元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500087",
+    "name": "国内流量日包3元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500088",
+    "name": "国内流量日包5元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500089",
+    "name": "国内流量日包10元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500090",
+    "name": "国内语音月包10元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500091",
+    "name": "国内语音月包20元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500092",
+    "name": "国内语音月包30元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500093",
+    "name": "国内语音月包45元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500094",
+    "name": "国内语音月包70元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500095",
+    "name": "国内语音月包95元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500096",
+    "name": "充50元返50元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500097",
+    "name": "充100元返100元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500098",
+    "name": "充200元返200元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500099",
+    "name": "充300元返300元",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500100",
+    "name": "充50元返30元合约",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500101",
+    "name": "充100元返50元合约",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500102",
+    "name": "充200元返100元合约",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500103",
+    "name": "充300元返150元合约",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500104",
+    "name": "24版高校校园月28套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500105",
+    "name": "24版高校校园月38套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500106",
+    "name": "24版高校校园月48套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500108",
+    "name": "乐活卡18元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500109",
+    "name": "乐活卡28元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500110",
+    "name": "乐活卡38元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500111",
+    "name": "中小学生电子学生证月套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500112",
+    "name": "慧学卡套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-24HE500113",
+    "name": "慧学卡套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500001",
+    "name": "5G-开副卡送流量",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CBN-25HE500018",
+    "name": "浙江政务大语音电销卡套餐（促销）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500031",
+    "name": "双百套餐2.0PLUS（促销）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500032",
+    "name": "中广电197语音套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500033",
+    "name": "中广电197语音套餐（促销）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500034",
+    "name": "双百套餐2.0PLUS",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500040",
+    "name": "惠民卡39元套餐（含随心选权益）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500050",
+    "name": "25版高校校园月28元套餐",
+    "category": "特殊群体套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500051",
+    "name": "25版高校校园月38元套餐",
+    "category": "特殊群体套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500052",
+    "name": "25版高校校园月48元套餐",
+    "category": "特殊群体套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500057",
+    "name": "25版高校校园年套餐促销",
+    "category": "特殊群体套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500066",
+    "name": "升卿卡升级版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-25HE500070",
+    "name": "192流量卡10元套餐",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500001",
+    "name": "通信助理（促销）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CBN-26HE500002",
+    "name": "音频彩铃（促销）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CBN-26HE500003",
+    "name": "视频彩铃（促销）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CBN-26HE500008",
+    "name": "广电畅游卡",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500009",
+    "name": "24版高校校园年套餐",
+    "category": "特殊群体套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500010",
+    "name": "79元任性选套餐（新）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500011",
+    "name": "59元任性选套餐（新）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500012",
+    "name": "69元任性选套餐（新）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500013",
+    "name": "奔马卡升级版",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500014",
+    "name": "用户回馈活动",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CBN-26HE500015",
+    "name": "奔马卡回馈活动",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CBN-26HE500016",
+    "name": "河北广电畅游卡",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500018",
+    "name": "充20元返20元",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CBN-26HE500019",
+    "name": "充30元返30元",
+    "category": "营销活动"
+   }
+  ]
  },
  "modified": {
   "count": 0,
   "items": []
  },
  "unchanged": {
-  "count": 133
+  "count": 0
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

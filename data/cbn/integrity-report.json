@@ -1,14 +1,14 @@
 {
  "operator": "cbn",
- "generated_at": "2026-09-30T23:16:26+0000",
- "overall": "PASS",
- "item_count": 133,
+ "generated_at": "2026-10-01T23:32:36+0000",
+ "overall": "FAIL",
+ "item_count": 0,
  "previous_count": 133,
  "checks": [
   {
    "check": "province_hebei",
-   "status": "PASS",
-   "detail": "province_ok=True; evidence={\"hebei_area\": {\"areaCode\": \"HB00\", \"areaByname\": \"河北省\", \"areaName\": \"河北省\", \"areaType\": null, \"areaNumber\": \"HB00\", \"regionExtId\": \"0\", \"sort\": null, \"showFlag\": \"Y\"}, \"province_tab_after_select\": \"全网资费\", \"verified_area\": \"HB00\", \"verified_area_request\": \"{\\\"channelId\\\":\\\"cd_20220914_514144\\\",\\\"appl"
+   "status": "FAIL",
+   "detail": "province_ok=False; evidence={\"hebei_area\": {\"areaCode\": \"HB00\", \"areaByname\": \"河北省\", \"areaName\": \"河北省\", \"areaType\": null, \"areaNumber\": \"HB00\", \"regionExtId\": \"0\", \"sort\": null, \"showFlag\": \"Y\"}}"
   },
   {
    "check": "audience_personal",
@@ -17,122 +17,37 @@
   },
   {
    "check": "categories_covered",
-   "status": "PASS",
-   "detail": "发现 12 个分类，其中有效 12；异常: []"
+   "status": "FAIL",
+   "detail": "发现 0 个分类，其中有效 0；异常: []"
   },
   {
    "check": "official_totals",
    "status": "PASS",
-   "detail": "全部分类数量与官方声明一致（12 分类）"
+   "detail": "全部分类数量与官方声明一致（0 分类）"
   },
   {
    "check": "detail_completeness",
-   "status": "PASS",
-   "detail": "133 条；name 覆盖 133/133，details 覆盖 133/133（阈值 0.95）"
+   "status": "FAIL",
+   "detail": "0 条；name 覆盖 0/0，details 覆盖 0/0（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
    "status": "PASS",
-   "detail": "重复 tariff_id 0 个（权威判据）；同分类同名不同编号 2 组（官方数据的同名独立方案，信息项）"
+   "detail": "重复 tariff_id 0 个（权威判据）；同分类同名不同编号 0 组（官方数据的同名独立方案，信息项）"
   },
   {
    "check": "no_severe_errors",
-   "status": "PASS",
-   "detail": "无采集错误"
+   "status": "FAIL",
+   "detail": "采集错误 2 条: province: 地区弹层未出现或未找到河北; province: 河北区域选择交互失败"
   },
   {
    "check": "no_abnormal_drop",
-   "status": "PASS",
-   "detail": "上次 133 条 → 本次 133 条（下降 0 条 / 0%）"
+   "status": "FAIL",
+   "detail": "上次 133 条 → 本次 0 条（下降 133 条 / 100%）"
   }
  ],
- "category_results": [
-  {
-   "category": "套餐",
-   "subcategory": "4G套餐",
-   "expected": 1,
-   "collected": 1,
-   "error": ""
-  },
-  {
-   "category": "套餐",
-   "subcategory": "5G套餐",
-   "expected": 108,
-   "collected": 108,
-   "error": ""
-  },
-  {
-   "category": "套餐",
-   "subcategory": "宽带",
-   "expected": 11,
-   "collected": 11,
-   "error": ""
-  },
-  {
-   "category": "套餐",
-   "subcategory": "固话",
-   "expected": 0,
-   "collected": 0,
-   "error": ""
-  },
-  {
-   "category": "加装包",
-   "subcategory": "语音包",
-   "expected": 0,
-   "collected": 0,
-   "error": ""
-  },
-  {
-   "category": "加装包",
-   "subcategory": "流量包",
-   "expected": 0,
-   "collected": 0,
-   "error": ""
-  },
-  {
-   "category": "营销活动",
-   "subcategory": "合约",
-   "expected": 2,
-   "collected": 2,
-   "error": ""
-  },
-  {
-   "category": "营销活动",
-   "subcategory": "促销",
-   "expected": 6,
-   "collected": 6,
-   "error": ""
-  },
-  {
-   "category": "特殊群体套餐",
-   "subcategory": "4G",
-   "expected": 0,
-   "collected": 0,
-   "error": ""
-  },
-  {
-   "category": "特殊群体套餐",
-   "subcategory": "5G",
-   "expected": 5,
-   "collected": 5,
-   "error": ""
-  },
-  {
-   "category": "特殊群体套餐",
-   "subcategory": "宽带",
-   "expected": 0,
-   "collected": 0,
-   "error": ""
-  },
-  {
-   "category": "特殊群体套餐",
-   "subcategory": "固话",
-   "expected": 0,
-   "collected": 0,
-   "error": ""
-  }
- ],
- "scope": "公众(GZ) × 河北(HB00)",
+ "category_results": [],
+ "scope": "",
  "evidence_summary": {
   "hebei_area": {
    "areaCode": "HB00",
@@ -149,5 +64,11 @@
    "typeCode": "GZ"
   }
  },
- "failure_reasons": []
+ "failure_reasons": [
+  "province_hebei: province_ok=False; evidence={\"hebei_area\": {\"areaCode\": \"HB00\", \"areaByname\": \"河北省\", \"areaName\": \"河北省\", \"areaType\": null, \"areaNumber\": \"HB00\", \"regionExtId\": \"0\", \"sort\": null, \"showFlag\": \"Y\"}}",
+  "categories_covered: 发现 0 个分类，其中有效 0；异常: []",
+  "detail_completeness: 0 条；name 覆盖 0/0，details 覆盖 0/0（阈值 0.95）",
+  "no_severe_errors: 采集错误 2 条: province: 地区弹层未出现或未找到河北; province: 河北区域选择交互失败",
+  "no_abnormal_drop: 上次 133 条 → 本次 0 条（下降 133 条 / 100%）"
+ ]
 }
