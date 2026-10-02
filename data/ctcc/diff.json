@@ -1,40 +1,14 @@
 {
- "generated_at": "2026-10-02T00:28:54+0000",
+ "generated_at": "2026-10-02T23:51:41+0000",
  "current_count": 779,
- "previous_count": 784,
+ "previous_count": 779,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 5,
-  "items": [
-   {
-    "tariff_id": "CTCC-24HE102268",
-    "name": "提速-全国流量包10元",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-24HE102269",
-    "name": "提速-全国流量包20元",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-24HE102270",
-    "name": "提速-全国流量包40元",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100113",
-    "name": "机顶盒终端月付10元（3年）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100114",
-    "name": "机顶盒终端月付10元（2年）",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
   "count": 0,
@@ -43,6 +17,6 @@
  "unchanged": {
   "count": 779
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
