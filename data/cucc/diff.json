@@ -1,10 +1,21 @@
 {
- "generated_at": "2026-10-06T23:53:59+0000",
- "current_count": 1724,
+ "generated_at": "2026-10-08T00:23:32+0000",
+ "current_count": 1726,
  "previous_count": 1724,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300429",
+    "name": "5G畅越冰激凌升级版15元（河北）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300430",
+    "name": "5G畅越冰激凌升级版25元（河北）",
+    "category": "套餐"
+   }
+  ]
  },
  "removed": {
   "count": 0,
@@ -17,6 +28,6 @@
  "unchanged": {
   "count": 1724
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

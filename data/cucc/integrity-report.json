@@ -1,8 +1,8 @@
 {
  "operator": "cucc",
- "generated_at": "2026-10-06T23:29:11+0000",
+ "generated_at": "2026-10-08T00:00:46+0000",
  "overall": "PASS",
- "item_count": 1724,
+ "item_count": 1726,
  "previous_count": 1724,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1724 条；name 覆盖 1724/1724，details 覆盖 1724/1724（阈值 0.95）"
+   "detail": "1726 条；name 覆盖 1726/1726，details 覆盖 1726/1726（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,14 +43,14 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1724 条 → 本次 1724 条（下降 0 条 / 0%）"
+   "detail": "上次 1724 条 → 本次 1726 条（下降 -2 条 / -0%）"
   }
  ],
  "category_results": [
   {
    "category": "套餐>移网",
-   "expected": 63,
-   "collected": 63,
+   "expected": 65,
+   "collected": 65,
    "error": ""
   },
   {

@@ -1,22 +1,44 @@
 {
- "generated_at": "2026-10-06T23:53:59+0000",
+ "generated_at": "2026-10-08T00:23:32+0000",
  "current_count": 2249,
  "previous_count": 2249,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE200450",
+    "name": "新版老客户升级99尊享60GB流量（36个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE200456",
+    "name": "新版老客户升级79尊享45GB流量（36个月）",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE200332",
+    "name": "反诈宝家庭版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE200334",
+    "name": "反诈宝个人版",
+    "category": "加装包"
+   }
+  ]
  },
  "modified": {
   "count": 0,
   "items": []
  },
  "unchanged": {
-  "count": 2249
+  "count": 2247
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
