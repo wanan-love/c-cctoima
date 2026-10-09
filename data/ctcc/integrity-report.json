@@ -1,14 +1,14 @@
 {
  "operator": "ctcc",
- "generated_at": "2026-10-07T23:56:01+0000",
- "overall": "PASS",
- "item_count": 779,
+ "generated_at": "2026-10-09T00:13:08+0000",
+ "overall": "FAIL",
+ "item_count": 0,
  "previous_count": 779,
  "checks": [
   {
    "check": "province_hebei",
-   "status": "PASS",
-   "detail": "province_ok=True; evidence={\"page_request_with_hebei_provcode\": \"https://www.189.cn/bss/tariffZone/newTarifZone12List.do?provCode=609906\", \"province_ok\": true}"
+   "status": "FAIL",
+   "detail": "province_ok=False; evidence={}"
   },
   {
    "check": "audience_personal",
@@ -17,18 +17,18 @@
   },
   {
    "check": "categories_covered",
-   "status": "PASS",
-   "detail": "发现 5 个分类，其中有效 5；异常: []"
+   "status": "FAIL",
+   "detail": "发现 0 个分类，其中有效 0；异常: []"
   },
   {
    "check": "official_totals",
    "status": "PASS",
-   "detail": "全部分类数量与官方声明一致（5 分类）"
+   "detail": "全部分类数量与官方声明一致（0 分类）"
   },
   {
    "check": "detail_completeness",
-   "status": "PASS",
-   "detail": "779 条；name 覆盖 779/779，details 覆盖 779/779（阈值 0.95）"
+   "status": "FAIL",
+   "detail": "0 条；name 覆盖 0/0，details 覆盖 0/0（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -37,54 +37,23 @@
   },
   {
    "check": "no_severe_errors",
-   "status": "PASS",
-   "detail": "无采集错误"
+   "status": "FAIL",
+   "detail": "采集错误 1 条: WAF: 页面始终未就绪（可能被风控，详见 evidence）"
   },
   {
    "check": "no_abnormal_drop",
-   "status": "PASS",
-   "detail": "上次 779 条 → 本次 779 条（下降 0 条 / 0%）"
+   "status": "FAIL",
+   "detail": "上次 779 条 → 本次 0 条（下降 779 条 / 100%）"
   }
  ],
- "category_results": [
-  {
-   "category": "套餐",
-   "expected": 72,
-   "collected": 72,
-   "error": ""
-  },
-  {
-   "category": "加装包",
-   "expected": 492,
-   "collected": 492,
-   "error": ""
-  },
-  {
-   "category": "营销活动",
-   "expected": 215,
-   "collected": 215,
-   "error": ""
-  },
-  {
-   "category": "国际/港澳台资费",
-   "expected": 0,
-   "collected": 0,
-   "error": ""
-  },
-  {
-   "category": "国内（不含港澳台）标准资费",
-   "expected": 0,
-   "collected": 0,
-   "error": ""
-  }
- ],
- "scope": "河北资费页签(provCode=609906) × 网厅个人资费专区",
- "evidence_summary": {
-  "report_prefixes": [
-   "24",
-   "25",
-   "26"
-  ]
- },
- "failure_reasons": []
+ "category_results": [],
+ "scope": "",
+ "evidence_summary": {},
+ "failure_reasons": [
+  "province_hebei: province_ok=False; evidence={}",
+  "categories_covered: 发现 0 个分类，其中有效 0；异常: []",
+  "detail_completeness: 0 条；name 覆盖 0/0，details 覆盖 0/0（阈值 0.95）",
+  "no_severe_errors: 采集错误 1 条: WAF: 页面始终未就绪（可能被风控，详见 evidence）",
+  "no_abnormal_drop: 上次 779 条 → 本次 0 条（下降 779 条 / 100%）"
+ ]
 }
