@@ -1,6 +1,6 @@
 {
  "operator": "cucc",
- "generated_at": "2026-10-09T00:06:39+0000",
+ "generated_at": "2026-10-09T23:47:09+0000",
  "overall": "PASS",
  "item_count": 1726,
  "previous_count": 1726,
@@ -109,8 +109,8 @@
   },
   {
    "category": "营销活动>促销",
-   "expected": 135,
-   "collected": 135,
+   "expected": 136,
+   "collected": 136,
    "error": ""
   },
   {
@@ -163,8 +163,8 @@
   },
   {
    "category": "停售套餐>营销活动",
-   "expected": 146,
-   "collected": 146,
+   "expected": 145,
+   "collected": 145,
    "error": ""
   },
   {
