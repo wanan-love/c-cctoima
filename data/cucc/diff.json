@@ -1,31 +1,207 @@
 {
- "generated_at": "2026-10-10T00:07:28+0000",
+ "generated_at": "2026-10-10T23:28:52+0000",
  "current_count": 1726,
  "previous_count": 1726,
  "added": {
-  "count": 0,
-  "items": []
- },
- "removed": {
-  "count": 0,
-  "items": []
- },
- "modified": {
-  "count": 1,
+  "count": 2,
   "items": [
    {
-    "tariff_id": "CUCC-26HE300186",
-    "name": "宽视界调测费200元",
-    "category": "营销活动",
+    "tariff_id": "CUCC-26HE300431",
+    "name": "239元联通智家5G终端套餐存2556元送2556元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300432",
+    "name": "299元联通智家5G终端套餐存3222元送3222元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐"
+   }
+  ]
+ },
+ "removed": {
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300189",
+    "name": "联通智家5G套餐专属1元40G国内通用流量包有效期36个月（河北）-立即生效",
+    "category": "停售套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300269",
+    "name": "联通智家5G套餐专属1元300分钟国内通用语音包有效期36个月（河北）-立即生效",
+    "category": "停售套餐"
+   }
+  ]
+ },
+ "modified": {
+  "count": 20,
+  "items": [
+   {
+    "tariff_id": "CUCC-24HE300608",
+    "name": "U惠购机5G流量合约卡-399套餐（河北）",
+    "category": "停售套餐",
     "fields": [
      "category",
      "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300045",
+    "name": "5G系列套餐预存1500元话费分月转兑发放异业权益电子劵（一次性）-合约期36个月（河北）-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300031",
+    "name": "影视超级VIP（连续包月）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300404",
+    "name": "联通智家5G云智套餐分月送券合约399元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300405",
+    "name": "联通智家5G云智套餐分月送券合约530元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300406",
+    "name": "联通智家5G云智套餐分月送券合约552元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300407",
+    "name": "联通智家5G云智套餐分月送券合约585元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300408",
+    "name": "联通智家5G云智套餐分月送券合约331元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300409",
+    "name": "联通智家5G云智套餐分月送券合约852元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300410",
+    "name": "联通智家5G云智套餐分月送券合约750元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300411",
+    "name": "联通智家5G云智套餐分月送券合约1349元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300412",
+    "name": "联通智家5G云智套餐分月送券合约1580元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300413",
+    "name": "联通智家5G云智套餐分月送券合约2272元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300422",
+    "name": "联通智家畅越云龙通通乐购999元分月送券1200元活动36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300423",
+    "name": "联通智家畅越云龙基础乐购659元分月送券800元活动36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300424",
+    "name": "联通智家畅越云智双看家乐购360元分月送券450元活动36个月（河北）次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300425",
+    "name": "联通智家畅越云智光宽带乐购499元分月送券560元活动36个月（河北）次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300426",
+    "name": "联通智家畅越FTTR乐购299元分月送券360元活动36个月（河北）次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300427",
+    "name": "联通智家畅越云智双看家乐购360元分月送券400元活动36个月（河北）次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300428",
+    "name": "联通智家畅越云智看家乐购200元分月送券240元活动24个月（河北）次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 1725
+  "count": 1704
  },
  "has_change": true,
  "status": "CHANGED"

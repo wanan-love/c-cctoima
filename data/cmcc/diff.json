@@ -1,154 +1,123 @@
 {
- "generated_at": "2026-10-10T00:07:28+0000",
+ "generated_at": "2026-10-10T23:28:52+0000",
  "current_count": 2249,
  "previous_count": 2249,
  "added": {
-  "count": 10,
+  "count": 9,
   "items": [
    {
-    "tariff_id": "CMCC-25HE201060",
-    "name": "宠物智能定位服务权益包（24个月）",
+    "tariff_id": "CMCC-25HE200532",
+    "name": "心级服务随心看会员",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201061",
+    "name": "宠物智能定位服务权益包（480元）-预存版",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE201745",
-    "name": "金牌回馈-超高端客户FTTR体验36个月",
+    "tariff_id": "CMCC-26HE200064",
+    "name": "2026移动看家室外安防球机半趸交—冀享专属",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE202260",
-    "name": "云电脑服务两年（组合一体机-2025新）",
+    "tariff_id": "CMCC-26HE201259",
+    "name": "移动看家AI双摄服务包-室内安防装维版-冀享专属（现金版）",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE202261",
-    "name": "云电脑服务三年（组合一体机-2025新）",
+    "tariff_id": "CMCC-26HE201260",
+    "name": "移动看家AI双摄服务包-室外安防球机装维版-冀享专属（现金版）",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE202847",
-    "name": "云电脑服务三年（云PAD-2025新）",
+    "tariff_id": "CMCC-26HE201261",
+    "name": "云电脑服务三年（智慧小盒装维）-2026新",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE202848",
-    "name": "云电脑服务两年（一体机或云笔电-2025新）",
+    "tariff_id": "CMCC-26HE201262",
+    "name": "云电脑服务三年（智慧小盒装维）-2026新划拨",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-25HE202849",
-    "name": "云电脑服务两年（云PAD-2025新）",
-    "category": "套餐"
+    "tariff_id": "CMCC-26HE201263",
+    "name": "高端慧眼云盒-169档及以上",
+    "category": "营销活动"
    },
    {
-    "tariff_id": "CMCC-25HE202850",
-    "name": "云电脑服务三年（一体机或云笔电-2025新）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE203334",
-    "name": "动感地带品牌套餐-39元档",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE200048",
-    "name": "动感地带品牌套餐-59元档",
-    "category": "套餐"
+    "tariff_id": "CMCC-26HE201264",
+    "name": "高端慧眼云盒-169档及以上-划拨版",
+    "category": "营销活动"
    }
   ]
  },
  "removed": {
-  "count": 10,
+  "count": 9,
   "items": [
    {
-    "tariff_id": "CMCC-24HE200350",
-    "name": "0预存5G金币购机合约活动129元档（36个月）-社会渠道-直降1080元",
+    "tariff_id": "CMCC-25HE201231",
+    "name": "IPTV健康生活VIP（亲情付）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201232",
+    "name": "IPTV教育VIP（亲情付）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201233",
+    "name": "IPTV少儿VIP（亲情付）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201234",
+    "name": "IPTV体育VIP（亲情付）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201235",
+    "name": "IPTV影视VIP（亲情付）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201236",
+    "name": "IPTV娱乐VIP（亲情付）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE202208",
+    "name": "IPTV健康生活VIP（亲情付）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE203108",
+    "name": "智能组网服务（线上专属）",
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-24HE200351",
-    "name": "0预存5G金币购机合约活动129元档（36个月）-社会渠道-直降720元",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-24HE200352",
-    "name": "0预存5G金币购机合约活动-社会渠道-36个月149元档_144000",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-24HE200353",
-    "name": "0预存5G金币购机合约活动-社会渠道-36个月149元档_108000",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-24HE200354",
-    "name": "0预存5G金币购机合约活动169元档（36个月）-社会渠道-直降1440元",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-24HE200355",
-    "name": "0预存5G金币购机合约活动169元档（36个月）-社会渠道-直降1800元",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE200785",
-    "name": "0预存5G金币购机合约活动129元档（36个月）-社会渠道-直降1440元",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE200797",
-    "name": "0预存5G金币购机合约活动299元档（36个月）-社会渠道-直降2160元",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE200815",
-    "name": "0预存5G金币购机合约活动239元档（36个月）-社会渠道-直降2160元",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE200823",
-    "name": "0预存5G金币购机合约活动199元档（36个月）-社会渠道-直降2160元",
-    "category": "套餐"
+    "tariff_id": "CMCC-26HE201020",
+    "name": "雄安9元返费优惠（12个月）",
+    "category": "营销活动"
    }
   ]
  },
  "modified": {
-  "count": 4,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CMCC-24HE200573",
-    "name": "移动孝心卡19元打折到9元优惠",
-    "category": "营销活动",
-    "fields": [
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE202177",
-    "name": "100元光猫安装服务",
-    "category": "标准资费",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-25HE202178",
-    "name": "100元10GPON光猫安装服务",
-    "category": "标准资费",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-25HE202888",
-    "name": "满格宝-200元押金",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200143",
+    "name": "时光畅享套餐169元档",
+    "category": "套餐",
     "fields": [
      "validity",
-     "description"
+     "eligibility"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2235
+  "count": 2239
  },
  "has_change": true,
  "status": "CHANGED"

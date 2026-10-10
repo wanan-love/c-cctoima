@@ -1,6 +1,6 @@
 {
  "operator": "cucc",
- "generated_at": "2026-10-09T23:47:09+0000",
+ "generated_at": "2026-10-10T23:05:55+0000",
  "overall": "PASS",
  "item_count": 1726,
  "previous_count": 1726,
@@ -49,8 +49,8 @@
  "category_results": [
   {
    "category": "套餐>移网",
-   "expected": 65,
-   "collected": 65,
+   "expected": 66,
+   "collected": 66,
    "error": ""
   },
   {
@@ -97,8 +97,8 @@
   },
   {
    "category": "加装包>新业务",
-   "expected": 115,
-   "collected": 115,
+   "expected": 114,
+   "collected": 114,
    "error": ""
   },
   {
@@ -115,8 +115,8 @@
   },
   {
    "category": "营销活动>合约",
-   "expected": 39,
-   "collected": 39,
+   "expected": 38,
+   "collected": 38,
    "error": ""
   },
   {
@@ -151,20 +151,20 @@
   },
   {
    "category": "停售套餐>套餐",
-   "expected": 591,
-   "collected": 591,
+   "expected": 592,
+   "collected": 592,
    "error": ""
   },
   {
    "category": "停售套餐>加装包",
-   "expected": 297,
-   "collected": 297,
+   "expected": 296,
+   "collected": 296,
    "error": ""
   },
   {
    "category": "停售套餐>营销活动",
-   "expected": 145,
-   "collected": 145,
+   "expected": 146,
+   "collected": 146,
    "error": ""
   },
   {

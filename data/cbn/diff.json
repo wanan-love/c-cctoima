@@ -1,10 +1,21 @@
 {
- "generated_at": "2026-10-10T00:07:28+0000",
- "current_count": 133,
+ "generated_at": "2026-10-10T23:28:52+0000",
+ "current_count": 135,
  "previous_count": 133,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CBN-26HE500020",
+    "name": "广电慧家高校青春卡39元档月套餐（河北）",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CBN-26HE500021",
+    "name": "广电慧家冀广惠59元档月套餐（河北）",
+    "category": "套餐"
+   }
+  ]
  },
  "removed": {
   "count": 0,
@@ -17,6 +28,6 @@
  "unchanged": {
   "count": 133
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

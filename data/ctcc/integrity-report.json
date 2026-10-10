@@ -1,9 +1,9 @@
 {
  "operator": "ctcc",
- "generated_at": "2026-10-09T23:38:53+0000",
+ "generated_at": "2026-10-10T23:01:24+0000",
  "overall": "PASS",
- "item_count": 780,
- "previous_count": 779,
+ "item_count": 778,
+ "previous_count": 780,
  "checks": [
   {
    "check": "province_hebei",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "780 条；name 覆盖 780/780，details 覆盖 780/780（阈值 0.95）"
+   "detail": "778 条；name 覆盖 778/778，details 覆盖 778/778（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 779 条 → 本次 780 条（下降 -1 条 / -0%）"
+   "detail": "上次 780 条 → 本次 778 条（下降 2 条 / 0%）"
   }
  ],
  "category_results": [
@@ -55,14 +55,14 @@
   },
   {
    "category": "加装包",
-   "expected": 492,
-   "collected": 492,
+   "expected": 491,
+   "collected": 491,
    "error": ""
   },
   {
    "category": "营销活动",
-   "expected": 216,
-   "collected": 216,
+   "expected": 215,
+   "collected": 215,
    "error": ""
   },
   {

@@ -1,46 +1,76 @@
 {
- "generated_at": "2026-10-10T00:07:28+0000",
- "current_count": 780,
- "previous_count": 779,
+ "generated_at": "2026-10-10T23:28:52+0000",
+ "current_count": 778,
+ "previous_count": 780,
  "added": {
   "count": 1,
   "items": [
    {
-    "tariff_id": "CTCC-26HE100250",
-    "name": "存量维系-套餐月费优惠包-单宽融合当月优惠",
-    "category": "营销活动"
+    "tariff_id": "CTCC-25HE100075",
+    "name": "云U盘(天翼云盘PC挂载)",
+    "category": "加装包"
    }
   ]
  },
  "removed": {
-  "count": 0,
-  "items": []
- },
- "modified": {
-  "count": 2,
+  "count": 3,
   "items": [
    {
-    "tariff_id": "CTCC-25HE100111",
-    "name": "促销-共享流量包100G",
-    "category": "加装包",
+    "tariff_id": "CTCC-24HE100016",
+    "name": "轻享合约-15G权益流量升级包24个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100385",
+    "name": "橙分期标识可选包0元-24月",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100386",
+    "name": "橙分期标识可选包0元-36个月",
+    "category": "加装包"
+   }
+  ]
+ },
+ "modified": {
+  "count": 3,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100230",
+    "name": "天翼魔方宽带1000M",
+    "category": "套餐",
     "fields": [
-     "price",
-     "eligibility"
+     "name",
+     "validity",
+     "eligibility",
+     "description"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100148",
-    "name": "智家产品话费补贴360元-36个月",
-    "category": "营销活动",
+    "tariff_id": "CTCC-26HE100231",
+    "name": "天翼魔方宽带300M",
+    "category": "套餐",
+    "fields": [
+     "name",
+     "validity",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100232",
+    "name": "天翼魔方移动",
+    "category": "套餐",
     "fields": [
      "validity",
-     "eligibility"
+     "eligibility",
+     "description"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 777
+  "count": 774
  },
  "has_change": true,
  "status": "CHANGED"
