@@ -1,77 +1,22 @@
 {
- "generated_at": "2026-10-10T23:28:52+0000",
+ "generated_at": "2026-10-11T23:41:46+0000",
  "current_count": 778,
- "previous_count": 780,
+ "previous_count": 778,
  "added": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CTCC-25HE100075",
-    "name": "云U盘(天翼云盘PC挂载)",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 3,
-  "items": [
-   {
-    "tariff_id": "CTCC-24HE100016",
-    "name": "轻享合约-15G权益流量升级包24个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CTCC-25HE100385",
-    "name": "橙分期标识可选包0元-24月",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-25HE100386",
-    "name": "橙分期标识可选包0元-36个月",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
-  "count": 3,
-  "items": [
-   {
-    "tariff_id": "CTCC-26HE100230",
-    "name": "天翼魔方宽带1000M",
-    "category": "套餐",
-    "fields": [
-     "name",
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100231",
-    "name": "天翼魔方宽带300M",
-    "category": "套餐",
-    "fields": [
-     "name",
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-26HE100232",
-    "name": "天翼魔方移动",
-    "category": "套餐",
-    "fields": [
-     "validity",
-     "eligibility",
-     "description"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 774
+  "count": 778
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

@@ -1,9 +1,9 @@
 {
  "operator": "cbn",
- "generated_at": "2026-10-10T23:01:16+0000",
+ "generated_at": "2026-10-11T23:18:51+0000",
  "overall": "PASS",
  "item_count": 135,
- "previous_count": 133,
+ "previous_count": 135,
  "checks": [
   {
    "check": "province_hebei",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 133 条 → 本次 135 条（下降 -2 条 / -2%）"
+   "detail": "上次 135 条 → 本次 135 条（下降 0 条 / 0%）"
   }
  ],
  "category_results": [

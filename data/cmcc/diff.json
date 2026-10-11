@@ -1,124 +1,22 @@
 {
- "generated_at": "2026-10-10T23:28:52+0000",
+ "generated_at": "2026-10-11T23:41:46+0000",
  "current_count": 2249,
  "previous_count": 2249,
  "added": {
-  "count": 9,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE200532",
-    "name": "心级服务随心看会员",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201061",
-    "name": "宠物智能定位服务权益包（480元）-预存版",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE200064",
-    "name": "2026移动看家室外安防球机半趸交—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201259",
-    "name": "移动看家AI双摄服务包-室内安防装维版-冀享专属（现金版）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201260",
-    "name": "移动看家AI双摄服务包-室外安防球机装维版-冀享专属（现金版）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201261",
-    "name": "云电脑服务三年（智慧小盒装维）-2026新",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201262",
-    "name": "云电脑服务三年（智慧小盒装维）-2026新划拨",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201263",
-    "name": "高端慧眼云盒-169档及以上",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201264",
-    "name": "高端慧眼云盒-169档及以上-划拨版",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 9,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE201231",
-    "name": "IPTV健康生活VIP（亲情付）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201232",
-    "name": "IPTV教育VIP（亲情付）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201233",
-    "name": "IPTV少儿VIP（亲情付）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201234",
-    "name": "IPTV体育VIP（亲情付）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201235",
-    "name": "IPTV影视VIP（亲情付）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201236",
-    "name": "IPTV娱乐VIP（亲情付）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE202208",
-    "name": "IPTV健康生活VIP（亲情付）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE203108",
-    "name": "智能组网服务（线上专属）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201020",
-    "name": "雄安9元返费优惠（12个月）",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CMCC-26HE200143",
-    "name": "时光畅享套餐169元档",
-    "category": "套餐",
-    "fields": [
-     "validity",
-     "eligibility"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2239
+  "count": 2249
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
