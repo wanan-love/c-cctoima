@@ -1,8 +1,8 @@
 {
  "operator": "cbn",
- "generated_at": "2026-10-11T23:18:51+0000",
+ "generated_at": "2026-10-13T01:44:29+0000",
  "overall": "PASS",
- "item_count": 135,
+ "item_count": 137,
  "previous_count": 135,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "135 条；name 覆盖 135/135，details 覆盖 135/135（阈值 0.95）"
+   "detail": "137 条；name 覆盖 137/137，details 覆盖 137/137（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 135 条 → 本次 135 条（下降 0 条 / 0%）"
+   "detail": "上次 135 条 → 本次 137 条（下降 -2 条 / -1%）"
   }
  ],
  "category_results": [
@@ -57,8 +57,8 @@
   {
    "category": "套餐",
    "subcategory": "5G套餐",
-   "expected": 110,
-   "collected": 110,
+   "expected": 111,
+   "collected": 111,
    "error": ""
   },
   {
@@ -99,8 +99,8 @@
   {
    "category": "营销活动",
    "subcategory": "促销",
-   "expected": 6,
-   "collected": 6,
+   "expected": 7,
+   "collected": 7,
    "error": ""
   },
   {
