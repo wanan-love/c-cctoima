@@ -1,22 +1,62 @@
 {
- "generated_at": "2026-10-13T02:18:58+0000",
- "current_count": 778,
+ "generated_at": "2026-10-13T23:58:01+0000",
+ "current_count": 782,
  "previous_count": 778,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100252",
+    "name": "明星呼叫秀（标准版）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100253",
+    "name": "5G增强通话体验版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100254",
+    "name": "点亮屏幕（标准版）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100255",
+    "name": "趣味通话（标准版）",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CTCC-25HE100113",
+    "name": "促销-共享流量包120G",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100046",
+    "name": "副卡功能费优惠可选包（优惠至10元）",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 778
+  "count": 776
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

@@ -1,42 +1,22 @@
 {
- "generated_at": "2026-10-13T02:18:58+0000",
+ "generated_at": "2026-10-13T23:58:01+0000",
  "current_count": 137,
- "previous_count": 135,
+ "previous_count": 137,
  "added": {
-  "count": 2,
-  "items": [
-   {
-    "tariff_id": "CBN-26HE500022",
-    "name": "随心选实惠购（促销）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CBN-26HE500023",
-    "name": "广电慧家冀广惠59元-促销年包（619元）",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CBN-26HE500021",
-    "name": "广电慧家冀广惠59元档月套餐（河北）",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 134
+  "count": 137
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

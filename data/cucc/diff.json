@@ -1,31 +1,10 @@
 {
- "generated_at": "2026-10-13T02:18:58+0000",
+ "generated_at": "2026-10-13T23:58:01+0000",
  "current_count": 1730,
- "previous_count": 1726,
+ "previous_count": 1730,
  "added": {
-  "count": 4,
-  "items": [
-   {
-    "tariff_id": "CUCC-26HE300433",
-    "name": "畅越升级生活权益包36个月（河北）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CUCC-26HE300434",
-    "name": "畅越升级黄金权益包36个月（河北）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CUCC-26HE300435",
-    "name": "畅越升级钻石权益包36个月（河北）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CUCC-26HE300436",
-    "name": "畅越升级白金权益包36个月（河北）",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
@@ -36,8 +15,8 @@
   "items": []
  },
  "unchanged": {
-  "count": 1726
+  "count": 1730
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

@@ -1,8 +1,8 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-10-13T02:16:51+0000",
- "overall": "FAIL",
- "item_count": 2059,
+ "generated_at": "2026-10-13T23:55:49+0000",
+ "overall": "PASS",
+ "item_count": 2244,
  "previous_count": 2249,
  "checks": [
   {
@@ -22,13 +22,13 @@
   },
   {
    "check": "official_totals",
-   "status": "FAIL",
-   "detail": "营销活动: 845/1035"
+   "status": "PASS",
+   "detail": "全部分类数量与官方声明一致（5 分类）"
   },
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2059 条；name 覆盖 2059/2059，details 覆盖 2059/2059（阈值 0.95）"
+   "detail": "2244 条；name 覆盖 2244/2244，details 覆盖 2244/2244（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2249 条 → 本次 2059 条（下降 190 条 / 8%）"
+   "detail": "上次 2249 条 → 本次 2244 条（下降 5 条 / 0%）"
   }
  ],
  "category_results": [
@@ -56,16 +56,16 @@
   },
   {
    "label": "加装包",
-   "items": 688,
-   "beans": 675,
-   "total": 684,
+   "items": 683,
+   "beans": 670,
+   "total": 683,
    "note": ""
   },
   {
    "label": "营销活动",
-   "items": 845,
-   "beans": 835,
-   "total": 1035,
+   "items": 1035,
+   "beans": 1025,
+   "total": 1031,
    "note": ""
   },
   {
@@ -101,7 +101,5 @@
    "标准资费"
   ]
  },
- "failure_reasons": [
-  "official_totals: 营销活动: 845/1035"
- ]
+ "failure_reasons": []
 }
