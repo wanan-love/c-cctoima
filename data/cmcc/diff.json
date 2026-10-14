@@ -1,127 +1,36 @@
 {
- "generated_at": "2026-10-13T23:58:01+0000",
+ "generated_at": "2026-10-14T23:32:11+0000",
  "current_count": 2244,
- "previous_count": 2249,
+ "previous_count": 2244,
  "added": {
-  "count": 4,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CMCC-24HE200264",
-    "name": "存100元分月返（2022）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE202555",
-    "name": "金牌回馈24个月-专属流量扩容包30GB全国通用流量（不含港澳台地区）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200113",
-    "name": "预存50元话费活动",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201265",
-    "name": "爱家TV影视VIP-7天（体验包）",
-    "category": "营销活动"
+    "tariff_id": "CMCC-26HE200067",
+    "name": "2026移动看家室外安防球机装维版半趸交—冀享专属",
+    "category": "套餐"
    }
   ]
  },
  "removed": {
-  "count": 9,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CMCC-24HE201233",
-    "name": "安心防扰包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-24HE201294",
-    "name": "河北铁塔30天换电权益包（24个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE200450",
-    "name": "新版老客户升级99尊享60GB流量（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200456",
-    "name": "新版老客户升级79尊享45GB流量（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE203026",
-    "name": "移动云盘手表专属包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200036",
-    "name": "60元600分钟通话半年包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200037",
-    "name": "中国移动安全管家（AI豆）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200038",
-    "name": "移动云盘1个月会员（AI豆）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200039",
-    "name": "通话字幕小助手（AI豆）",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE202924",
+    "name": "创业冀享卡39档",
+    "category": "套餐"
    }
   ]
  },
  "modified": {
-  "count": 6,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CMCC-25HE202051",
-    "name": "50G通用流量包（0元1个月）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-25HE202059",
-    "name": "500分钟语音包（0元1个月）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-26HE201040",
-    "name": "爱家光网服务预存版-冀享专属存量",
-    "category": "套餐",
+    "tariff_id": "CMCC-25HE203270",
+    "name": "多条宽带-500M-30元",
+    "category": "标准资费",
     "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201042",
-    "name": "爱家光网服务预存版-冀享专属新增",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201098",
-    "name": "爱家光网服务-99档及以上-预存版新增",
-    "category": "套餐",
-    "fields": [
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201099",
-    "name": "爱家光网服务-79档及以上-预存版存量",
-    "category": "套餐",
-    "fields": [
+     "validity",
      "eligibility",
      "description"
     ]
@@ -129,7 +38,7 @@
   ]
  },
  "unchanged": {
-  "count": 2234
+  "count": 2242
  },
  "has_change": true,
  "status": "CHANGED"
