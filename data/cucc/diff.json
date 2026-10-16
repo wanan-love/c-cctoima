@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T23:16:51+0000",
+ "generated_at": "2026-10-16T22:46:25+0000",
  "current_count": 1730,
  "previous_count": 1730,
  "added": {
@@ -11,29 +11,12 @@
   "items": []
  },
  "modified": {
-  "count": 2,
-  "items": [
-   {
-    "tariff_id": "CUCC-24HE300238",
-    "name": "1000M宽带提速包(30元/月)[河北]",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300239",
-    "name": "20元千兆宽带(1000M)提速包（河北）",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 1728
+  "count": 1730
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
