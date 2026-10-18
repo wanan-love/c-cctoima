@@ -1,34 +1,22 @@
 {
- "generated_at": "2026-10-17T22:27:11+0000",
+ "generated_at": "2026-10-18T22:44:45+0000",
  "current_count": 2272,
  "previous_count": 2272,
  "added": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CMCC-26HE200063",
-    "name": "2026移动看家室外安防球机装维版—冀享专属",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CMCC-26HE201200",
-    "name": "爱家光网服务-青春版-30元B档",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
   "count": 0,
   "items": []
  },
  "unchanged": {
-  "count": 2271
+  "count": 2272
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

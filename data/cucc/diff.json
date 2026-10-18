@@ -1,10 +1,21 @@
 {
- "generated_at": "2026-10-17T22:27:11+0000",
- "current_count": 1730,
+ "generated_at": "2026-10-18T22:44:46+0000",
+ "current_count": 1732,
  "previous_count": 1730,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300438",
+    "name": "畅越优选24.9元/月中石化权益联通云盘组合包(河北)-次月生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-26HE300439",
+    "name": "畅越优选24.9元/月中石油权益联通云盘组合包(河北)-次月生效",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
@@ -17,6 +28,6 @@
  "unchanged": {
   "count": 1730
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
