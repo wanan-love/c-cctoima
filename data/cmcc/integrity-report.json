@@ -1,8 +1,8 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-10-18T22:42:37+0000",
- "overall": "PASS",
- "item_count": 2272,
+ "generated_at": "2026-10-19T23:35:23+0000",
+ "overall": "FAIL",
+ "item_count": 1225,
  "previous_count": 2272,
  "checks": [
   {
@@ -17,8 +17,8 @@
   },
   {
    "check": "categories_covered",
-   "status": "PASS",
-   "detail": "发现 5 个分类，其中有效 5；异常: []"
+   "status": "FAIL",
+   "detail": "发现 5 个分类，其中有效 4；异常: []"
   },
   {
    "check": "official_totals",
@@ -28,12 +28,12 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2272 条；name 覆盖 2272/2272，details 覆盖 2272/2272（阈值 0.95）"
+   "detail": "1225 条；name 覆盖 1225/1225，details 覆盖 1225/1225（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
    "status": "PASS",
-   "detail": "重复 tariff_id 0 个（权威判据）；同分类同名不同编号 5 组（官方数据的同名独立方案，信息项）"
+   "detail": "重复 tariff_id 0 个（权威判据）；同分类同名不同编号 0 组（官方数据的同名独立方案，信息项）"
   },
   {
    "check": "no_severe_errors",
@@ -42,8 +42,8 @@
   },
   {
    "check": "no_abnormal_drop",
-   "status": "PASS",
-   "detail": "上次 2272 条 → 本次 2272 条（下降 0 条 / 0%）"
+   "status": "FAIL",
+   "detail": "上次 2272 条 → 本次 1225 条（下降 1047 条 / 46%）"
   }
  ],
  "category_results": [
@@ -51,21 +51,21 @@
    "label": "套餐",
    "items": 434,
    "beans": 415,
-   "total": 430,
+   "total": 434,
    "note": ""
   },
   {
    "label": "加装包",
-   "items": 693,
-   "beans": 680,
-   "total": 689,
+   "items": 698,
+   "beans": 685,
+   "total": 698,
    "note": ""
   },
   {
    "label": "营销活动",
-   "items": 1053,
-   "beans": 1053,
-   "total": 1053,
+   "items": 0,
+   "beans": 0,
+   "total": 0,
    "note": ""
   },
   {
@@ -101,5 +101,8 @@
    "标准资费"
   ]
  },
- "failure_reasons": []
+ "failure_reasons": [
+  "categories_covered: 发现 5 个分类，其中有效 4；异常: []",
+  "no_abnormal_drop: 上次 2272 条 → 本次 1225 条（下降 1047 条 / 46%）"
+ ]
 }

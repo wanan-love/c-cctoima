@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-18T22:44:46+0000",
- "current_count": 1732,
- "previous_count": 1730,
+ "generated_at": "2026-10-19T23:37:23+0000",
+ "current_count": 1734,
+ "previous_count": 1732,
  "added": {
   "count": 2,
   "items": [
    {
-    "tariff_id": "CUCC-26HE300438",
-    "name": "畅越优选24.9元/月中石化权益联通云盘组合包(河北)-次月生效",
+    "tariff_id": "CUCC-26HE300437",
+    "name": "畅越优选9.9元权益超市汽水音乐会员体验包1个月(河北)-立即生效",
     "category": "加装包"
    },
    {
-    "tariff_id": "CUCC-26HE300439",
-    "name": "畅越优选24.9元/月中石油权益联通云盘组合包(河北)-次月生效",
+    "tariff_id": "CUCC-26HE300440",
+    "name": "畅越优选25元/月线下消费权益联通云盘组合包(河北)-次月生效",
     "category": "加装包"
    }
   ]
@@ -22,11 +22,100 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 12,
+  "items": [
+   {
+    "tariff_id": "CUCC-25HE301034",
+    "name": "客户回馈预存240元赠会员权益有效期12个月(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301035",
+    "name": "客户回馈预存120元赠会员权益有效期6个月(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300217",
+    "name": "(河北)中国联通APP月月抽好礼活动",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300275",
+    "name": "畅越优选24.9元/月中石化权益联通云盘组合包(河北)-立即生效",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300276",
+    "name": "畅越优选24.9元/月中石油权益联通云盘组合包(河北)-立即生效",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300277",
+    "name": "畅越优选线下消费流量组合包99元有效期6个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300278",
+    "name": "畅越优选25元/月线下消费权益联通云盘组合包(河北)-立即生效",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300335",
+    "name": "客户感知提升预存120元赠线下消费权益有效期12个月(河北)-立即生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300433",
+    "name": "畅越升级生活权益包36个月（河北）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300434",
+    "name": "畅越升级黄金权益包36个月（河北）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300435",
+    "name": "畅越升级钻石权益包36个月（河北）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300436",
+    "name": "畅越升级白金权益包36个月（河北）",
+    "category": "营销活动",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 1730
+  "count": 1720
  },
  "has_change": true,
  "status": "CHANGED"

@@ -1,9 +1,9 @@
 {
  "operator": "cucc",
- "generated_at": "2026-10-18T22:04:38+0000",
+ "generated_at": "2026-10-19T23:16:10+0000",
  "overall": "PASS",
- "item_count": 1732,
- "previous_count": 1730,
+ "item_count": 1734,
+ "previous_count": 1732,
  "checks": [
   {
    "check": "province_hebei",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1732 条；name 覆盖 1732/1732，details 覆盖 1732/1732（阈值 0.95）"
+   "detail": "1734 条；name 覆盖 1734/1734，details 覆盖 1734/1734（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1730 条 → 本次 1732 条（下降 -2 条 / -0%）"
+   "detail": "上次 1732 条 → 本次 1734 条（下降 -2 条 / -0%）"
   }
  ],
  "category_results": [
@@ -91,8 +91,8 @@
   },
   {
    "category": "加装包>权益包",
-   "expected": 41,
-   "collected": 41,
+   "expected": 43,
+   "collected": 43,
    "error": ""
   },
   {
@@ -109,14 +109,14 @@
   },
   {
    "category": "营销活动>促销",
-   "expected": 140,
-   "collected": 140,
+   "expected": 142,
+   "collected": 142,
    "error": ""
   },
   {
    "category": "营销活动>合约",
-   "expected": 38,
-   "collected": 38,
+   "expected": 37,
+   "collected": 37,
    "error": ""
   },
   {
@@ -163,8 +163,8 @@
   },
   {
    "category": "停售套餐>营销活动",
-   "expected": 146,
-   "collected": 146,
+   "expected": 145,
+   "collected": 145,
    "error": ""
   },
   {
