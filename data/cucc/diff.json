@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T23:11:57+0000",
+ "generated_at": "2026-10-21T23:16:55+0000",
  "current_count": 1734,
  "previous_count": 1734,
  "added": {
@@ -11,33 +11,12 @@
   "items": []
  },
  "modified": {
-  "count": 3,
-  "items": [
-   {
-    "tariff_id": "CUCC-25HE300663",
-    "name": "联通智家畅越全屋光宽带专享权益合约 12 个月(河北)-次月生效",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300981",
-    "name": "畅越升级权益会员专属年包(河北)-立即生效",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300982",
-    "name": "畅越升级权益会员专属年包(河北)-次月生效",
-    "category": "营销活动",
-    "fields": []
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 1731
+  "count": 1734
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
