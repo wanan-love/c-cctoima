@@ -1,6 +1,6 @@
 {
  "operator": "cucc",
- "generated_at": "2026-10-21T22:56:26+0000",
+ "generated_at": "2026-10-22T22:55:25+0000",
  "overall": "PASS",
  "item_count": 1734,
  "previous_count": 1734,
@@ -73,8 +73,8 @@
   },
   {
    "category": "加装包>流量包",
-   "expected": 81,
-   "collected": 81,
+   "expected": 78,
+   "collected": 78,
    "error": ""
   },
   {
@@ -103,14 +103,14 @@
   },
   {
    "category": "加装包>其他",
-   "expected": 64,
-   "collected": 64,
+   "expected": 68,
+   "collected": 68,
    "error": ""
   },
   {
    "category": "营销活动>促销",
-   "expected": 142,
-   "collected": 142,
+   "expected": 139,
+   "collected": 139,
    "error": ""
   },
   {
@@ -157,8 +157,8 @@
   },
   {
    "category": "停售套餐>加装包",
-   "expected": 296,
-   "collected": 296,
+   "expected": 298,
+   "collected": 298,
    "error": ""
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T23:16:55+0000",
+ "generated_at": "2026-10-22T23:20:07+0000",
  "current_count": 1734,
  "previous_count": 1734,
  "added": {
@@ -11,12 +11,214 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 28,
+  "items": [
+   {
+    "tariff_id": "CUCC-25HE300753",
+    "name": "2023校园专属1元10G流量包-立即生效（48个月）（河北定向）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300761",
+    "name": "2023校园专属1元200G流量包-立即生效（48个月）（河北定向）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300762",
+    "name": "2023校园专属1元200G流量包-次月生效（48个月）（河北定向）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300809",
+    "name": "FTTR组网主光猫升级服务优惠产品长期有效（河北）-次月生效",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "validity",
+     "eligibility",
+     "description",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300810",
+    "name": "FTTR组网标准档从光猫1升级服务优惠长期有效（河北）-次月生效",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "validity",
+     "eligibility",
+     "description",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300811",
+    "name": "FTTR组网中档从光猫2升级服务优惠长期有效（河北）-次月生效",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "validity",
+     "eligibility",
+     "description",
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300010",
+    "name": "健康生活VIP（1周）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300012",
+    "name": "健康生活VIP（连续包月）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300013",
+    "name": "娱乐VIP（1周）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300015",
+    "name": "娱乐VIP（连续包月）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300016",
+    "name": "教育VIP（1周）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300018",
+    "name": "教育VIP（连续包月）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300019",
+    "name": "少儿单片（12元/次）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300020",
+    "name": "少儿单片（10元/次）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300021",
+    "name": "少儿单片（8元/次）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300022",
+    "name": "少儿单片（5元/次）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300023",
+    "name": "少儿VIP（1周）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300024",
+    "name": "少儿VIP（包季）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300026",
+    "name": "少儿VIP（连续包月）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300027",
+    "name": "影视单片（12元/次）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300028",
+    "name": "影视单片（10元/次）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300029",
+    "name": "影视单片（8元/次）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300030",
+    "name": "影视单片（5元/次）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300032",
+    "name": "影视VIP（1周）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300033",
+    "name": "影视VIP（包季）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300034",
+    "name": "影视超级VIP（1个月）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300035",
+    "name": "影视VIP（连续包月）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300184",
+    "name": "石家庄宽带赠费20元(立即)(12个月)[河北]",
+    "category": "加装包",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 1734
+  "count": 1706
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

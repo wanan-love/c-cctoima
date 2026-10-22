@@ -1,34 +1,29 @@
 {
- "generated_at": "2026-10-21T23:16:55+0000",
- "current_count": 2255,
- "previous_count": 2259,
+ "generated_at": "2026-10-22T23:20:07+0000",
+ "current_count": 2250,
+ "previous_count": 2255,
  "added": {
-  "count": 5,
+  "count": 4,
   "items": [
    {
-    "tariff_id": "CMCC-25HE201061",
-    "name": "宠物智能定位服务权益包（480元）-预存版",
-    "category": "套餐"
+    "tariff_id": "CMCC-26HE201305",
+    "name": "唐山校园千兆提速包",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-26HE200064",
-    "name": "2026移动看家室外安防球机半趸交—冀享专属",
-    "category": "套餐"
+    "tariff_id": "CMCC-26HE201306",
+    "name": "医保保（60岁以下）36个月-冀享专属",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-26HE200067",
-    "name": "2026移动看家室外安防球机装维版半趸交—冀享专属",
-    "category": "套餐"
+    "tariff_id": "CMCC-26HE201307",
+    "name": "宠保保36个月-冀享专属",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-26HE201303",
-    "name": "高端机专属话费合约-1200元版",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201304",
-    "name": "高端机专属话费合约-2400元版",
-    "category": "套餐"
+    "tariff_id": "CMCC-26HE201308",
+    "name": "医保保（60岁及以上）36个月-冀享专属",
+    "category": "加装包"
    }
   ]
  },
@@ -36,91 +31,113 @@
   "count": 9,
   "items": [
    {
-    "tariff_id": "CMCC-25HE201945",
-    "name": "唐山移动权益券3240元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE200450",
+    "name": "新版老客户升级99尊享60GB流量（36个月）",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-25HE201946",
-    "name": "唐山移动权益券3360元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE200456",
+    "name": "新版老客户升级79尊享45GB流量（36个月）",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-25HE201952",
-    "name": "唐山移动权益券2880元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE202628",
+    "name": "内容广告宣传服务包-点播贴片30秒视频（话费）-100",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-25HE201953",
-    "name": "唐山移动权益券3600元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE202629",
+    "name": "内容广告宣传服务包-点播贴片30秒视频（现金）-100",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-25HE201956",
-    "name": "唐山移动权益券2400元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE202631",
+    "name": "内容广告宣传服务包-点播贴片30秒视频（现金）-10",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-25HE201957",
-    "name": "唐山移动权益券3840元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE202635",
+    "name": "内容广告宣传服务包-点播贴片30秒视频（话费）-10",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-25HE201958",
-    "name": "唐山移动权益券4320元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE202636",
+    "name": "内容广告宣传服务包-点播贴片30秒视频（话费）-50",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-25HE201959",
-    "name": "唐山移动权益券4800元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-25HE202645",
+    "name": "内容广告宣传服务包-点播贴片30秒视频（现金）-50",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-25HE201961",
-    "name": "唐山移动权益券2520元档预存版",
-    "category": "营销活动"
+    "tariff_id": "CMCC-26HE200036",
+    "name": "60元600分钟通话半年包",
+    "category": "加装包"
    }
   ]
  },
  "modified": {
-  "count": 4,
+  "count": 6,
   "items": [
    {
-    "tariff_id": "CMCC-25HE201062",
-    "name": "全球通专属爱家光网服务1000M（B档）",
-    "category": "套餐",
+    "tariff_id": "CMCC-26HE200457",
+    "name": "移动云盘100GB定向流量6个月体验包",
+    "category": "营销活动",
     "fields": [
-     "eligibility"
+     "validity",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE201063",
-    "name": "全球通专属爱家光网服务2000M（B档）",
-    "category": "套餐",
+    "tariff_id": "CMCC-26HE200458",
+    "name": "移动云盘50GB定向流量3个月体验包",
+    "category": "营销活动",
     "fields": [
-     "eligibility"
+     "validity",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE201064",
-    "name": "全球通专属爱家光网服务1500M（B档）",
-    "category": "套餐",
+    "tariff_id": "CMCC-26HE200459",
+    "name": "移动云盘100GB定向流量3个月体验包",
+    "category": "营销活动",
     "fields": [
-     "eligibility"
+     "validity",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE201243",
-    "name": "IPTV互娱云游戏",
-    "category": "加装包",
+    "tariff_id": "CMCC-26HE200460",
+    "name": "移动云盘30GB定向流量6个月体验包",
+    "category": "营销活动",
     "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200461",
+    "name": "移动云盘50GB定向流量6个月体验包",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200462",
+    "name": "移动云盘30GB定向流量3个月体验包",
+    "category": "营销活动",
+    "fields": [
+     "validity",
      "description"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2246
+  "count": 2240
  },
  "has_change": true,
  "status": "CHANGED"
