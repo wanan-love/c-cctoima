@@ -1,166 +1,33 @@
 {
- "generated_at": "2026-10-23T23:08:41+0000",
+ "generated_at": "2026-10-24T22:30:14+0000",
  "current_count": 781,
- "previous_count": 782,
+ "previous_count": 781,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100256",
+    "name": "维系240元本金",
+    "category": "营销活动"
+   }
+  ]
  },
  "removed": {
   "count": 1,
   "items": [
    {
-    "tariff_id": "CTCC-24HE102244",
-    "name": "全国流量包2元",
-    "category": "加装包"
+    "tariff_id": "CTCC-26HE100229",
+    "name": "双域快网5折折扣包",
+    "category": "营销活动"
    }
   ]
  },
  "modified": {
-  "count": 23,
-  "items": [
-   {
-    "tariff_id": "CTCC-24HE101867",
-    "name": "天翼云盒20元套餐【单品】",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100091",
-    "name": "天翼云盒10元【融合成员】",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100136",
-    "name": "0元/月全国主叫200分钟-36期",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100199",
-    "name": "限时优惠-流量共享包0元/月10GB-3个月有效",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100237",
-    "name": "0元/月全国流量20G-36期",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100238",
-    "name": "0元/月全国流量10G-36期",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100267",
-    "name": "促销-套餐优惠（5G-A融合199元套餐月费优惠至189元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100269",
-    "name": "促销-套餐优惠（5G-A融合199元套餐优惠至179元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100271",
-    "name": "促销-套餐优惠（5G融合169元套餐月费优惠至140元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100272",
-    "name": "促销-套餐优惠（5G融合169元套餐月费优惠至150元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100273",
-    "name": "促销-套餐优惠（5G融合129元套餐月费优惠至119元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100274",
-    "name": "促销-套餐优惠（5G畅享79元套餐月费优惠至69元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100275",
-    "name": "促销-套餐优惠（5G融合129元套餐月费优惠至109元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100276",
-    "name": "促销-套餐优惠（5G畅享99元套餐月费优惠至89元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100277",
-    "name": "促销-套餐优惠（5G融合169元套餐月费优惠至160元）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100288",
-    "name": "视频彩铃AI折扣包",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100289",
-    "name": "视频彩铃AI流量包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100290",
-    "name": "通信助理AI折扣包",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100291",
-    "name": "通信助理AI流量包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100292",
-    "name": "AI通信尊享折扣包",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100293",
-    "name": "AI通信尊享流量包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-26HE100068",
-    "name": "天翼云盒月付礼包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-26HE100226",
-    "name": "【分月转兑】政企分月转兑2元包",
-    "category": "加装包",
-    "fields": []
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 758
+  "count": 780
  },
  "has_change": true,
  "status": "CHANGED"

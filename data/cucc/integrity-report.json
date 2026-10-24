@@ -1,6 +1,6 @@
 {
  "operator": "cucc",
- "generated_at": "2026-10-23T22:47:52+0000",
+ "generated_at": "2026-10-24T22:08:06+0000",
  "overall": "PASS",
  "item_count": 1734,
  "previous_count": 1734,
@@ -97,8 +97,8 @@
   },
   {
    "category": "加装包>新业务",
-   "expected": 114,
-   "collected": 114,
+   "expected": 93,
+   "collected": 93,
    "error": ""
   },
   {
@@ -157,8 +157,8 @@
   },
   {
    "category": "停售套餐>加装包",
-   "expected": 298,
-   "collected": 298,
+   "expected": 319,
+   "collected": 319,
    "error": ""
   },
   {
