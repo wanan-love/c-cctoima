@@ -1,34 +1,22 @@
 {
- "generated_at": "2026-10-24T22:30:14+0000",
+ "generated_at": "2026-10-25T23:03:16+0000",
  "current_count": 781,
  "previous_count": 781,
  "added": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CTCC-26HE100256",
-    "name": "维系240元本金",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CTCC-26HE100229",
-    "name": "双域快网5折折扣包",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
   "count": 0,
   "items": []
  },
  "unchanged": {
-  "count": 780
+  "count": 781
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
