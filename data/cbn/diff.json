@@ -1,10 +1,21 @@
 {
- "generated_at": "2026-10-26T23:59:07+0000",
- "current_count": 137,
+ "generated_at": "2026-10-27T23:48:45+0000",
+ "current_count": 139,
  "previous_count": 137,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CBN-26HE500024",
+    "name": "国内流量年包192元",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CBN-26HE500025",
+    "name": "国内流量月包19元",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
@@ -17,6 +28,6 @@
  "unchanged": {
   "count": 137
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

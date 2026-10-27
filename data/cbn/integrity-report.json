@@ -1,8 +1,8 @@
 {
  "operator": "cbn",
- "generated_at": "2026-10-26T23:47:31+0000",
+ "generated_at": "2026-10-27T23:19:04+0000",
  "overall": "PASS",
- "item_count": 137,
+ "item_count": 139,
  "previous_count": 137,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "137 条；name 覆盖 137/137，details 覆盖 137/137（阈值 0.95）"
+   "detail": "139 条；name 覆盖 139/139，details 覆盖 139/139（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 137 条 → 本次 137 条（下降 0 条 / 0%）"
+   "detail": "上次 137 条 → 本次 139 条（下降 -2 条 / -1%）"
   }
  ],
  "category_results": [
@@ -85,15 +85,15 @@
   {
    "category": "加装包",
    "subcategory": "流量包",
-   "expected": 0,
-   "collected": 0,
+   "expected": 1,
+   "collected": 1,
    "error": ""
   },
   {
    "category": "营销活动",
    "subcategory": "合约",
-   "expected": 2,
-   "collected": 2,
+   "expected": 3,
+   "collected": 3,
    "error": ""
   },
   {

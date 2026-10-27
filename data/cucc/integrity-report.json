@@ -1,9 +1,9 @@
 {
  "operator": "cucc",
- "generated_at": "2026-10-26T23:31:13+0000",
+ "generated_at": "2026-10-27T23:22:51+0000",
  "overall": "PASS",
  "item_count": 1741,
- "previous_count": 1734,
+ "previous_count": 1741,
  "checks": [
   {
    "check": "province_hebei",
@@ -43,14 +43,14 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1734 条 → 本次 1741 条（下降 -7 条 / -0%）"
+   "detail": "上次 1741 条 → 本次 1741 条（下降 0 条 / 0%）"
   }
  ],
  "category_results": [
   {
    "category": "套餐>移网",
-   "expected": 60,
-   "collected": 60,
+   "expected": 56,
+   "collected": 56,
    "error": ""
   },
   {
@@ -103,14 +103,14 @@
   },
   {
    "category": "加装包>其他",
-   "expected": 67,
-   "collected": 67,
+   "expected": 69,
+   "collected": 69,
    "error": ""
   },
   {
    "category": "营销活动>促销",
-   "expected": 140,
-   "collected": 140,
+   "expected": 138,
+   "collected": 138,
    "error": ""
   },
   {
@@ -151,8 +151,8 @@
   },
   {
    "category": "停售套餐>套餐",
-   "expected": 604,
-   "collected": 604,
+   "expected": 608,
+   "collected": 608,
    "error": ""
   },
   {

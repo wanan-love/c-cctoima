@@ -1,150 +1,133 @@
 {
- "generated_at": "2026-10-26T23:59:07+0000",
- "current_count": 2261,
- "previous_count": 2258,
+ "generated_at": "2026-10-27T23:48:45+0000",
+ "current_count": 2260,
+ "previous_count": 2261,
  "added": {
+  "count": 7,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE201314",
+    "name": "IPTV健康生活VIP-12个月（C套餐）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201315",
+    "name": "IPTV健康生活VIP-12个月（B套餐）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201316",
+    "name": "IPTV健康生活VIP-12个月（A套餐）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201377",
+    "name": "爱家TV影视VIP-1个月（调测费优惠版）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201967",
+    "name": "邯郸5G-A友好客户终端体验活动",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201321",
+    "name": "带屏台灯版摄像头服务",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201322",
+    "name": "台灯版摄像头服务",
+    "category": "套餐"
+   }
+  ]
+ },
+ "removed": {
   "count": 8,
   "items": [
    {
-    "tariff_id": "CMCC-25HE201061",
-    "name": "宠物智能定位服务权益包（480元）-预存版",
+    "tariff_id": "CMCC-25HE200450",
+    "name": "新版老客户升级99尊享60GB流量（36个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE200456",
+    "name": "新版老客户升级79尊享45GB流量（36个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE201899",
+    "name": "守机宝电池保障",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201968",
+    "name": "智能组网服务设备版（中国移动APP专属）",
     "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-25HE203004",
+    "name": "3元家庭反诈守护包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE203202",
+    "name": "150元少儿保障权益年包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE203203",
+    "name": "10元少儿保障权益月包",
+    "category": "加装包"
    },
    {
     "tariff_id": "CMCC-26HE200063",
     "name": "2026移动看家室外安防球机装维版—冀享专属",
     "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE200064",
-    "name": "2026移动看家室外安防球机半趸交—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE200067",
-    "name": "2026移动看家室外安防球机装维版半趸交—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201317",
-    "name": "2026移动看家室内安防升级无预存版—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201318",
-    "name": "2026移动看家室外安防升级无预存版—冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201319",
-    "name": "高端慧眼云盒-169档及以上-划拨版（存量）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201320",
-    "name": "高端慧眼云盒-169档及以上（存量）",
-    "category": "营销活动"
-   }
-  ]
- },
- "removed": {
-  "count": 5,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200015",
-    "name": "8元放心享套餐",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE200951",
-    "name": "心级服务流量包3GB",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE200953",
-    "name": "心级服务流量周包3GB",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE200955",
-    "name": "心级服务流量包2GB",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE200957",
-    "name": "心级服务流量包1GB",
-    "category": "营销活动"
    }
   ]
  },
  "modified": {
-  "count": 6,
+  "count": 4,
   "items": [
    {
-    "tariff_id": "CMCC-24HE201807",
-    "name": "移动看家服务AI版（N选1）",
-    "category": "营销活动",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE200687",
-    "name": "家庭安防AI增值产品包（10元）",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE200956",
-    "name": "互动体验3GB流量包",
-    "category": "营销活动",
-    "fields": [
-     "name",
-     "validity",
-     "description",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE201032",
-    "name": "中屏服务普通版480元（24个月）",
+    "tariff_id": "CMCC-26HE201041",
+    "name": "爱家光网服务划拨版-冀享专属新增",
     "category": "套餐",
     "fields": [
-     "traffic",
-     "voice",
-     "sms",
+     "validity",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE201035",
-    "name": "中屏服务投屏版720元（24个月）",
+    "tariff_id": "CMCC-26HE201043",
+    "name": "爱家光网服务划拨版-冀享专属存量",
     "category": "套餐",
     "fields": [
-     "traffic",
-     "voice",
-     "sms"
+     "validity",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE201141",
-    "name": "互动体验100分钟语音包",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE201096",
+    "name": "爱家光网服务-99档及以上-划拨版新增",
+    "category": "套餐",
     "fields": [
-     "name",
-     "traffic",
-     "validity",
-     "description",
-     "subcategory"
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201097",
+    "name": "爱家光网服务-79档及以上-划拨版存量",
+    "category": "套餐",
+    "fields": [
+     "description"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2247
+  "count": 2249
  },
  "has_change": true,
  "status": "CHANGED"

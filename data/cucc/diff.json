@@ -1,206 +1,425 @@
 {
- "generated_at": "2026-10-26T23:59:07+0000",
+ "generated_at": "2026-10-27T23:48:45+0000",
  "current_count": 1741,
- "previous_count": 1734,
+ "previous_count": 1741,
  "added": {
-  "count": 7,
-  "items": [
-   {
-    "tariff_id": "CUCC-26HE300441",
-    "name": "FTTR调测费200元一次性",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CUCC-26HE300442",
-    "name": "副卡月功能费-10元(次月生效)",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300443",
-    "name": "副卡月功能费-10元(立即生效)",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300444",
-    "name": "副卡月功能费-0元(次月生效)",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300445",
-    "name": "副卡月功能费-0元(立即生效)",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300446",
-    "name": "联通智家副卡月功能费（次月生效）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CUCC-26HE300447",
-    "name": "联通智家副卡月功能费（当月生效）",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 33,
+  "count": 58,
   "items": [
    {
-    "tariff_id": "CUCC-24HE300229",
-    "name": "存120送120提速千兆-6个月（欠拆高危专属）（河北）",
+    "tariff_id": "CUCC-24HE300004",
+    "name": "畅越轻享100元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300005",
+    "name": "畅越轻享95元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300006",
+    "name": "畅越轻享90元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300007",
+    "name": "畅越轻享85元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300008",
+    "name": "畅越轻享80元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300009",
+    "name": "畅越轻享75元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300010",
+    "name": "畅越轻享70元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300011",
+    "name": "畅越轻享65元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300012",
+    "name": "畅越轻享60元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300013",
+    "name": "畅越轻享55元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300014",
+    "name": "畅越轻享50元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300015",
+    "name": "畅越轻享45元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300016",
+    "name": "畅越轻享40元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300017",
+    "name": "畅越轻享35元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300018",
+    "name": "畅越轻享30元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300019",
+    "name": "畅越轻享27元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300020",
+    "name": "畅越轻享24元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300021",
+    "name": "畅越轻享21元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300022",
+    "name": "畅越轻享18元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300023",
+    "name": "畅越轻享15元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300024",
+    "name": "畅越轻享12元档流量版12个月合约(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300193",
+    "name": "客户回馈权益体验包(立即生效)【河北】",
     "category": "营销活动",
     "fields": []
    },
    {
-    "tariff_id": "CUCC-24HE300395",
-    "name": "2023年校园专属3元赠费包-次月生效（48个月）",
-    "category": "加装包",
+    "tariff_id": "CUCC-24HE300207",
+    "name": "副卡专享包-权益N选1（立即生效）（河北）",
+    "category": "营销活动",
     "fields": []
    },
    {
-    "tariff_id": "CUCC-24HE300396",
-    "name": "2023校园专属1元60G流量包-次月生效（48个月）（河北定向）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300397",
-    "name": "2023校园专属1元80G流量包-次月生效（48个月）（河北定向）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300398",
-    "name": "2023校园专属1元100G流量包-次月生效（48个月）（河北定向）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300399",
-    "name": "2023年校园专属3元赠费包-立即生效（48个月）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300400",
-    "name": "2023校园专属1元60G流量包-立即生效（48个月）（河北定向）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300401",
-    "name": "2023校园专属1元80G流量包-立即生效（48个月）（河北定向）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300402",
-    "name": "2023校园专属1元100G流量包-立即生效（48个月）（河北定向）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300691",
-    "name": "校园专属0.1元20G假期全国流量包(3个月)-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300692",
-    "name": "校园专属3元30G假期全国流量包(3个月)-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300693",
-    "name": "校园专属5元50G假期全国流量包(3个月)-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300736",
-    "name": "2023校园专属1元50G全国流量包-次月生效（48个月）（河北）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300743",
-    "name": "2023年校园专属1元赠费包-次月生效（48个月）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300744",
-    "name": "2023年校园专属1元赠费包-立即生效（48个月）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300745",
-    "name": "2024年校园专属1元赠费包48个月（河北）-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300746",
-    "name": "2024年校园专属1元赠费包48个月（河北）-次月生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300747",
-    "name": "2024年校园专属2元赠费包48个月(河北)-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300748",
-    "name": "2024年校园专属2元赠费包48个月(河北)-次月生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300749",
-    "name": "2024年校园专属3元赠费包48个月（河北）-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300750",
-    "name": "2024年校园专属3元赠费包48个月（河北）-次月生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300751",
-    "name": "2024年校园专属5元赠费包48个月(河北)-立即生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300752",
-    "name": "2024年校园专属5元赠费包48个月(河北)-次月生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE301204",
-    "name": "联通智家看家摄像头金融分期合约优惠161元24个月（河北）次月生效",
-    "category": "停售套餐",
+    "tariff_id": "CUCC-24HE300219",
+    "name": "单宽存600元赠送60元-12个月（河北）",
+    "category": "营销活动",
     "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300220",
+    "name": "单宽存300元赠送30元-12个月（河北）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300233",
+    "name": "承诺在网赠200分钟语音合约(6个月)(河北)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300234",
+    "name": "承诺在网赠100分钟语音合约(6个月)(河北)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300423",
+    "name": "2023创新副卡专属功能包-会员权益-次月（河北）",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300424",
+    "name": "2023创新副卡专属功能包-会员权益-立即（河北）",
+    "category": "套餐",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300567",
+    "name": "15元5G加速流量包（3）（河北）",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300568",
+    "name": "15元5G加速流量包（2）（河北）",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300569",
+    "name": "15元5G加速流量包（1）（河北）",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300674",
+    "name": "4G主副卡业务-语音副卡基本套餐",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "validity",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300675",
+    "name": "5G副卡基本套餐（基础服务）",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "validity",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300676",
+    "name": "5G副卡基本套餐(极速服务)",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "validity",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300677",
+    "name": "5G副卡基本套餐(优享服务)",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "validity",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300678",
+    "name": "5G副卡基本套餐(尊享服务)",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "validity",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300040",
+    "name": "5元1G加速流量包（3）（河北）",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300041",
+    "name": "5元1G加速流量包（2）（河北）",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300042",
+    "name": "5元1G加速流量包（1）（河北）",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300705",
+    "name": "畅越优选19元/月10GB国内通用流量包（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300706",
+    "name": "畅越优选29元/月20GB国内通用流量包（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300707",
+    "name": "畅越优选39元/月50GB国内通用流量包（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300708",
+    "name": "畅越优选流量10元赠费包3个月（河北）-立即生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300981",
+    "name": "畅越升级权益会员专属年包(河北)-立即生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300982",
+    "name": "畅越升级权益会员专属年包(河北)-次月生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301024",
+    "name": "畅越云智畅享版通通影音礼盒(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301025",
+    "name": "畅越云智畅享版通通看家礼盒（河北）-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301026",
+    "name": "畅越云智通通云盘礼盒(河北)-立即生效",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301160",
+    "name": "10元副卡赠费包（河北）",
+    "category": "加装包",
+    "fields": [
+     "validity",
      "category",
      "subcategory"
     ]
    },
    {
-    "tariff_id": "CUCC-25HE301208",
-    "name": "联通智家畅越云龙金融分期1249元活动36个月（河北）-次月生效",
-    "category": "停售套餐",
+    "tariff_id": "CUCC-25HE301161",
+    "name": "10元副卡赠费包(立即生效)[河北]",
+    "category": "加装包",
     "fields": [
+     "validity",
      "category",
      "subcategory"
     ]
@@ -208,30 +427,6 @@
    {
     "tariff_id": "CUCC-26HE300001",
     "name": "花呗先享及联通U汇购智慧家庭联通看家单端产品长期有效（河北移网）-立即生效",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-26HE300002",
-    "name": "招联金融智慧家庭联通看家单端产品长期有效（河北移网）-立即生效",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-26HE300004",
-    "name": "招联金融智慧家庭联通看家双端产品移网20元长期有效（河北）-立即生效",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-26HE300006",
-    "name": "花呗先享及联通U汇购智慧家庭联通看家双端产品移网20元长期有效（河北）-立即生效",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-26HE300366",
-    "name": "联通智家5G云智套餐金融分期合约优惠750元36个月(河北)-次月生效",
     "category": "停售套餐",
     "fields": [
      "category",
@@ -239,32 +434,59 @@
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300409",
-    "name": "联通智家5G云智套餐分月送券合约852元36个月（河北）-次月生效",
-    "category": "套餐",
+    "tariff_id": "CUCC-26HE300002",
+    "name": "招联金融智慧家庭联通看家单端产品长期有效（河北移网）-立即生效",
+    "category": "停售套餐",
     "fields": [
-     "price"
+     "category",
+     "subcategory"
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300411",
-    "name": "联通智家5G云智套餐分月送券合约1349元36个月（河北）-次月生效",
+    "tariff_id": "CUCC-26HE300003",
+    "name": "智慧家庭联通看家单端产品长期有效（河北）-立即生效",
     "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300004",
+    "name": "招联金融智慧家庭联通看家双端产品移网20元长期有效（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300006",
+    "name": "花呗先享及联通U汇购智慧家庭联通看家双端产品移网20元长期有效（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300080",
+    "name": "4G主副卡业务-语音副卡基本套餐（跨域融合）",
+    "category": "停售套餐",
     "fields": [
      "price",
-     "eligibility"
+     "validity",
+     "eligibility",
+     "description"
     ]
    },
    {
-    "tariff_id": "CUCC-26HE300425",
-    "name": "联通智家畅越云智光宽带乐购499元分月送券560元活动36个月（河北）次月生效",
-    "category": "套餐",
+    "tariff_id": "CUCC-26HE300281",
+    "name": "流量王家家乐上网卡存100元送100元有效期10个月（河北）-次月生效",
+    "category": "营销活动",
     "fields": []
    }
   ]
  },
  "unchanged": {
-  "count": 1701
+  "count": 1683
  },
  "has_change": true,
  "status": "CHANGED"

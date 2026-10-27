@@ -1,10 +1,76 @@
 {
- "generated_at": "2026-10-26T23:59:07+0000",
- "current_count": 781,
+ "generated_at": "2026-10-27T23:48:45+0000",
+ "current_count": 794,
  "previous_count": 781,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 13,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100239",
+    "name": "话费合约-电信畅享59元档(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100240",
+    "name": "话费合约-79元档-24元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100241",
+    "name": "话费合约-99元档-30元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100242",
+    "name": "话费合约-129元档-40元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100243",
+    "name": "话费合约-169元档-50元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100244",
+    "name": "话费合约-199元档-60元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100245",
+    "name": "话费合约-239元档-70元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100246",
+    "name": "话费合约-299元档-90元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100247",
+    "name": "话费合约-599元档-180元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100248",
+    "name": "话费合约-399元档-120元(36期)",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100257",
+    "name": "阿福卡升级版宽带月费优惠包",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100258",
+    "name": "FTTR从网关终端服务10元/月",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100259",
+    "name": "FTTR终端服务30元/月",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
@@ -17,6 +83,6 @@
  "unchanged": {
   "count": 781
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
