@@ -1,124 +1,179 @@
 {
- "generated_at": "2026-10-27T23:48:45+0000",
- "current_count": 2260,
- "previous_count": 2261,
+ "generated_at": "2026-10-29T00:20:59+0000",
+ "current_count": 2258,
+ "previous_count": 2260,
  "added": {
-  "count": 7,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE201314",
-    "name": "IPTV健康生活VIP-12个月（C套餐）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201315",
-    "name": "IPTV健康生活VIP-12个月（B套餐）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201316",
-    "name": "IPTV健康生活VIP-12个月（A套餐）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201377",
-    "name": "爱家TV影视VIP-1个月（调测费优惠版）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201967",
-    "name": "邯郸5G-A友好客户终端体验活动",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201321",
-    "name": "带屏台灯版摄像头服务",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201322",
-    "name": "台灯版摄像头服务",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 8,
+  "count": 2,
   "items": [
    {
-    "tariff_id": "CMCC-25HE200450",
-    "name": "新版老客户升级99尊享60GB流量（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200456",
-    "name": "新版老客户升级79尊享45GB流量（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE201899",
-    "name": "守机宝电池保障",
+    "tariff_id": "CMCC-25HE201716",
+    "name": "邯郸数字生活特权年包",
     "category": "营销活动"
    },
    {
-    "tariff_id": "CMCC-25HE201968",
-    "name": "智能组网服务设备版（中国移动APP专属）",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE203004",
-    "name": "3元家庭反诈守护包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE203202",
-    "name": "150元少儿保障权益年包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE203203",
-    "name": "10元少儿保障权益月包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE200063",
-    "name": "2026移动看家室外安防球机装维版—冀享专属",
-    "category": "套餐"
+    "tariff_id": "CMCC-25HE202715",
+    "name": "全球通专属0元延保权益",
+    "category": "营销活动"
    }
   ]
  },
  "modified": {
-  "count": 4,
+  "count": 19,
   "items": [
    {
-    "tariff_id": "CMCC-26HE201041",
-    "name": "爱家光网服务划拨版-冀享专属新增",
-    "category": "套餐",
+    "tariff_id": "CMCC-24HE200095",
+    "name": "19.9元假日畅享包",
+    "category": "加装包",
     "fields": [
-     "validity",
-     "description"
+     "traffic"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE201043",
-    "name": "爱家光网服务划拨版-冀享专属存量",
-    "category": "套餐",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201096",
-    "name": "爱家光网服务-99档及以上-划拨版新增",
-    "category": "套餐",
+    "tariff_id": "CMCC-26HE200866",
+    "name": "2026年多存多赠700元档",
+    "category": "营销活动",
     "fields": [
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE201097",
-    "name": "爱家光网服务-79档及以上-划拨版存量",
+    "tariff_id": "CMCC-26HE200867",
+    "name": "2026年多存多赠400元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200868",
+    "name": "2026年多存多赠200元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200869",
+    "name": "2026年多存多赠900元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200870",
+    "name": "2026年多存多赠800元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200871",
+    "name": "2026年多存多赠1000元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200872",
+    "name": "2026年多存多赠500元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200873",
+    "name": "2026年多存多赠300元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200874",
+    "name": "2026年多存多赠600元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200875",
+    "name": "2026年多存多赠100元档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200876",
+    "name": "59元拥军卡",
+    "category": "套餐",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200882",
+    "name": "39元拥军卡",
+    "category": "套餐",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200887",
+    "name": "99元拥军卡",
+    "category": "套餐",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201173",
+    "name": "儿童成长合约包（24个月）预存版10元档",
+    "category": "套餐",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201245",
+    "name": "爱家光网服务-129档及以上-存量促销版",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201246",
+    "name": "爱家光网服务-129档及以上-新增促销版",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201248",
+    "name": "爱家光网服务-冀享专属-存量促销版",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201249",
+    "name": "爱家光网服务-促销版",
     "category": "套餐",
     "fields": [
      "description"
@@ -127,7 +182,7 @@
   ]
  },
  "unchanged": {
-  "count": 2249
+  "count": 2239
  },
  "has_change": true,
  "status": "CHANGED"

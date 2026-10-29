@@ -1,9 +1,9 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-10-27T23:46:44+0000",
- "overall": "PASS",
- "item_count": 2260,
- "previous_count": 2261,
+ "generated_at": "2026-10-29T00:18:56+0000",
+ "overall": "FAIL",
+ "item_count": 2258,
+ "previous_count": 2260,
  "checks": [
   {
    "check": "province_hebei",
@@ -22,13 +22,13 @@
   },
   {
    "check": "official_totals",
-   "status": "PASS",
-   "detail": "全部分类数量与官方声明一致（5 分类）"
+   "status": "FAIL",
+   "detail": "营销活动: 1029/1031"
   },
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2260 条；name 覆盖 2260/2260，details 覆盖 2260/2260（阈值 0.95）"
+   "detail": "2258 条；name 覆盖 2258/2258，details 覆盖 2258/2258（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2261 条 → 本次 2260 条（下降 1 条 / 0%）"
+   "detail": "上次 2260 条 → 本次 2258 条（下降 2 条 / 0%）"
   }
  ],
  "category_results": [
@@ -63,8 +63,8 @@
   },
   {
    "label": "营销活动",
-   "items": 1031,
-   "beans": 1031,
+   "items": 1029,
+   "beans": 1029,
    "total": 1031,
    "note": ""
   },
@@ -101,5 +101,7 @@
    "标准资费"
   ]
  },
- "failure_reasons": []
+ "failure_reasons": [
+  "official_totals: 营销活动: 1029/1031"
+ ]
 }
