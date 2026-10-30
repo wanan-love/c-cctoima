@@ -1,207 +1,74 @@
 {
- "generated_at": "2026-10-30T00:10:26+0000",
- "current_count": 794,
+ "generated_at": "2026-10-30T23:49:33+0000",
+ "current_count": 786,
  "previous_count": 794,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 0,
-  "items": []
- },
- "modified": {
-  "count": 39,
+  "count": 8,
   "items": [
    {
-    "tariff_id": "CTCC-24HE100002",
-    "name": "3日短期流量包4GB",
+    "tariff_id": "CTCC-25HE100216",
+    "name": "随享合约20元200分钟",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100218",
+    "name": "随享合约10元100分钟",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100288",
+    "name": "视频彩铃AI折扣包",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100289",
+    "name": "视频彩铃AI流量包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100290",
+    "name": "通信助理AI折扣包",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100291",
+    "name": "通信助理AI流量包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100292",
+    "name": "AI通信尊享折扣包",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-25HE100293",
+    "name": "AI通信尊享流量包",
+    "category": "加装包"
+   }
+  ]
+ },
+ "modified": {
+  "count": 68,
+  "items": [
+   {
+    "tariff_id": "CTCC-24HE102193",
+    "name": "爱心流量包",
     "category": "加装包",
     "fields": []
    },
    {
-    "tariff_id": "CTCC-24HE100058",
-    "name": "1GB视频权益通用流量包（一次性7天）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE100064",
-    "name": "3GB视频权益通用流量包（连续包月）",
+    "tariff_id": "CTCC-24HE102194",
+    "name": "爱心语音包",
     "category": "加装包",
     "fields": []
    },
    {
-    "tariff_id": "CTCC-24HE100071",
-    "name": "3GB音频权益通用流量包（连续包月）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101834",
-    "name": "5G畅享79元套餐",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101846",
-    "name": "爱心卡（流量版）",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101847",
-    "name": "爱心卡（语音版）",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101872",
-    "name": "孝心卡单产品套餐",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101907",
-    "name": "通信助理0折促销",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101909",
-    "name": "通信助理基础版",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101910",
-    "name": "通信助理留言版",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101911",
-    "name": "通信助理免费版",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101916",
-    "name": "通信助理智能版",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE101920",
-    "name": "通信助理尊享版",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102036",
-    "name": "天翼超高清优享会员",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102048",
-    "name": "eSIM一号双终端服务副卡功能费0折 （主副卡套餐客户专用）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102164",
-    "name": "1日短期流量包2GB",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102165",
-    "name": "1日短期流量包5GB",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102212",
-    "name": "【分月转兑】电子渠道-20元预存充值",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102214",
-    "name": "扶贫专属致富包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102224",
-    "name": "假日流量1天包202006 3元",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102273",
-    "name": "天翼防骚扰+（收费版）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102274",
-    "name": "天翼防骚扰+（收费版）促销",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102368",
-    "name": "eSIM一号双终端服务套餐10元（非主副卡套餐客户专用）",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102370",
-    "name": "eSIM一号双终端服务可选包10元（主副卡套餐客户专用）",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102387",
-    "name": "5G畅享59元套餐",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102427",
-    "name": "5日短期流量包7GB",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102430",
-    "name": "7日短期流量包10GB",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102442",
-    "name": "直连卫星100分钟语音包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102443",
-    "name": "直连卫星200分钟语音包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-24HE102444",
-    "name": "直连卫星50分钟语音包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-25HE100074",
-    "name": "畅享家庭套餐-融合第二条宽带1000M 0元/月",
+    "tariff_id": "CTCC-25HE100115",
+    "name": "促销-共享流量包170G",
     "category": "加装包",
     "fields": [
      "price",
@@ -209,16 +76,8 @@
     ]
    },
    {
-    "tariff_id": "CTCC-25HE100119",
-    "name": "促销-共享语音包1000分钟",
-    "category": "加装包",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CTCC-25HE100120",
-    "name": "促销-共享语音包200分钟",
+    "tariff_id": "CTCC-25HE100116",
+    "name": "促销-共享流量包30G",
     "category": "加装包",
     "fields": [
      "price",
@@ -226,41 +85,406 @@
     ]
    },
    {
-    "tariff_id": "CTCC-25HE100197",
-    "name": "促销-共享流量包90G",
+    "tariff_id": "CTCC-25HE100126",
+    "name": "促销-共享语音包800分钟",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100198",
+    "name": "促销-共享流量包15G",
     "category": "加装包",
     "fields": [
-     "eligibility"
+     "price"
     ]
    },
    {
-    "tariff_id": "CTCC-26HE100214",
-    "name": "北斗短信1元月包",
+    "tariff_id": "CTCC-25HE100240",
+    "name": "智能播报月包",
     "category": "加装包",
     "fields": []
    },
    {
-    "tariff_id": "CTCC-26HE100215",
-    "name": "北斗短信50元年包",
+    "tariff_id": "CTCC-25HE100243",
+    "name": "促销-共享流量包5G",
     "category": "加装包",
-    "fields": []
+    "fields": [
+     "price"
+    ]
    },
    {
-    "tariff_id": "CTCC-26HE100216",
-    "name": "北斗短信8元月包",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CTCC-26HE100256",
-    "name": "维系240元本金",
+    "tariff_id": "CTCC-26HE100035",
+    "name": "【分月转兑】公众-设备利旧标识-利旧路由器-转兑（202204）",
     "category": "营销活动",
     "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100053",
+    "name": "万兆网关用户标识-双频",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100151",
+    "name": "天翼看家基础功能服务",
+    "category": "套餐",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100152",
+    "name": "天翼云眼基础功能服务",
+    "category": "套餐",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100154",
+    "name": "视频级联服务",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100155",
+    "name": "天翼视联1天事件云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100156",
+    "name": "天翼视联7天事件云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100158",
+    "name": "天翼视联7天全天云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100159",
+    "name": "30天抓拍图片云存储月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100160",
+    "name": "入侵检测",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100161",
+    "name": "设备异常巡检",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100162",
+    "name": "时光缩影",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100163",
+    "name": "AI守护（看老护幼）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100164",
+    "name": "看店宝",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100166",
+    "name": "智能播报",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100168",
+    "name": "智慧监管(明厨亮灶)应用月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100169",
+    "name": "平安慧眼行业应用月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100173",
+    "name": "消防预警行业应用月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100174",
+    "name": "水域治理行业应用月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100175",
+    "name": "视频纳管服务",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100176",
+    "name": "天翼视联3天事件云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100177",
+    "name": "天翼视联15天事件云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100178",
+    "name": "天翼视联30天事件云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100179",
+    "name": "天翼视联90天事件云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100180",
+    "name": "天翼视联15天全天云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100181",
+    "name": "天翼视联30天全天云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100182",
+    "name": "天翼视联90天全天云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100183",
+    "name": "天翼视联7天全天高清云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100184",
+    "name": "天翼视联30天全天高清云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100185",
+    "name": "天翼视联30天全天超清云回看月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100186",
+    "name": "天翼视联图文短信100条月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100187",
+    "name": "天翼视联语音100条月包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100188",
+    "name": "人员识别与行为分析",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100189",
+    "name": "车辆识别与行为分析",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100190",
+    "name": "客流统计",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100191",
+    "name": "火情识别",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100192",
+    "name": "口罩识别",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100193",
+    "name": "电动车识别",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100194",
+    "name": "抽烟识别",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100195",
+    "name": "戴帽识别",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100196",
+    "name": "手机识别",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100197",
+    "name": "衣着识别",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100198",
+    "name": "垃圾治理",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100199",
+    "name": "人员在岗检测",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100202",
+    "name": "AI智能巡检",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100203",
+    "name": "AI云存智搜",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100227",
+    "name": "校园宽带包（包月）-0元",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100228",
+    "name": "5G双域快网分流功能包开通服务",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100239",
+    "name": "话费合约-电信畅享59元档(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100240",
+    "name": "话费合约-79元档-24元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100241",
+    "name": "话费合约-99元档-30元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100242",
+    "name": "话费合约-129元档-40元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100243",
+    "name": "话费合约-169元档-50元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100244",
+    "name": "话费合约-199元档-60元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100245",
+    "name": "话费合约-239元档-70元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100246",
+    "name": "话费合约-299元档-90元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100247",
+    "name": "话费合约-599元档-180元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100248",
+    "name": "话费合约-399元档-120元(36期)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100249",
+    "name": "公众-租机标识-36个月",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100253",
+    "name": "5G增强通话体验版",
+    "category": "加装包",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
    }
   ]
  },
  "unchanged": {
-  "count": 755
+  "count": 718
  },
  "has_change": true,
  "status": "CHANGED"

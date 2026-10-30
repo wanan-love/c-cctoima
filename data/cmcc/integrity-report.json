@@ -1,14 +1,14 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-10-30T00:08:18+0000",
- "overall": "FAIL",
- "item_count": 1241,
+ "generated_at": "2026-10-30T23:47:26+0000",
+ "overall": "PASS",
+ "item_count": 2332,
  "previous_count": 2260,
  "checks": [
   {
    "check": "province_hebei",
    "status": "PASS",
-   "detail": "province_ok=True; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_field_coverage\": 0.999, \"province_ok\": true}"
+   "detail": "province_ok=True; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_field_coverage\": 0.997, \"province_ok\": true}"
   },
   {
    "check": "audience_personal",
@@ -17,23 +17,23 @@
   },
   {
    "check": "categories_covered",
-   "status": "FAIL",
-   "detail": "发现 5 个分类，其中有效 3；异常: []"
+   "status": "PASS",
+   "detail": "发现 5 个分类，其中有效 5；异常: []"
   },
   {
    "check": "official_totals",
-   "status": "FAIL",
-   "detail": "营销活动: 100/1032"
+   "status": "PASS",
+   "detail": "全部分类数量与官方声明一致（5 分类）"
   },
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1241 条；name 覆盖 1241/1241，details 覆盖 1241/1241（阈值 0.95）"
+   "detail": "2332 条；name 覆盖 2332/2332，details 覆盖 2332/2332（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
    "status": "PASS",
-   "detail": "重复 tariff_id 0 个（权威判据）；同分类同名不同编号 0 组（官方数据的同名独立方案，信息项）"
+   "detail": "重复 tariff_id 0 个（权威判据）；同分类同名不同编号 1 组（官方数据的同名独立方案，信息项）"
   },
   {
    "check": "no_severe_errors",
@@ -42,44 +42,44 @@
   },
   {
    "check": "no_abnormal_drop",
-   "status": "FAIL",
-   "detail": "上次 2260 条 → 本次 1241 条（下降 1019 条 / 45%）"
+   "status": "PASS",
+   "detail": "上次 2260 条 → 本次 2332 条（下降 -72 条 / -3%）"
   }
  ],
  "category_results": [
   {
    "label": "套餐",
-   "items": 444,
-   "beans": 425,
-   "total": 441,
+   "items": 449,
+   "beans": 430,
+   "total": 445,
    "note": ""
   },
   {
    "label": "加装包",
-   "items": 698,
-   "beans": 685,
-   "total": 694,
+   "items": 700,
+   "beans": 680,
+   "total": 698,
    "note": ""
   },
   {
    "label": "营销活动",
-   "items": 100,
-   "beans": 100,
-   "total": 1032,
+   "items": 1094,
+   "beans": 1094,
+   "total": 1094,
    "note": ""
   },
   {
    "label": "港澳台/国际资费",
-   "items": 0,
-   "beans": 0,
-   "total": 0,
+   "items": 3,
+   "beans": 3,
+   "total": 3,
    "note": ""
   },
   {
    "label": "标准资费",
-   "items": 0,
-   "beans": 0,
-   "total": 0,
+   "items": 92,
+   "beans": 92,
+   "total": 92,
    "note": ""
   }
  ],
@@ -101,9 +101,5 @@
    "标准资费"
   ]
  },
- "failure_reasons": [
-  "categories_covered: 发现 5 个分类，其中有效 3；异常: []",
-  "official_totals: 营销活动: 100/1032",
-  "no_abnormal_drop: 上次 2260 条 → 本次 1241 条（下降 1019 条 / 45%）"
- ]
+ "failure_reasons": []
 }

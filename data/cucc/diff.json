@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:10:25+0000",
+ "generated_at": "2026-10-30T23:49:33+0000",
  "current_count": 1741,
  "previous_count": 1741,
  "added": {
@@ -11,24 +11,106 @@
   "items": []
  },
  "modified": {
-  "count": 2,
+  "count": 12,
   "items": [
+   {
+    "tariff_id": "CUCC-24HE300219",
+    "name": "单宽存600元赠送60元-12个月（河北）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300220",
+    "name": "单宽存300元赠送30元-12个月（河北）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300221",
+    "name": "单宽存1200元赠送120元-12个月（河北）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300222",
+    "name": "单宽存1000元赠送100元-12个月（河北）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-24HE300681",
+    "name": "畅越优选出行副卡10元/月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300682",
+    "name": "畅越优选出行副卡10元/月（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
    {
     "tariff_id": "CUCC-24HE300688",
     "name": "2023年12月河北省校园专属存费送流量合约存100元送50G流量（3个月）[全渠道]",
-    "category": "营销活动",
-    "fields": []
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
    },
    {
     "tariff_id": "CUCC-25HE300617",
     "name": "畅越感知提升专享赠费10元/月（河北）-次月生效",
-    "category": "营销活动",
-    "fields": []
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300254",
+    "name": "99元联通智家5G终端套餐存1062元送1062元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300255",
+    "name": "129元联通智家5G终端套餐存1386元送1386元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300256",
+    "name": "169元联通智家5G终端套餐存1818元送1818元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300257",
+    "name": "199元联通智家5G终端套餐存2106元送2106元电子券智家版合约36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
    }
   ]
  },
  "unchanged": {
-  "count": 1739
+  "count": 1729
  },
  "has_change": true,
  "status": "CHANGED"
