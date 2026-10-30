@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T00:20:59+0000",
+ "generated_at": "2026-10-30T00:10:25+0000",
  "current_count": 1741,
  "previous_count": 1741,
  "added": {
@@ -11,248 +11,24 @@
   "items": []
  },
  "modified": {
-  "count": 27,
+  "count": 2,
   "items": [
    {
-    "tariff_id": "CUCC-24HE300209",
-    "name": "宽带0元提速包1000M（6个月）（河北）",
-    "category": "加装包",
+    "tariff_id": "CUCC-24HE300688",
+    "name": "2023年12月河北省校园专属存费送流量合约存100元送50G流量（3个月）[全渠道]",
+    "category": "营销活动",
     "fields": []
    },
    {
-    "tariff_id": "CUCC-24HE300210",
-    "name": "宽带0元提速包600M（6个月）（河北）",
-    "category": "加装包",
+    "tariff_id": "CUCC-25HE300617",
+    "name": "畅越感知提升专享赠费10元/月（河北）-次月生效",
+    "category": "营销活动",
     "fields": []
-   },
-   {
-    "tariff_id": "CUCC-24HE300395",
-    "name": "2023年校园专属3元赠费包-次月生效（48个月）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300396",
-    "name": "2023校园专属1元60G流量包-次月生效（48个月）（河北定向）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300397",
-    "name": "2023校园专属1元80G流量包-次月生效（48个月）（河北定向）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300398",
-    "name": "2023校园专属1元100G流量包-次月生效（48个月）（河北定向）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300399",
-    "name": "2023年校园专属3元赠费包-立即生效（48个月）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300400",
-    "name": "2023校园专属1元60G流量包-立即生效（48个月）（河北定向）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300401",
-    "name": "2023校园专属1元80G流量包-立即生效（48个月）（河北定向）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300402",
-    "name": "2023校园专属1元100G流量包-立即生效（48个月）（河北定向）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300691",
-    "name": "校园专属0.1元20G假期全国流量包(3个月)-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300692",
-    "name": "校园专属3元30G假期全国流量包(3个月)-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300693",
-    "name": "校园专属5元50G假期全国流量包(3个月)-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300736",
-    "name": "2023校园专属1元50G全国流量包-次月生效（48个月）（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300743",
-    "name": "2023年校园专属1元赠费包-次月生效（48个月）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300744",
-    "name": "2023年校园专属1元赠费包-立即生效（48个月）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300745",
-    "name": "2024年校园专属1元赠费包48个月（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300746",
-    "name": "2024年校园专属1元赠费包48个月（河北）-次月生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300747",
-    "name": "2024年校园专属2元赠费包48个月(河北)-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300748",
-    "name": "2024年校园专属2元赠费包48个月(河北)-次月生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300749",
-    "name": "2024年校园专属3元赠费包48个月（河北）-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300750",
-    "name": "2024年校园专属3元赠费包48个月（河北）-次月生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300751",
-    "name": "2024年校园专属5元赠费包48个月(河北)-立即生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300752",
-    "name": "2024年校园专属5元赠费包48个月(河北)-次月生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-26HE300146",
-    "name": "联通5G智享套餐360元合约赠款有效期36个月（河北）-次月生效",
-    "category": "加装包",
-    "fields": [
-     "eligibility",
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-26HE300192",
-    "name": "1元300分钟语音40GB流量组合包（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-26HE300193",
-    "name": "2元500分钟语音80GB流量组合包（河北）-立即生效",
-    "category": "加装包",
-    "fields": [
-     "eligibility"
-    ]
    }
   ]
  },
  "unchanged": {
-  "count": 1714
+  "count": 1739
  },
  "has_change": true,
  "status": "CHANGED"
