@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T01:23:28+0000",
+ "generated_at": "2026-11-01T23:44:14+0000",
  "current_count": 1741,
  "previous_count": 1741,
  "added": {
@@ -11,112 +11,12 @@
   "items": []
  },
  "modified": {
-  "count": 12,
-  "items": [
-   {
-    "tariff_id": "CUCC-24HE300193",
-    "name": "客户回馈权益体验包(立即生效)【河北】",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300207",
-    "name": "副卡专享包-权益N选1（立即生效）（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300209",
-    "name": "宽带0元提速包1000M（6个月）（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300210",
-    "name": "宽带0元提速包600M（6个月）（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300229",
-    "name": "存120送120提速千兆-6个月（欠拆高危专属）（河北）",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300233",
-    "name": "承诺在网赠200分钟语音合约(6个月)(河北)",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-24HE300234",
-    "name": "承诺在网赠100分钟语音合约(6个月)(河北)",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-25HE300809",
-    "name": "FTTR组网主光猫升级服务优惠产品长期有效（河北）-次月生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300810",
-    "name": "FTTR组网标准档从光猫1升级服务优惠长期有效（河北）-次月生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-25HE300811",
-    "name": "FTTR组网中档从光猫2升级服务优惠长期有效（河北）-次月生效",
-    "category": "加装包",
-    "fields": []
-   },
-   {
-    "tariff_id": "CUCC-26HE300236",
-    "name": "2024版FTTO智企组网专属优惠包26元/月[36个月](河北)",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CUCC-26HE300281",
-    "name": "流量王家家乐上网卡存100元送100元有效期10个月（河北）-次月生效",
-    "category": "停售套餐",
-    "fields": [
-     "category",
-     "subcategory"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 1729
+  "count": 1741
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

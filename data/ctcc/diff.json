@@ -1,20 +1,14 @@
 {
- "generated_at": "2026-11-01T01:23:28+0000",
+ "generated_at": "2026-11-01T23:44:14+0000",
  "current_count": 785,
- "previous_count": 786,
+ "previous_count": 785,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CTCC-24HE102094",
-    "name": "全屋WiFi上门调测服务-50元",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
   "count": 0,
@@ -23,6 +17,6 @@
  "unchanged": {
   "count": 785
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

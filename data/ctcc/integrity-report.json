@@ -1,9 +1,9 @@
 {
  "operator": "ctcc",
- "generated_at": "2026-10-31T22:54:44+0000",
+ "generated_at": "2026-11-01T23:11:59+0000",
  "overall": "PASS",
  "item_count": 785,
- "previous_count": 786,
+ "previous_count": 785,
  "checks": [
   {
    "check": "province_hebei",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 786 条 → 本次 785 条（下降 1 条 / 0%）"
+   "detail": "上次 785 条 → 本次 785 条（下降 0 条 / 0%）"
   }
  ],
  "category_results": [
