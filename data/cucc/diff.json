@@ -1,22 +1,98 @@
 {
- "generated_at": "2026-11-01T23:44:14+0000",
- "current_count": 1741,
+ "generated_at": "2026-11-03T02:30:38+0000",
+ "current_count": 1742,
  "previous_count": 1741,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300448",
+    "name": "畅越优选15元/月视频彩铃权益包(河北)-立即生效",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 8,
+  "items": [
+   {
+    "tariff_id": "CUCC-25HE300846",
+    "name": "产品超市-90元冰激凌折扣包-次月生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300954",
+    "name": "联通云智手机畅享版15元/月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300955",
+    "name": "联通云智手机畅享版15元/月（河北）-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301136",
+    "name": "畅越云智从光猫礼盒（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301250",
+    "name": "联通智家通用20元赠费包36个月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300099",
+    "name": "唐山学院200M宽带（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300100",
+    "name": "唐山师范学院200M宽带（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300404",
+    "name": "联通智家5G云智套餐分月送券合约399元36个月（河北）-次月生效",
+    "category": "套餐",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 1741
+  "count": 1733
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

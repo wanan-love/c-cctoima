@@ -1,8 +1,8 @@
 {
  "operator": "cucc",
- "generated_at": "2026-11-01T23:16:27+0000",
+ "generated_at": "2026-11-03T01:59:41+0000",
  "overall": "PASS",
- "item_count": 1741,
+ "item_count": 1742,
  "previous_count": 1741,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1741 条；name 覆盖 1741/1741，details 覆盖 1741/1741（阈值 0.95）"
+   "detail": "1742 条；name 覆盖 1742/1742，details 覆盖 1742/1742（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1741 条 → 本次 1741 条（下降 0 条 / 0%）"
+   "detail": "上次 1741 条 → 本次 1742 条（下降 -1 条 / -0%）"
   }
  ],
  "category_results": [
@@ -55,8 +55,8 @@
   },
   {
    "category": "套餐>宽带",
-   "expected": 42,
-   "collected": 42,
+   "expected": 40,
+   "collected": 40,
    "error": ""
   },
   {
@@ -91,26 +91,26 @@
   },
   {
    "category": "加装包>权益包",
-   "expected": 43,
-   "collected": 43,
+   "expected": 44,
+   "collected": 44,
    "error": ""
   },
   {
    "category": "加装包>新业务",
-   "expected": 93,
-   "collected": 93,
+   "expected": 91,
+   "collected": 91,
    "error": ""
   },
   {
    "category": "加装包>其他",
-   "expected": 56,
-   "collected": 56,
+   "expected": 55,
+   "collected": 55,
    "error": ""
   },
   {
    "category": "营销活动>促销",
-   "expected": 133,
-   "collected": 133,
+   "expected": 131,
+   "collected": 131,
    "error": ""
   },
   {
@@ -151,20 +151,20 @@
   },
   {
    "category": "停售套餐>套餐",
-   "expected": 608,
-   "collected": 608,
+   "expected": 610,
+   "collected": 610,
    "error": ""
   },
   {
    "category": "停售套餐>加装包",
-   "expected": 343,
-   "collected": 343,
+   "expected": 346,
+   "collected": 346,
    "error": ""
   },
   {
    "category": "停售套餐>营销活动",
-   "expected": 154,
-   "collected": 154,
+   "expected": 156,
+   "collected": 156,
    "error": ""
   },
   {

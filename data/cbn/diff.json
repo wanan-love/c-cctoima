@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T23:44:14+0000",
+ "generated_at": "2026-11-03T02:30:38+0000",
  "current_count": 139,
  "previous_count": 139,
  "added": {
@@ -11,12 +11,31 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+   {
+    "tariff_id": "CBN-26HE500014",
+    "name": "用户回馈活动",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CBN-26HE500015",
+    "name": "奔马卡回馈活动",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CBN-26HE500024",
+    "name": "国内流量年包192元",
+    "category": "营销活动",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 139
+  "count": 136
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
