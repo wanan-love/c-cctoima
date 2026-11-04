@@ -1,180 +1,338 @@
 {
- "generated_at": "2026-11-03T02:30:37+0000",
+ "generated_at": "2026-11-04T00:49:12+0000",
  "current_count": 2356,
  "previous_count": 2356,
  "added": {
-  "count": 6,
-  "items": [
-   {
-    "tariff_id": "CMCC-26HE201412",
-    "name": "云盘礼包2",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201413",
-    "name": "云盘礼包1",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201414",
-    "name": "云盘礼包3",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201415",
-    "name": "咪咕礼包1",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201416",
-    "name": "咪咕礼包2",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201417",
-    "name": "咪咕礼包3",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 6,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE200954",
-    "name": "心级服务流量周包2GB",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE202996",
-    "name": "10元反诈保障年包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202997",
-    "name": "综合意外保障学生版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE203048",
-    "name": "咪咕文娱特惠包",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE203059",
-    "name": "咪咕快游AI悦动包臻享版",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200849",
-    "name": "副卡功能费40元减免优惠2026促销版",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
-  "count": 10,
+  "count": 33,
   "items": [
    {
-    "tariff_id": "CMCC-25HE200532",
-    "name": "体验活动专享随心看会员",
+    "tariff_id": "CMCC-25HE203246",
+    "name": "79元套餐打折到64元优惠2026版（36个月）",
     "category": "营销活动",
     "fields": [
-     "name",
-     "description",
-     "subcategory"
+     "eligibility",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE200952",
-    "name": "体验活动专享5GB流量包",
+    "tariff_id": "CMCC-25HE203249",
+    "name": "99元套餐打折到79元优惠2026版（36个月）",
     "category": "营销活动",
     "fields": [
-     "name",
-     "validity",
-     "description",
-     "subcategory"
+     "price",
+     "eligibility",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE200958",
-    "name": "体验活动专享10GB流量包",
+    "tariff_id": "CMCC-25HE203253",
+    "name": "79元套餐打折到64元优惠2026版（24个月）",
     "category": "营销活动",
     "fields": [
-     "name",
-     "validity",
-     "description",
-     "subcategory"
+     "price",
+     "eligibility",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE200959",
-    "name": "体验活动专享3GB流量包",
+    "tariff_id": "CMCC-25HE203254",
+    "name": "99元套餐打折到79元优惠2026版（24个月）",
     "category": "营销活动",
     "fields": [
-     "name",
-     "validity",
-     "description",
-     "subcategory"
+     "price",
+     "eligibility",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE201138",
-    "name": "体验活动专享50分钟语音包",
+    "tariff_id": "CMCC-25HE203272",
+    "name": "59元套餐打折到39元优惠2026版（36个月）",
     "category": "营销活动",
     "fields": [
-     "name",
-     "validity",
-     "description",
-     "subcategory"
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE201140",
-    "name": "体验活动专享100分钟语音包",
+    "tariff_id": "CMCC-25HE203273",
+    "name": "499元套餐打折到349元优惠2026版（36个月）",
     "category": "营销活动",
     "fields": [
-     "name",
-     "validity",
-     "description",
-     "subcategory"
+     "price",
+     "eligibility",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE201143",
-    "name": "体验活动专享200分钟语音包",
+    "tariff_id": "CMCC-25HE203274",
+    "name": "239元套餐打折到169元优惠2026版（36个月）",
     "category": "营销活动",
     "fields": [
-     "name",
-     "validity",
-     "description",
-     "subcategory"
+     "price",
+     "eligibility",
+     "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE202051",
-    "name": "50G通用流量包（0元1个月）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-25HE202059",
-    "name": "500分钟语音包（0元1个月）",
-    "category": "营销活动",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-25HE202061",
-    "name": "400分钟语音包（0元1个月）",
+    "tariff_id": "CMCC-25HE203275",
+    "name": "299元套餐打折到209元优惠2026版（24个月）",
     "category": "营销活动",
     "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203276",
+    "name": "399元套餐打折到279元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203277",
+    "name": "499元套餐打折到349元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203278",
+    "name": "99元套餐打折到69元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203279",
+    "name": "999元套餐打折到699元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203280",
+    "name": "169元套餐打折到119元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203282",
+    "name": "399元套餐打折到279元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203283",
+    "name": "299元套餐打折到209元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203284",
+    "name": "59元套餐打折到39元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203285",
+    "name": "239元套餐打折到169元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203286",
+    "name": "799元套餐打折到559元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203287",
+    "name": "99元套餐打折到69元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203289",
+    "name": "599元套餐打折到419元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203290",
+    "name": "999元套餐打折到699元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203291",
+    "name": "79元套餐打折到59元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203293",
+    "name": "129元套餐打折到89元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203294",
+    "name": "199元套餐打折到139元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203296",
+    "name": "129元套餐打折到89元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203297",
+    "name": "599元套餐打折到419元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203298",
+    "name": "169元套餐打折到119元优惠2026版（24个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203299",
+    "name": "79元套餐打折到59元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203300",
+    "name": "799元套餐打折到559元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203301",
+    "name": "199元套餐打折到139元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200135",
+    "name": "169元套餐打折到129元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200136",
+    "name": "129元套餐打折到109元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200137",
+    "name": "129元套餐打折到99元优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
      "eligibility"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2340
+  "count": 2323
  },
  "has_change": true,
  "status": "CHANGED"
