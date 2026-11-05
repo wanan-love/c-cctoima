@@ -1,338 +1,268 @@
 {
- "generated_at": "2026-11-04T00:49:12+0000",
- "current_count": 2356,
+ "generated_at": "2026-11-05T01:09:13+0000",
+ "current_count": 2358,
  "previous_count": 2356,
  "added": {
-  "count": 0,
-  "items": []
- },
- "removed": {
-  "count": 0,
-  "items": []
- },
- "modified": {
-  "count": 33,
+  "count": 5,
   "items": [
    {
-    "tariff_id": "CMCC-25HE203246",
-    "name": "79元套餐打折到64元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE201418",
+    "name": "IPTV奇好看VIP（亲情付）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201419",
+    "name": "爱家生活-智能厨电30元包存量版 -冀享专属",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201420",
+    "name": "2026移动看家服务双摄（室内）存量版-冀享专属",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE201421",
+    "name": "宽带提速千兆-家庭安防专属",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201422",
+    "name": "2026移动看家服务双摄（室外）存量版-冀享专属",
+    "category": "套餐"
+   }
+  ]
+ },
+ "removed": {
+  "count": 3,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE200063",
+    "name": "2026移动看家室外安防球机装维版—冀享专属",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE200064",
+    "name": "2026移动看家室外安防球机半趸交—冀享专属",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CMCC-26HE200067",
+    "name": "2026移动看家室外安防球机装维版半趸交—冀享专属",
+    "category": "套餐"
+   }
+  ]
+ },
+ "modified": {
+  "count": 25,
+  "items": [
+   {
+    "tariff_id": "CMCC-24HE200076",
+    "name": "流量暖心包(10元10G)",
+    "category": "加装包",
     "fields": [
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203249",
-    "name": "99元套餐打折到79元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-25HE203192",
+    "name": "咪咕悦看短剧悦享精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203193",
+    "name": "咪咕悦看短剧怀旧精品会员",
+    "category": "加装包",
+    "fields": [
+     "validity",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203253",
-    "name": "79元套餐打折到64元优惠2026版（24个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-25HE203194",
+    "name": "咪咕悦看短剧喜剧精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
+     "validity",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203254",
-    "name": "99元套餐打折到79元优惠2026版（24个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-25HE203195",
+    "name": "咪咕悦看短剧万象精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
+     "validity",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203272",
-    "name": "59元套餐打折到39元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-25HE203196",
+    "name": "咪咕悦看短剧逆袭精品会员",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203197",
+    "name": "咪咕悦看短剧江湖精品会员",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203198",
+    "name": "咪咕悦看短剧市井精品会员",
+    "category": "加装包",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203199",
+    "name": "咪咕悦看短剧星选精品会员",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203200",
+    "name": "咪咕悦看短剧高糖精品会员",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203201",
+    "name": "咪咕悦看短剧心动精品会员",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200314",
+    "name": "咪咕悦看短剧经典精品会员",
+    "category": "加装包",
     "fields": [
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203273",
-    "name": "499元套餐打折到349元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200315",
+    "name": "咪咕悦看短剧都市精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203274",
-    "name": "239元套餐打折到169元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200316",
+    "name": "咪咕悦看短剧潮流精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203275",
-    "name": "299元套餐打折到209元优惠2026版（24个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200317",
+    "name": "咪咕悦看短剧青春精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203276",
-    "name": "399元套餐打折到279元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200318",
+    "name": "咪咕悦看短剧励志精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203277",
-    "name": "499元套餐打折到349元优惠2026版（24个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203278",
-    "name": "99元套餐打折到69元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200319",
+    "name": "咪咕悦看短剧生活精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203279",
-    "name": "999元套餐打折到699元优惠2026版（24个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203280",
-    "name": "169元套餐打折到119元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200320",
+    "name": "咪咕悦看短剧原创精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203282",
-    "name": "399元套餐打折到279元优惠2026版（24个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200321",
+    "name": "咪咕悦看短剧风尚精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203283",
-    "name": "299元套餐打折到209元优惠2026版（36个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200322",
+    "name": "咪咕悦看短剧家庭精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203284",
-    "name": "59元套餐打折到39元优惠2026版（24个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200323",
+    "name": "咪咕悦看短剧时尚精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203285",
-    "name": "239元套餐打折到169元优惠2026版（24个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203286",
-    "name": "799元套餐打折到559元优惠2026版（24个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE200324",
+    "name": "咪咕悦看短剧情感精品会员",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203287",
-    "name": "99元套餐打折到69元优惠2026版（24个月）",
-    "category": "营销活动",
+    "tariff_id": "CMCC-26HE201022",
+    "name": "咪咕短剧流量畅享包-精品怀旧版",
+    "category": "加装包",
     "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203289",
-    "name": "599元套餐打折到419元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-25HE203290",
-    "name": "999元套餐打折到699元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
-     "description"
-    ]
+    "tariff_id": "CMCC-26HE201096",
+    "name": "爱家光网服务-99档及以上-划拨版新增",
+    "category": "套餐",
+    "fields": []
    },
    {
-    "tariff_id": "CMCC-25HE203291",
-    "name": "79元套餐打折到59元优惠2026版（24个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203293",
-    "name": "129元套餐打折到89元优惠2026版（24个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203294",
-    "name": "199元套餐打折到139元优惠2026版（24个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203296",
-    "name": "129元套餐打折到89元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203297",
-    "name": "599元套餐打折到419元优惠2026版（24个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203298",
-    "name": "169元套餐打折到119元优惠2026版（24个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203299",
-    "name": "79元套餐打折到59元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203300",
-    "name": "799元套餐打折到559元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203301",
-    "name": "199元套餐打折到139元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200135",
-    "name": "169元套餐打折到129元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200136",
-    "name": "129元套餐打折到109元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200137",
-    "name": "129元套餐打折到99元优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "price",
-     "eligibility"
-    ]
+    "tariff_id": "CMCC-26HE201097",
+    "name": "爱家光网服务-79档及以上-划拨版存量",
+    "category": "套餐",
+    "fields": []
    }
   ]
  },
  "unchanged": {
-  "count": 2323
+  "count": 2328
  },
  "has_change": true,
  "status": "CHANGED"

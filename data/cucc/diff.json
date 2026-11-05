@@ -1,22 +1,56 @@
 {
- "generated_at": "2026-11-04T00:49:12+0000",
- "current_count": 1742,
+ "generated_at": "2026-11-05T01:09:13+0000",
+ "current_count": 1746,
  "previous_count": 1742,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300449",
+    "name": "畅越冰激凌升级版套餐存240元送240元终端券合约24个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300450",
+    "name": "畅越冰激凌升级版套餐存360元送360元终端券合约36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300451",
+    "name": "畅越冰激凌升级版套餐存720元送720元终端券合约36个月（河北）-次月生效",
+    "category": "套餐"
+   },
+   {
+    "tariff_id": "CUCC-26HE300452",
+    "name": "畅越冰激凌升级版套餐存1062元送1062元终端券合约36个月（河北）-次月生效",
+    "category": "套餐"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CUCC-26HE300279",
+    "name": "客户回馈预存120元赠中国石油权益有效期6个月(河北)-立即生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300280",
+    "name": "客户回馈预存240元赠中国石油权益有效期12个月(河北)-立即生效",
+    "category": "营销活动",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 1742
+  "count": 1740
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
