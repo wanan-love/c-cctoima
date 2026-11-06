@@ -1,9 +1,9 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-11-05T01:07:07+0000",
+ "generated_at": "2026-11-06T01:09:28+0000",
  "overall": "PASS",
- "item_count": 2358,
- "previous_count": 2356,
+ "item_count": 2360,
+ "previous_count": 2358,
  "checks": [
   {
    "check": "province_hebei",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2358 条；name 覆盖 2358/2358，details 覆盖 2358/2358（阈值 0.95）"
+   "detail": "2360 条；name 覆盖 2360/2360，details 覆盖 2360/2360（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2356 条 → 本次 2358 条（下降 -2 条 / -0%）"
+   "detail": "上次 2358 条 → 本次 2360 条（下降 -2 条 / -0%）"
   }
  ],
  "category_results": [
@@ -56,16 +56,16 @@
   },
   {
    "label": "加装包",
-   "items": 700,
-   "beans": 680,
-   "total": 696,
+   "items": 695,
+   "beans": 675,
+   "total": 695,
    "note": ""
   },
   {
    "label": "营销活动",
-   "items": 1120,
-   "beans": 1120,
-   "total": 1120,
+   "items": 1127,
+   "beans": 1127,
+   "total": 1127,
    "note": ""
   },
   {

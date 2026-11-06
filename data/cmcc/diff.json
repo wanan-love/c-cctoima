@@ -1,268 +1,83 @@
 {
- "generated_at": "2026-11-05T01:09:13+0000",
- "current_count": 2358,
- "previous_count": 2356,
+ "generated_at": "2026-11-06T01:11:34+0000",
+ "current_count": 2360,
+ "previous_count": 2358,
  "added": {
-  "count": 5,
+  "count": 7,
   "items": [
    {
-    "tariff_id": "CMCC-26HE201418",
-    "name": "IPTV奇好看VIP（亲情付）",
+    "tariff_id": "CMCC-26HE201423",
+    "name": "2026年移动暖冬特惠活动",
     "category": "营销活动"
    },
    {
-    "tariff_id": "CMCC-26HE201419",
-    "name": "爱家生活-智能厨电30元包存量版 -冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201420",
-    "name": "2026移动看家服务双摄（室内）存量版-冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201421",
-    "name": "宽带提速千兆-家庭安防专属",
+    "tariff_id": "CMCC-26HE201424",
+    "name": "2026年移动焕新有礼活动",
     "category": "营销活动"
    },
    {
-    "tariff_id": "CMCC-26HE201422",
-    "name": "2026移动看家服务双摄（室外）存量版-冀享专属",
-    "category": "套餐"
+    "tariff_id": "CMCC-26HE201425",
+    "name": "2026年沧州移动悦启新程活动",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201426",
+    "name": "2026年移动感恩同行活动",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201427",
+    "name": "唐山移动存费享好礼活动",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201428",
+    "name": "移动爱家尊享回馈活动",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201429",
+    "name": "移动爱家光网感恩回馈活动",
+    "category": "营销活动"
    }
   ]
  },
  "removed": {
-  "count": 3,
+  "count": 5,
   "items": [
    {
-    "tariff_id": "CMCC-26HE200063",
-    "name": "2026移动看家室外安防球机装维版—冀享专属",
-    "category": "套餐"
+    "tariff_id": "CMCC-25HE200916",
+    "name": "中石油17元权益合约包（12个月）",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-26HE200064",
-    "name": "2026移动看家室外安防球机半趸交—冀享专属",
-    "category": "套餐"
+    "tariff_id": "CMCC-25HE202883",
+    "name": "承德家庭财产保障服务40元档次-2年版",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-26HE200067",
-    "name": "2026移动看家室外安防球机装维版半趸交—冀享专属",
-    "category": "套餐"
+    "tariff_id": "CMCC-25HE202884",
+    "name": "承德家庭财产保障服务20元档次-2年版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202885",
+    "name": "承德家庭财产保障服务20元档次-3年版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202886",
+    "name": "承德家庭财产保障服务20元档次-1年版",
+    "category": "加装包"
    }
   ]
  },
  "modified": {
-  "count": 25,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200076",
-    "name": "流量暖心包(10元10G)",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203192",
-    "name": "咪咕悦看短剧悦享精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203193",
-    "name": "咪咕悦看短剧怀旧精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203194",
-    "name": "咪咕悦看短剧喜剧精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203195",
-    "name": "咪咕悦看短剧万象精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203196",
-    "name": "咪咕悦看短剧逆袭精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203197",
-    "name": "咪咕悦看短剧江湖精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203198",
-    "name": "咪咕悦看短剧市井精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203199",
-    "name": "咪咕悦看短剧星选精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203200",
-    "name": "咪咕悦看短剧高糖精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE203201",
-    "name": "咪咕悦看短剧心动精品会员",
-    "category": "加装包",
-    "fields": [
-     "validity",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200314",
-    "name": "咪咕悦看短剧经典精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200315",
-    "name": "咪咕悦看短剧都市精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200316",
-    "name": "咪咕悦看短剧潮流精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200317",
-    "name": "咪咕悦看短剧青春精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200318",
-    "name": "咪咕悦看短剧励志精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200319",
-    "name": "咪咕悦看短剧生活精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200320",
-    "name": "咪咕悦看短剧原创精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200321",
-    "name": "咪咕悦看短剧风尚精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200322",
-    "name": "咪咕悦看短剧家庭精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200323",
-    "name": "咪咕悦看短剧时尚精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200324",
-    "name": "咪咕悦看短剧情感精品会员",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201022",
-    "name": "咪咕短剧流量畅享包-精品怀旧版",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201096",
-    "name": "爱家光网服务-99档及以上-划拨版新增",
-    "category": "套餐",
-    "fields": []
-   },
-   {
-    "tariff_id": "CMCC-26HE201097",
-    "name": "爱家光网服务-79档及以上-划拨版存量",
-    "category": "套餐",
-    "fields": []
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2328
+  "count": 2353
  },
  "has_change": true,
  "status": "CHANGED"
