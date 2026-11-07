@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T01:11:35+0000",
+ "generated_at": "2026-11-07T00:26:02+0000",
  "current_count": 785,
  "previous_count": 785,
  "added": {
@@ -11,12 +11,82 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 8,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100125",
+    "name": "客户回馈-宽带补贴5元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100126",
+    "name": "客户回馈-宽带补贴20元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100127",
+    "name": "客户回馈-话费补贴20元（3个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100132",
+    "name": "客户回馈-话费补贴5元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100135",
+    "name": "客户回馈-话费补贴20元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100136",
+    "name": "客户回馈-话费补贴10元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100137",
+    "name": "客户回馈-宽带补贴10元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100250",
+    "name": "存量维系-套餐月费优惠包-单宽融合当月优惠",
+    "category": "营销活动",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 785
+  "count": 777
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

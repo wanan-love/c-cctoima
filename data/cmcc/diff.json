@@ -1,53 +1,13 @@
 {
- "generated_at": "2026-11-06T01:11:34+0000",
- "current_count": 2360,
- "previous_count": 2358,
+ "generated_at": "2026-11-07T00:26:02+0000",
+ "current_count": 2374,
+ "previous_count": 2360,
  "added": {
-  "count": 7,
+  "count": 14,
   "items": [
    {
-    "tariff_id": "CMCC-26HE201423",
-    "name": "2026年移动暖冬特惠活动",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201424",
-    "name": "2026年移动焕新有礼活动",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201425",
-    "name": "2026年沧州移动悦启新程活动",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201426",
-    "name": "2026年移动感恩同行活动",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201427",
-    "name": "唐山移动存费享好礼活动",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201428",
-    "name": "移动爱家尊享回馈活动",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201429",
-    "name": "移动爱家光网感恩回馈活动",
-    "category": "营销活动"
-   }
-  ]
- },
- "removed": {
-  "count": 5,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE200916",
-    "name": "中石油17元权益合约包（12个月）",
+    "tariff_id": "CMCC-25HE201652",
+    "name": "廊坊移动校园手机宽带0元_300M_燕理专用",
     "category": "加装包"
    },
    {
@@ -69,15 +29,79 @@
     "tariff_id": "CMCC-25HE202886",
     "name": "承德家庭财产保障服务20元档次-1年版",
     "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201430",
+    "name": "2026年套餐迁移回馈活动档次一",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201431",
+    "name": "2026年套餐迁移回馈活动档次二",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201432",
+    "name": "2026年全球通客户暖冬活动",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201433",
+    "name": "爱奇艺白金VIP联合会员流量30元版-冀享专属",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201434",
+    "name": "爱奇艺黄金VIP联合会员流量23元版-冀享专属",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201435",
+    "name": "全球通5G-A加速服务",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201436",
+    "name": "保定家财流量融合产品-3个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201437",
+    "name": "保定医保流量融合产品（普通版）-3个月",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201438",
+    "name": "保定医保流量融合产品（老年版）-3个月",
+    "category": "营销活动"
    }
   ]
  },
- "modified": {
+ "removed": {
   "count": 0,
   "items": []
  },
+ "modified": {
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE202084",
+    "name": "全球通权益成长礼包",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200250",
+    "name": "动感地带品牌套餐-39元档（新）",
+    "category": "套餐",
+    "fields": []
+   }
+  ]
+ },
  "unchanged": {
-  "count": 2353
+  "count": 2358
  },
  "has_change": true,
  "status": "CHANGED"
