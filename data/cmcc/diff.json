@@ -1,8 +1,12 @@
 {
- "generated_at": "2026-11-07T23:40:44+0000",
- "current_count": 2379,
- "previous_count": 2374,
+ "generated_at": "2026-11-08T23:54:03+0000",
+ "current_count": 2374,
+ "previous_count": 2379,
  "added": {
+  "count": 0,
+  "items": []
+ },
+ "removed": {
   "count": 5,
   "items": [
    {
@@ -31,10 +35,6 @@
     "category": "套餐"
    }
   ]
- },
- "removed": {
-  "count": 0,
-  "items": []
  },
  "modified": {
   "count": 0,
