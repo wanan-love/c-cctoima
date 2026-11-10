@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T23:54:03+0000",
+ "generated_at": "2026-11-10T03:10:22+0000",
  "current_count": 1746,
  "previous_count": 1746,
  "added": {
@@ -11,12 +11,25 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CUCC-25HE300809",
+    "name": "FTTR组网主光猫升级服务优惠产品长期有效（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300810",
+    "name": "FTTR组网标准档从光猫1升级服务优惠长期有效（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 1746
+  "count": 1744
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
