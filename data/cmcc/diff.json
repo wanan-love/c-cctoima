@@ -1,22 +1,58 @@
 {
- "generated_at": "2026-11-10T03:10:22+0000",
- "current_count": 2374,
+ "generated_at": "2026-11-11T01:15:03+0000",
+ "current_count": 2379,
  "previous_count": 2374,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 5,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE200849",
+    "name": "副卡功能费40元减免优惠2026促销版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201439",
+    "name": "守机宝2年包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201440",
+    "name": "守机宝3年包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201441",
+    "name": "守机宝半年包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201442",
+    "name": "10元咪咕视频全屏畅看包",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE202016",
+    "name": "0元提速至300M1个月体验优惠（手机宽带）（河北）",
+    "category": "标准资费",
+    "fields": [
+     "name",
+     "subcategory"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 2374
+  "count": 2373
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

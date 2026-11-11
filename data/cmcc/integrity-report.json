@@ -1,8 +1,8 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-11-10T03:08:15+0000",
+ "generated_at": "2026-11-11T01:12:57+0000",
  "overall": "PASS",
- "item_count": 2374,
+ "item_count": 2379,
  "previous_count": 2374,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2374 条；name 覆盖 2374/2374，details 覆盖 2374/2374（阈值 0.95）"
+   "detail": "2379 条；name 覆盖 2379/2379，details 覆盖 2379/2379（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2374 条 → 本次 2374 条（下降 0 条 / 0%）"
+   "detail": "上次 2374 条 → 本次 2379 条（下降 -5 条 / -0%）"
   }
  ],
  "category_results": [
@@ -56,9 +56,9 @@
   },
   {
    "label": "加装包",
-   "items": 700,
-   "beans": 680,
-   "total": 696,
+   "items": 705,
+   "beans": 685,
+   "total": 701,
    "note": ""
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T03:10:23+0000",
+ "generated_at": "2026-11-11T01:15:04+0000",
  "current_count": 139,
  "previous_count": 139,
  "added": {
@@ -11,19 +11,12 @@
   "items": []
  },
  "modified": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CBN-24HE500043",
-    "name": "慧家288元套餐",
-    "category": "套餐",
-    "fields": []
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 138
+  "count": 139
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
