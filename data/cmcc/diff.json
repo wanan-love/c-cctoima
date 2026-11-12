@@ -1,57 +1,92 @@
 {
- "generated_at": "2026-11-11T01:15:03+0000",
+ "generated_at": "2026-11-12T02:35:42+0000",
  "current_count": 2379,
- "previous_count": 2374,
+ "previous_count": 2379,
  "added": {
-  "count": 5,
-  "items": [
-   {
-    "tariff_id": "CMCC-26HE200849",
-    "name": "副卡功能费40元减免优惠2026促销版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201439",
-    "name": "守机宝2年包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201440",
-    "name": "守机宝3年包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201441",
-    "name": "守机宝半年包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201442",
-    "name": "10元咪咕视频全屏畅看包",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 1,
+  "count": 9,
   "items": [
    {
-    "tariff_id": "CMCC-25HE202016",
-    "name": "0元提速至300M1个月体验优惠（手机宽带）（河北）",
-    "category": "标准资费",
+    "tariff_id": "CMCC-26HE200309",
+    "name": "和家庭计划免10元功能费优惠(副卡专用版)",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CMCC-26HE201389",
+    "name": "2026年石家庄交话费赠礼回馈活动悦享档",
+    "category": "营销活动",
     "fields": [
-     "name",
-     "subcategory"
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201390",
+    "name": "2026年石家庄交话费赠礼回馈活动臻享档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201393",
+    "name": "2026年石家庄升档升舱客户赠礼回馈活动盛享档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201394",
+    "name": "2026年石家庄升档升舱客户赠礼回馈活动悦享档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201395",
+    "name": "2026年石家庄升档升舱客户赠礼回馈活动尊享档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201396",
+    "name": "2026年石家庄升档升舱客户赠礼回馈活动臻享档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201397",
+    "name": "2026年石家庄交话费赠礼回馈活动尊享档",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE201398",
+    "name": "2026年石家庄交话费赠礼回馈活动盛享档",
+    "category": "营销活动",
+    "fields": [
+     "description"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2373
+  "count": 2370
  },
  "has_change": true,
  "status": "CHANGED"
