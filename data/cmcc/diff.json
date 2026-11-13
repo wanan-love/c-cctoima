@@ -1,83 +1,84 @@
 {
- "generated_at": "2026-11-12T02:35:42+0000",
- "current_count": 2379,
+ "generated_at": "2026-11-13T01:29:22+0000",
+ "current_count": 2380,
  "previous_count": 2379,
  "added": {
-  "count": 0,
-  "items": []
- },
- "removed": {
-  "count": 0,
-  "items": []
- },
- "modified": {
-  "count": 9,
+  "count": 5,
   "items": [
    {
-    "tariff_id": "CMCC-26HE200309",
-    "name": "和家庭计划免10元功能费优惠(副卡专用版)",
-    "category": "营销活动",
-    "fields": []
+    "tariff_id": "CMCC-26HE200042",
+    "name": "全家享100G通用流量包2026版（36个月）",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-26HE201389",
-    "name": "2026年石家庄交话费赠礼回馈活动悦享档",
+    "tariff_id": "CMCC-26HE200301",
+    "name": "10元返费优惠2026版（36个月）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201443",
+    "name": "咪咕视频全站包-冀享专属",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201444",
+    "name": "10元咪咕视频全站包-39悦享专属",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201445",
+    "name": "大小屏融合咪咕视频全站包-冀享专属",
+    "category": "加装包"
+   }
+  ]
+ },
+ "removed": {
+  "count": 4,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE202883",
+    "name": "承德家庭财产保障服务40元档次-2年版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202884",
+    "name": "承德家庭财产保障服务20元档次-2年版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202885",
+    "name": "承德家庭财产保障服务20元档次-3年版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202886",
+    "name": "承德家庭财产保障服务20元档次-1年版",
+    "category": "加装包"
+   }
+  ]
+ },
+ "modified": {
+  "count": 3,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE201427",
+    "name": "唐山移动存费享好礼活动",
     "category": "营销活动",
     "fields": [
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE201390",
-    "name": "2026年石家庄交话费赠礼回馈活动臻享档",
+    "tariff_id": "CMCC-26HE201428",
+    "name": "移动爱家尊享回馈活动",
     "category": "营销活动",
     "fields": [
      "description"
     ]
    },
    {
-    "tariff_id": "CMCC-26HE201393",
-    "name": "2026年石家庄升档升舱客户赠礼回馈活动盛享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201394",
-    "name": "2026年石家庄升档升舱客户赠礼回馈活动悦享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201395",
-    "name": "2026年石家庄升档升舱客户赠礼回馈活动尊享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201396",
-    "name": "2026年石家庄升档升舱客户赠礼回馈活动臻享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201397",
-    "name": "2026年石家庄交话费赠礼回馈活动尊享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201398",
-    "name": "2026年石家庄交话费赠礼回馈活动盛享档",
+    "tariff_id": "CMCC-26HE201429",
+    "name": "移动爱家光网感恩回馈活动",
     "category": "营销活动",
     "fields": [
      "description"
@@ -86,7 +87,7 @@
   ]
  },
  "unchanged": {
-  "count": 2370
+  "count": 2372
  },
  "has_change": true,
  "status": "CHANGED"
