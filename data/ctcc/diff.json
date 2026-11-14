@@ -1,22 +1,75 @@
 {
- "generated_at": "2026-11-13T01:29:22+0000",
- "current_count": 787,
+ "generated_at": "2026-11-14T01:01:18+0000",
+ "current_count": 790,
  "previous_count": 787,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100260",
+    "name": "畅享提速共享包-10元/月（当月有效）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100261",
+    "name": "畅享提速共享包-40元/月（当月有效）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100264",
+    "name": "挂机5G消息基础包39元版",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100230",
+    "name": "天翼魔方宽带1000M",
+    "category": "套餐",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100231",
+    "name": "天翼魔方宽带300M",
+    "category": "套餐",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100232",
+    "name": "天翼魔方移动",
+    "category": "套餐",
+    "fields": [
+     "eligibility",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100256",
+    "name": "【分月转兑】维系240元本金（201612）",
+    "category": "营销活动",
+    "fields": [
+     "name",
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 787
+  "count": 783
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

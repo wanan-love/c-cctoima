@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T01:29:22+0000",
+ "generated_at": "2026-11-14T01:01:18+0000",
  "current_count": 1746,
  "previous_count": 1746,
  "added": {
@@ -11,12 +11,271 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 43,
+  "items": [
+   {
+    "tariff_id": "CUCC-24HE300252",
+    "name": "FTTR组网云从512G-2（25元长期）-立即生效-202403(河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300253",
+    "name": "FTTR组网云从256G-1（15元长期）-立即生效-202403(河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300288",
+    "name": "5G冰激凌云龙产品239元档专属80元赠费（202405）36个月（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300289",
+    "name": "5G冰激凌云龙产品239元档专属80元赠费（202405）36个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300407",
+    "name": "河北联通组网服务资费包_12个月(河北)",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300409",
+    "name": "河北联通组网提速服务资费包（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-24HE300410",
+    "name": "河北联通WiFi5组网提速服务资费包（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300024",
+    "name": "群组账户专属500元500G国内流量包有效期6个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300251",
+    "name": "80元冰激凌折扣包（河北）-立即生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300252",
+    "name": "80元冰激凌折扣包（河北）-次月生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300365",
+    "name": "60元权益百宝箱1GB流量组合包有效期6个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300382",
+    "name": "5G冰激凌FTTR 129-159元档专属26元赠费包36个月（河北）-次月生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300383",
+    "name": "5G冰激凌FTTR 129-159元档专属26元赠费包36个月（河北）-立即生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300475",
+    "name": "299元直播套餐宽带0元资费（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300478",
+    "name": "500M包月30元（冰激凌专享）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300487",
+    "name": "1000M包月100元（第二条宽带）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300497",
+    "name": "500M包月60元（第二条宽带）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300503",
+    "name": "500M包月100元（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300566",
+    "name": "河北宽带600M包月（跨域融合）0元/月",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300672",
+    "name": "FTTR组网标准档二次利用从光猫2调测费100元（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300677",
+    "name": "FTTR组网标准档二次利用主+从光猫1调测费50元（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300679",
+    "name": "FTTR组网高档从光猫2服务费10元/月长期有效-立即生效（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300713",
+    "name": "智家通通豪华版45元/月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300798",
+    "name": "流量卡套餐存费50元送权益10个月（河北）-立即生效",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300841",
+    "name": "产品超市-240元冰激凌折扣包-次月生效（河北202207）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300844",
+    "name": "产品超市-180元冰激凌折扣包-次月生效（河北202207）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300849",
+    "name": "产品超市-240元冰激凌折扣包-立即生效（河北202207）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300850",
+    "name": "产品超市-120元冰激凌折扣包-次月生效（河北202207）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300851",
+    "name": "产品超市-70元冰激凌折扣包次月生效（河北）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300858",
+    "name": "产品超市-120元冰激凌折扣包-立即生效（河北202207）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300859",
+    "name": "产品超市-300元冰激凌折扣包-次月生效（河北202207）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300860",
+    "name": "产品超市-300元冰激凌折扣包-立即生效（河北202207）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300866",
+    "name": "国内语音月包50元700分钟-智慧沃家共享版(立即生效)",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE300909",
+    "name": "产品超市-180元冰激凌折扣包-立即生效（河北202207）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301094",
+    "name": "0元300分钟语音包（立即生效）24个月（河北）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301114",
+    "name": "智家通通豪华版联通公众45元/月（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301115",
+    "name": "智家通通尊享版联通公众60元/月（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301121",
+    "name": "智家通通尊享版联通公众看家30天专用（河北）-次月生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301129",
+    "name": "智家通通豪华版联通公众45元/月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301251",
+    "name": "联通智家通用30元赠费包36个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-25HE301252",
+    "name": "联通智家通用40元赠费包36个月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300123",
+    "name": "1000M包月50元（第二条宽带）（河北）",
+    "category": "套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CUCC-26HE300124",
+    "name": "联通心享权益10GB流量组合包20元/月（河北）-立即生效",
+    "category": "加装包",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 1746
+  "count": 1703
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
