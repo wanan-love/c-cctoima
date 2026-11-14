@@ -1,145 +1,22 @@
 {
- "generated_at": "2026-11-14T01:01:18+0000",
+ "generated_at": "2026-11-14T23:58:28+0000",
  "current_count": 2388,
- "previous_count": 2380,
+ "previous_count": 2388,
  "added": {
-  "count": 8,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE201151",
-    "name": "客户回馈-40G通用流量包（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE200225",
-    "name": "客户回馈-10G通用流量包（36个月）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE201853",
-    "name": "客户回馈-30G通用流量包（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE201966",
-    "name": "客户回馈-60G通用流量包（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-25HE202884",
-    "name": "承德家庭财产保障服务20元档次-2年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202885",
-    "name": "承德家庭财产保障服务20元档次-3年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202886",
-    "name": "承德家庭财产保障服务20元档次-1年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201446",
-    "name": "极光TV会员-12个月",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 9,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE201846",
-    "name": "客户回馈-20G通用流量包（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201387",
-    "name": "2026年石家庄岁末焕新赠礼回馈活动臻享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201388",
-    "name": "2026年石家庄岁末焕新赠礼回馈活动尊享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201391",
-    "name": "2026年石家庄岁末焕新赠礼回馈活动盛享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201392",
-    "name": "2026年石家庄岁末焕新赠礼回馈活动悦享档",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201432",
-    "name": "2026年全球通客户暖冬活动",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201439",
-    "name": "守机宝2年包（新机）",
-    "category": "加装包",
-    "fields": [
-     "name",
-     "price",
-     "description",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201440",
-    "name": "守机宝3年包（新机）",
-    "category": "加装包",
-    "fields": [
-     "name",
-     "price",
-     "description",
-     "subcategory"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201441",
-    "name": "守机宝半年包（新机）",
-    "category": "加装包",
-    "fields": [
-     "name",
-     "price",
-     "description",
-     "subcategory"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2371
+  "count": 2388
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
