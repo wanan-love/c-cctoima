@@ -1,22 +1,33 @@
 {
- "generated_at": "2026-11-14T23:58:28+0000",
- "current_count": 790,
+ "generated_at": "2026-11-15T23:45:04+0000",
+ "current_count": 788,
  "previous_count": 790,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CTCC-25HE100025",
+    "name": "卫星+流量组合包",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-25HE100026",
+    "name": "直连卫星年包（100元）",
+    "category": "加装包"
+   }
+  ]
  },
  "modified": {
   "count": 0,
   "items": []
  },
  "unchanged": {
-  "count": 790
+  "count": 788
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
