@@ -1,12 +1,8 @@
 {
- "generated_at": "2026-11-15T23:45:04+0000",
- "current_count": 788,
- "previous_count": 790,
+ "generated_at": "2026-11-17T03:19:35+0000",
+ "current_count": 790,
+ "previous_count": 788,
  "added": {
-  "count": 0,
-  "items": []
- },
- "removed": {
   "count": 2,
   "items": [
    {
@@ -21,12 +17,285 @@
    }
   ]
  },
- "modified": {
+ "removed": {
   "count": 0,
   "items": []
  },
+ "modified": {
+  "count": 38,
+  "items": [
+   {
+    "tariff_id": "CTCC-24HE100091",
+    "name": "“随心选”信息化产品定向优惠包40元",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE101875",
+    "name": "星卡39元（2022版）",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE101876",
+    "name": "星卡流量版（59元）",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE101880",
+    "name": "全屋WiFi-销售品",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE101882",
+    "name": "5G通信助理10元基础版",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE101890",
+    "name": "视频彩铃5G黄金会员包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE101896",
+    "name": "天翼智铃基础版",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE101908",
+    "name": "通信助理6元版",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102184",
+    "name": "AI产品体验",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE102228",
+    "name": "量子密话功能（含20G定向流量）-30元包月",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102229",
+    "name": "量子密话功能-15元包月",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102257",
+    "name": "融合宽带600M-0元/月",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE102258",
+    "name": "融合天翼高清（月初扣费）-10元/月",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102260",
+    "name": "融合云宽带2000M（上行200M）-0元/月",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE102281",
+    "name": "天翼云电脑标准版（省内）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102282",
+    "name": "天翼云电脑精英版（省内）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102371",
+    "name": "【分月转兑】宽带扶贫政策-五折优惠（201901）",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE102532",
+    "name": "本地生活会员10元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102533",
+    "name": "本地生活会员20元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100041",
+    "name": "促销-共享流量包80G",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100086",
+    "name": "天翼云电脑标准版",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100089",
+    "name": "视频彩铃心动会员折扣至0元",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100095",
+    "name": "智能家居-销售品",
+    "category": "套餐",
+    "fields": [
+     "price",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100389",
+    "name": "天翼高清（纯享版）-20元/月",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100015",
+    "name": "畅享校园套餐-宽带100M",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100016",
+    "name": "2022年校园春促账号经营200M宽带",
+    "category": "加装包",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100061",
+    "name": "黄金会员",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100065",
+    "name": "天翼云电脑精英版",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100073",
+    "name": "畅享校园套餐-宽带500M",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100076",
+    "name": "七彩铃音5元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100125",
+    "name": "客户回馈-宽带补贴5元（12个月）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100126",
+    "name": "客户回馈-宽带补贴20元（12个月）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100127",
+    "name": "客户回馈-话费补贴20元（3个月）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100132",
+    "name": "客户回馈-话费补贴5元（6个月）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100135",
+    "name": "客户回馈-话费补贴20元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100136",
+    "name": "客户回馈-话费补贴10元（6个月）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100137",
+    "name": "客户回馈-宽带补贴10元（12个月）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100148",
+    "name": "智家产品话费补贴360元-36个月",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   }
+  ]
+ },
  "unchanged": {
-  "count": 788
+  "count": 750
  },
  "has_change": true,
  "status": "CHANGED"

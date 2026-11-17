@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T23:45:04+0000",
+ "generated_at": "2026-11-17T03:19:35+0000",
  "current_count": 1746,
  "previous_count": 1746,
  "added": {
@@ -11,12 +11,202 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 21,
+  "items": [
+   {
+    "tariff_id": "CUCC-25HE300024",
+    "name": "群组账户专属500元500G国内流量包有效期6个月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300251",
+    "name": "80元冰激凌折扣包（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300252",
+    "name": "80元冰激凌折扣包（河北）-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300365",
+    "name": "60元权益百宝箱1GB流量组合包有效期6个月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300382",
+    "name": "5G冰激凌FTTR 129-159元档专属26元赠费包36个月（河北）-次月生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300383",
+    "name": "5G冰激凌FTTR 129-159元档专属26元赠费包36个月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300798",
+    "name": "流量卡套餐存费50元送权益10个月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300841",
+    "name": "产品超市-240元冰激凌折扣包-次月生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300844",
+    "name": "产品超市-180元冰激凌折扣包-次月生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300849",
+    "name": "产品超市-240元冰激凌折扣包-立即生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300850",
+    "name": "产品超市-120元冰激凌折扣包-次月生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300851",
+    "name": "产品超市-70元冰激凌折扣包次月生效（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300858",
+    "name": "产品超市-120元冰激凌折扣包-立即生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300859",
+    "name": "产品超市-300元冰激凌折扣包-次月生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300860",
+    "name": "产品超市-300元冰激凌折扣包-立即生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300866",
+    "name": "国内语音月包50元700分钟-智慧沃家共享版(立即生效)",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE300909",
+    "name": "产品超市-180元冰激凌折扣包-立即生效（河北202207）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301094",
+    "name": "0元300分钟语音包（立即生效）24个月（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301251",
+    "name": "联通智家通用30元赠费包36个月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301252",
+    "name": "联通智家通用40元赠费包36个月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-26HE300124",
+    "name": "联通心享权益10GB流量组合包20元/月（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 1746
+  "count": 1725
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
