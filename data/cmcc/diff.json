@@ -1,9 +1,49 @@
 {
- "generated_at": "2026-11-17T03:19:34+0000",
- "current_count": 2395,
- "previous_count": 2388,
+ "generated_at": "2026-11-18T02:38:13+0000",
+ "current_count": 2387,
+ "previous_count": 2395,
  "added": {
-  "count": 8,
+  "count": 7,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE202885",
+    "name": "承德家庭财产保障服务20元档次-3年版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201450",
+    "name": "健康宝（60岁及以上）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201451",
+    "name": "宠保保（2027）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201452",
+    "name": "家保保（2027）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201453",
+    "name": "健康宝（60岁以下）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201454",
+    "name": "一体化电视安装服务100元-划拨版",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-26HE201455",
+    "name": "一体化电视安装服务100元",
+    "category": "营销活动"
+   }
+  ]
+ },
+ "removed": {
+  "count": 15,
   "items": [
    {
     "tariff_id": "CMCC-26HE200062",
@@ -31,148 +71,84 @@
     "category": "套餐"
    },
    {
-    "tariff_id": "CMCC-26HE201447",
-    "name": "15元咪咕体育包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201448",
-    "name": "大小屏融合包-爱家TV影视VIP-冀享专属",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201449",
-    "name": "大小屏融合包移动高清爱家TV（冀享专属）",
-    "category": "营销活动"
-   }
-  ]
- },
- "removed": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE202885",
-    "name": "承德家庭财产保障服务20元档次-3年版",
-    "category": "加装包"
-   }
-  ]
- },
- "modified": {
-  "count": 11,
-  "items": [
-   {
     "tariff_id": "CMCC-26HE200608",
     "name": "爱家健康-银发健康50元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200611",
     "name": "爱家生活-口腔清洁15元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200616",
     "name": "爱家健康-银发健康30元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200620",
     "name": "爱家生活-智能照明10元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200649",
     "name": "爱家生活-爱宠寻宠15元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200653",
     "name": "爱家健康-银发健康5元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200654",
     "name": "爱家健康-银发运动15元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200656",
     "name": "爱家生活-爱宠伴宠20元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200661",
     "name": "爱家伴学-智慧学习20元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
    },
    {
     "tariff_id": "CMCC-26HE200662",
     "name": "爱家健康-银发健康20元包-冀享专属",
-    "category": "套餐",
-    "fields": [
-     "price",
-     "validity",
-     "description"
-    ]
+    "category": "套餐"
+   }
+  ]
+ },
+ "modified": {
+  "count": 3,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE200300",
+    "name": "50元返费优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": []
    },
    {
-    "tariff_id": "CMCC-26HE201431",
-    "name": "2026年套餐迁移回馈活动档次二",
+    "tariff_id": "CMCC-26HE200343",
+    "name": "60元返费优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CMCC-26HE200344",
+    "name": "70元返费优惠2026版（36个月）",
     "category": "营销活动",
     "fields": [
-     "traffic",
-     "description"
+     "eligibility"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2376
+  "count": 2377
  },
  "has_change": true,
  "status": "CHANGED"
