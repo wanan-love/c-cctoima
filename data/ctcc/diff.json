@@ -1,26 +1,10 @@
 {
- "generated_at": "2026-11-18T02:38:13+0000",
+ "generated_at": "2026-11-19T01:45:01+0000",
  "current_count": 793,
- "previous_count": 790,
+ "previous_count": 793,
  "added": {
-  "count": 3,
-  "items": [
-   {
-    "tariff_id": "CTCC-26HE100265",
-    "name": "60元40GB流量月包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100266",
-    "name": "19.9元10GB流量月包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CTCC-26HE100267",
-    "name": "39元20GB流量月包",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
   "count": 0,
@@ -31,8 +15,8 @@
   "items": []
  },
  "unchanged": {
-  "count": 790
+  "count": 793
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }
