@@ -1,14 +1,14 @@
 {
  "operator": "cmcc",
- "generated_at": "2026-11-20T01:58:11+0000",
+ "generated_at": "2026-11-21T01:33:14+0000",
  "overall": "PASS",
- "item_count": 2389,
- "previous_count": 2387,
+ "item_count": 2399,
+ "previous_count": 2389,
  "checks": [
   {
    "check": "province_hebei",
    "status": "PASS",
-   "detail": "province_ok=True; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_field_coverage\": 0.997, \"province_ok\": true}"
+   "detail": "province_ok=True; evidence={\"prov_entry_text\": \"河北省\", \"api_province_codes\": [\"311\"], \"province_field_coverage\": 0.998, \"province_ok\": true}"
   },
   {
    "check": "audience_personal",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "2389 条；name 覆盖 2389/2389，details 覆盖 2389/2389（阈值 0.95）"
+   "detail": "2399 条；name 覆盖 2399/2399，details 覆盖 2399/2399（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 2387 条 → 本次 2389 条（下降 -2 条 / -0%）"
+   "detail": "上次 2389 条 → 本次 2399 条（下降 -10 条 / -0%）"
   }
  ],
  "category_results": [
@@ -51,21 +51,21 @@
    "label": "套餐",
    "items": 440,
    "beans": 420,
-   "total": 438,
+   "total": 439,
    "note": ""
   },
   {
    "label": "加装包",
-   "items": 715,
-   "beans": 695,
-   "total": 714,
+   "items": 710,
+   "beans": 690,
+   "total": 710,
    "note": ""
   },
   {
    "label": "营销活动",
-   "items": 1145,
-   "beans": 1145,
-   "total": 1145,
+   "items": 1160,
+   "beans": 1160,
+   "total": 1160,
    "note": ""
   },
   {

@@ -1,22 +1,190 @@
 {
- "generated_at": "2026-11-20T02:00:13+0000",
- "current_count": 1746,
+ "generated_at": "2026-11-21T01:35:19+0000",
+ "current_count": 1729,
  "previous_count": 1746,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 17,
+  "items": [
+   {
+    "tariff_id": "CUCC-25HE300599",
+    "name": "30元300分钟国内语音月包6个月（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE300664",
+    "name": "Ai外卖卡12元1200分钟国内语音包-1个月（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE300877",
+    "name": "产品超市-0元500分钟次月生效（河北）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE300881",
+    "name": "产品超市-20元200分钟语音包-次月生效（河北）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE300887",
+    "name": "产品超市-10元100分钟语音包（202103）-次月生效（河北）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE300895",
+    "name": "0元200分钟全国语音包（河北）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE300897",
+    "name": "产品超市-20元200分钟语音包-立即生效（河北）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE300903",
+    "name": "产品超市-10元100分钟语音包（202103）-立即生效（河北）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE301037",
+    "name": "畅越优选10元/月120分钟国内语音月包（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE301039",
+    "name": "畅越优选20元/月260分钟国内语音月包（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE301095",
+    "name": "联通智家700分钟语音包有效期36个月（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE301096",
+    "name": "联通智家1000分钟语音包有效期36个月（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE301097",
+    "name": "联通智家1500分钟语音包有效期36个月（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE301098",
+    "name": "联通智家2000分钟语音包有效期36个月（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-25HE301099",
+    "name": "联通智家2500分钟语音包有效期36个月（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-26HE300182",
+    "name": "联通5G智享专属100分钟国内通用语音包有效期36个月（河北）-立即生效",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CUCC-26HE300271",
+    "name": "联通智家5G套餐专属1元800分钟国内通用语音包有效期36个月（河北）-立即生效",
+    "category": "加装包"
+   }
+  ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 9,
+  "items": [
+   {
+    "tariff_id": "CUCC-25HE300921",
+    "name": "联通看家1天事件云存储包月-移网-1元/月1（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301086",
+    "name": "联通看家99元档产品看家（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301087",
+    "name": "联通看家129元档产品看家（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301088",
+    "name": "联通看家159元档产品双看家（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301089",
+    "name": "联通看家199元档产品单看家（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301090",
+    "name": "联通看家239元-399元档产品看家（河北）-立即生效",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301157",
+    "name": "智慧家庭联通看家单端产品出库（河北移网产品）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301158",
+    "name": "智慧家庭联通看家双端移网产品出库(河北)",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   },
+   {
+    "tariff_id": "CUCC-25HE301159",
+    "name": "畅越智慧家庭联通看家产品出库（河北）",
+    "category": "停售套餐",
+    "fields": [
+     "category",
+     "subcategory"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 1746
+  "count": 1720
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

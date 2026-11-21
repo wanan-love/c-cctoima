@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:00:13+0000",
+ "generated_at": "2026-11-21T01:35:19+0000",
  "current_count": 139,
  "previous_count": 139,
  "added": {
@@ -11,12 +11,37 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+   {
+    "tariff_id": "CBN-25HE500050",
+    "name": "25版高校校园月28元套餐",
+    "category": "特殊群体套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CBN-25HE500051",
+    "name": "25版高校校园月38元套餐",
+    "category": "特殊群体套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CBN-25HE500052",
+    "name": "25版高校校园月48元套餐",
+    "category": "特殊群体套餐",
+    "fields": []
+   },
+   {
+    "tariff_id": "CBN-25HE500057",
+    "name": "25版高校校园年套餐促销",
+    "category": "特殊群体套餐",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 139
+  "count": 135
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

@@ -1,8 +1,8 @@
 {
  "operator": "cucc",
- "generated_at": "2026-11-20T01:38:48+0000",
+ "generated_at": "2026-11-21T01:04:41+0000",
  "overall": "PASS",
- "item_count": 1746,
+ "item_count": 1729,
  "previous_count": 1746,
  "checks": [
   {
@@ -18,7 +18,7 @@
   {
    "check": "categories_covered",
    "status": "PASS",
-   "detail": "发现 22 个分类，其中有效 22；异常: []"
+   "detail": "发现 22 个分类，其中有效 22；异常: ['加装包>语音包']"
   },
   {
    "check": "official_totals",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1746 条；name 覆盖 1746/1746，details 覆盖 1746/1746（阈值 0.95）"
+   "detail": "1729 条；name 覆盖 1729/1729，details 覆盖 1729/1729（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1746 条 → 本次 1746 条（下降 0 条 / 0%）"
+   "detail": "上次 1746 条 → 本次 1729 条（下降 17 条 / 1%）"
   }
  ],
  "category_results": [
@@ -85,9 +85,9 @@
   },
   {
    "category": "加装包>语音包",
-   "expected": 17,
-   "collected": 17,
-   "error": ""
+   "expected": 0,
+   "collected": 0,
+   "error": "threeLevelName HTTP 200"
   },
   {
    "category": "加装包>权益包",
@@ -97,8 +97,8 @@
   },
   {
    "category": "加装包>新业务",
-   "expected": 81,
-   "collected": 81,
+   "expected": 78,
+   "collected": 78,
    "error": ""
   },
   {
@@ -109,8 +109,8 @@
   },
   {
    "category": "营销活动>促销",
-   "expected": 118,
-   "collected": 118,
+   "expected": 112,
+   "collected": 112,
    "error": ""
   },
   {
@@ -157,14 +157,14 @@
   },
   {
    "category": "停售套餐>加装包",
-   "expected": 367,
-   "collected": 367,
+   "expected": 370,
+   "collected": 370,
    "error": ""
   },
   {
    "category": "停售套餐>营销活动",
-   "expected": 169,
-   "collected": 169,
+   "expected": 175,
+   "collected": 175,
    "error": ""
   },
   {
