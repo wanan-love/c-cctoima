@@ -1,160 +1,36 @@
 {
- "generated_at": "2026-11-21T01:35:19+0000",
- "current_count": 2399,
- "previous_count": 2389,
+ "generated_at": "2026-11-22T00:28:18+0000",
+ "current_count": 2398,
+ "previous_count": 2399,
  "added": {
-  "count": 16,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE200358",
-    "name": "爱家光网服务1000M-20元",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200299",
-    "name": "20元返费优惠2026版（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200302",
-    "name": "30元返费优惠2026版（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200303",
-    "name": "40元返费优惠2026版（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE200340",
-    "name": "100元返费优惠2026版（36个月）",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201458",
-    "name": "云电脑限时服务三年（组合一体机装维）存量版-冀享专属",
-    "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-26HE201459",
-    "name": "0元1000M宽带提速包（兑换）-2个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201460",
-    "name": "0元1000M宽带提速包（兑换）-20个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201461",
-    "name": "0元1000M宽带提速包（兑换）-16个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201462",
-    "name": "0元1000M宽带提速包（兑换）-4个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201463",
-    "name": "0元1000M宽带提速包（兑换）-12个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201464",
-    "name": "0元1000M宽带提速包（兑换）-6个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201465",
-    "name": "0元1000M宽带提速包（兑换）-8个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201466",
-    "name": "0元1000M宽带提速包（兑换）-18个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201467",
-    "name": "0元1000M宽带提速包（兑换）-10个月",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201468",
-    "name": "0元1000M宽带提速包（兑换）-14个月",
-    "category": "营销活动"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 6,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CMCC-25HE201061",
-    "name": "宠物智能定位服务权益包（480元）-预存版",
+    "tariff_id": "CMCC-24HE200004",
+    "name": "79元全家享套餐",
     "category": "套餐"
-   },
-   {
-    "tariff_id": "CMCC-25HE202886",
-    "name": "承德家庭财产保障服务20元档次-1年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201091",
-    "name": "15元体育包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201250",
-    "name": "400元宽带提速流量融合包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201251",
-    "name": "200元宽带提速流量融合包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201252",
-    "name": "100元宽带提速流量融合包",
-    "category": "加装包"
    }
   ]
  },
  "modified": {
-  "count": 3,
+  "count": 1,
   "items": [
    {
-    "tariff_id": "CMCC-26HE200300",
-    "name": "50元返费优惠2026版（36个月）",
+    "tariff_id": "CMCC-25HE202084",
+    "name": "全球通权益成长礼包",
     "category": "营销活动",
     "fields": [
-     "validity",
-     "eligibility"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200341",
-    "name": "80元返费优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "validity"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200343",
-    "name": "60元返费优惠2026版（36个月）",
-    "category": "营销活动",
-    "fields": [
-     "validity",
-     "eligibility"
+     "description"
     ]
    }
   ]
  },
  "unchanged": {
-  "count": 2380
+  "count": 2397
  },
  "has_change": true,
  "status": "CHANGED"
