@@ -1,9 +1,9 @@
 {
  "operator": "cucc",
- "generated_at": "2026-11-22T00:04:40+0000",
+ "generated_at": "2026-11-23T00:37:21+0000",
  "overall": "PASS",
- "item_count": 1713,
- "previous_count": 1729,
+ "item_count": 1746,
+ "previous_count": 1713,
  "checks": [
   {
    "check": "province_hebei",
@@ -18,7 +18,7 @@
   {
    "check": "categories_covered",
    "status": "PASS",
-   "detail": "发现 22 个分类，其中有效 22；异常: ['套餐>宽带']"
+   "detail": "发现 22 个分类，其中有效 22；异常: []"
   },
   {
    "check": "official_totals",
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "1713 条；name 覆盖 1713/1713，details 覆盖 1713/1713（阈值 0.95）"
+   "detail": "1746 条；name 覆盖 1746/1746，details 覆盖 1746/1746（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 1729 条 → 本次 1713 条（下降 16 条 / 1%）"
+   "detail": "上次 1713 条 → 本次 1746 条（下降 -33 条 / -2%）"
   }
  ],
  "category_results": [
@@ -55,9 +55,9 @@
   },
   {
    "category": "套餐>宽带",
-   "expected": 0,
-   "collected": 0,
-   "error": "threeLevelName HTTP 200"
+   "expected": 33,
+   "collected": 33,
+   "error": ""
   },
   {
    "category": "套餐>固话",

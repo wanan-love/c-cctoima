@@ -1,37 +1,22 @@
 {
- "generated_at": "2026-11-22T00:28:18+0000",
+ "generated_at": "2026-11-23T01:00:28+0000",
  "current_count": 2398,
- "previous_count": 2399,
+ "previous_count": 2398,
  "added": {
   "count": 0,
   "items": []
  },
  "removed": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CMCC-24HE200004",
-    "name": "79元全家享套餐",
-    "category": "套餐"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
-  "count": 1,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE202084",
-    "name": "全球通权益成长礼包",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2397
+  "count": 2398
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

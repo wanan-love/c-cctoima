@@ -1,98 +1,8 @@
 {
- "generated_at": "2026-11-22T00:28:18+0000",
- "current_count": 1713,
- "previous_count": 1729,
+ "generated_at": "2026-11-23T01:00:28+0000",
+ "current_count": 1746,
+ "previous_count": 1713,
  "added": {
-  "count": 17,
-  "items": [
-   {
-    "tariff_id": "CUCC-25HE300599",
-    "name": "30元300分钟国内语音月包6个月（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE300664",
-    "name": "Ai外卖卡12元1200分钟国内语音包-1个月（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE300877",
-    "name": "产品超市-0元500分钟次月生效（河北）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE300881",
-    "name": "产品超市-20元200分钟语音包-次月生效（河北）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE300887",
-    "name": "产品超市-10元100分钟语音包（202103）-次月生效（河北）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE300895",
-    "name": "0元200分钟全国语音包（河北）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE300897",
-    "name": "产品超市-20元200分钟语音包-立即生效（河北）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE300903",
-    "name": "产品超市-10元100分钟语音包（202103）-立即生效（河北）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE301037",
-    "name": "畅越优选10元/月120分钟国内语音月包（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE301039",
-    "name": "畅越优选20元/月260分钟国内语音月包（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE301095",
-    "name": "联通智家700分钟语音包有效期36个月（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE301096",
-    "name": "联通智家1000分钟语音包有效期36个月（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE301097",
-    "name": "联通智家1500分钟语音包有效期36个月（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE301098",
-    "name": "联通智家2000分钟语音包有效期36个月（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-25HE301099",
-    "name": "联通智家2500分钟语音包有效期36个月（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-26HE300182",
-    "name": "联通5G智享专属100分钟国内通用语音包有效期36个月（河北）-立即生效",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CUCC-26HE300271",
-    "name": "联通智家5G套餐专属1元800分钟国内通用语音包有效期36个月（河北）-立即生效",
-    "category": "加装包"
-   }
-  ]
- },
- "removed": {
   "count": 33,
   "items": [
    {
@@ -262,12 +172,16 @@
    }
   ]
  },
+ "removed": {
+  "count": 0,
+  "items": []
+ },
  "modified": {
   "count": 0,
   "items": []
  },
  "unchanged": {
-  "count": 1696
+  "count": 1713
  },
  "has_change": true,
  "status": "CHANGED"
