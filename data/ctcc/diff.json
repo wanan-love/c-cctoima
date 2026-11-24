@@ -1,22 +1,131 @@
 {
- "generated_at": "2026-11-23T01:00:28+0000",
- "current_count": 793,
+ "generated_at": "2026-11-24T05:07:45+0000",
+ "current_count": 795,
  "previous_count": 793,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100268",
+    "name": "TeleAgent49元",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CTCC-26HE100269",
+    "name": "TeleAgent99元",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 14,
+  "items": [
+   {
+    "tariff_id": "CTCC-24HE102285",
+    "name": "天翼云盘铂金版-15元（202104）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102286",
+    "name": "天翼云盘黄金版4TB-5元/月",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102295",
+    "name": "一次性装机工料费-99元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102424",
+    "name": "5G体验10元副卡功能费201907",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100030",
+    "name": "【分月转兑】公众-存量-线上缴1000元回馈-转兑（201810）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100032",
+    "name": "【分月转兑】公众-存量-缴600元回馈-转兑（201808）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100035",
+    "name": "【分月转兑】公众-存量-缴1000元回馈-转兑（201808）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100037",
+    "name": "【分月转兑】公众-存量-线上缴600元回馈-转兑（201810）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100038",
+    "name": "【分月转兑】公众-存量-线上缴300元回馈-转兑（201810）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100075",
+    "name": "云U盘(天翼云盘PC挂载)",
+    "category": "加装包",
+    "fields": [
+     "price",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100187",
+    "name": "天翼超高清优享会员基础包10元/月",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100205",
+    "name": "299元FTTR调测包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100207",
+    "name": "手机直连卫星权益包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100231",
+    "name": "FTTR月付30元（连续包月）",
+    "category": "加装包",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 793
+  "count": 779
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }

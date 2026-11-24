@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:00:28+0000",
+ "generated_at": "2026-11-24T05:07:45+0000",
  "current_count": 139,
  "previous_count": 139,
  "added": {
@@ -11,12 +11,21 @@
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+   {
+    "tariff_id": "CBN-25HE500057",
+    "name": "25版高校校园年套餐促销",
+    "category": "特殊群体套餐",
+    "fields": [
+     "eligibility"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 139
+  "count": 138
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
