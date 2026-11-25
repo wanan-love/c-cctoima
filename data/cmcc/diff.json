@@ -1,173 +1,23 @@
 {
- "generated_at": "2026-11-24T05:07:45+0000",
- "current_count": 2431,
- "previous_count": 2398,
+ "generated_at": "2026-11-25T03:51:08+0000",
+ "current_count": 2434,
+ "previous_count": 2431,
  "added": {
-  "count": 33,
+  "count": 3,
   "items": [
    {
-    "tariff_id": "CMCC-25HE202884",
-    "name": "承德家庭财产保障服务20元档次-2年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202885",
-    "name": "承德家庭财产保障服务20元档次-3年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202886",
-    "name": "承德家庭财产保障服务20元档次-1年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201469",
-    "name": "12元5GB流量周包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201470",
-    "name": "12元10GB流量日包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201471",
-    "name": "25元15GB流量周包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201472",
-    "name": "10元30G抖音红果头条系定向流量包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201473",
-    "name": "7元3GB流量日包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201474",
-    "name": "邢台移动云盘白银会员（36个月）-冀享专属",
+    "tariff_id": "CMCC-26HE201499",
+    "name": "2026年暖冬回馈C档",
     "category": "营销活动"
    },
    {
-    "tariff_id": "CMCC-26HE201475",
-    "name": "邢台咪咕视频钻石会员（12期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201476",
-    "name": "邢台移动云盘白银会员（24期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201477",
-    "name": "邢台移动云盘黄金会员（24期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201478",
-    "name": "邢台移动云盘黄金会员（36个月）-冀享专属",
+    "tariff_id": "CMCC-26HE201500",
+    "name": "2026年暖冬回馈A档",
     "category": "营销活动"
    },
    {
-    "tariff_id": "CMCC-26HE201479",
-    "name": "邢台视频彩铃钻石会员（12期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201480",
-    "name": "邢台咪咕视频钻石会员（36个月）-冀享专属",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201481",
-    "name": "邢台移动云盘黄金会员（12期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201482",
-    "name": "邢台移动云盘白银会员（12期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201483",
-    "name": "邢台咪咕视频钻石会员（24期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201484",
-    "name": "邢台视频彩铃钻石会员（36个月）-冀享专属",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201485",
-    "name": "邢台视频彩铃钻石会员（24期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201486",
-    "name": "邢台咪咕数字臻享包（12期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201487",
-    "name": "邢台基础悦视会员（36个月）-冀享专属",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201488",
-    "name": "邢台咪咕数字臻享包（36个月）-冀享专属",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201489",
-    "name": "邢台咪咕双剧畅享包（24期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201490",
-    "name": "邢台基础云享会员（24期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201491",
-    "name": "邢台咪咕数字臻享季包",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201492",
-    "name": "邢台咪咕双剧畅享包（12期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201493",
-    "name": "邢台咪咕双剧畅享包（36个月）-冀享专属",
-    "category": "营销活动"
-   },
-   {
-    "tariff_id": "CMCC-26HE201494",
-    "name": "邢台基础悦视会员（12期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201495",
-    "name": "邢台基础云享会员（12期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201496",
-    "name": "邢台咪咕数字臻享包（24期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201497",
-    "name": "邢台基础悦视会员（24期）",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201498",
-    "name": "邢台基础云享会员（36个月）-冀享专属",
+    "tariff_id": "CMCC-26HE201501",
+    "name": "2026年暖冬回馈B档",
     "category": "营销活动"
    }
   ]
@@ -177,37 +27,11 @@
   "items": []
  },
  "modified": {
-  "count": 3,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE201188",
-    "name": "IPTV影视观赛包",
-    "category": "营销活动",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-25HE201189",
-    "name": "爱家TV影视观赛包",
-    "category": "营销活动",
-    "fields": [
-     "sms",
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE201301",
-    "name": "200元宽带提速流量融合包（划拨）",
-    "category": "加装包",
-    "fields": [
-     "description"
-    ]
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2395
+  "count": 2431
  },
  "has_change": true,
  "status": "CHANGED"
