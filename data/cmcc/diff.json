@@ -1,37 +1,83 @@
 {
- "generated_at": "2026-11-25T03:51:08+0000",
- "current_count": 2434,
- "previous_count": 2431,
+ "generated_at": "2026-11-26T03:06:54+0000",
+ "current_count": 2439,
+ "previous_count": 2434,
  "added": {
-  "count": 3,
+  "count": 7,
   "items": [
    {
-    "tariff_id": "CMCC-26HE201499",
-    "name": "2026年暖冬回馈C档",
-    "category": "营销活动"
+    "tariff_id": "CMCC-26HE201502",
+    "name": "咪咕影之刃零专属福利",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-26HE201500",
-    "name": "2026年暖冬回馈A档",
-    "category": "营销活动"
+    "tariff_id": "CMCC-26HE201503",
+    "name": "咪咕游戏主机会员畅享版150元",
+    "category": "加装包"
    },
    {
-    "tariff_id": "CMCC-26HE201501",
-    "name": "2026年暖冬回馈B档",
-    "category": "营销活动"
+    "tariff_id": "CMCC-26HE201504",
+    "name": "咪咕游戏主机会员畅享版150元-两个月体验",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201505",
+    "name": "咪咕游戏主机会员畅享版100元-两个月体验",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201506",
+    "name": "咪咕游戏主机会员畅享版100元",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201507",
+    "name": "咪咕游戏主机会员畅享版200元-两个月体验",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-26HE201508",
+    "name": "咪咕游戏主机会员畅享版200元",
+    "category": "加装包"
    }
   ]
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE202884",
+    "name": "承德家庭财产保障服务20元档次-2年版",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE202885",
+    "name": "承德家庭财产保障服务20元档次-3年版",
+    "category": "加装包"
+   }
+  ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CMCC-26HE200250",
+    "name": "动感地带品牌套餐-39元档（新）",
+    "category": "套餐",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200309",
+    "name": "和家庭计划免10元功能费优惠(副卡专用版)",
+    "category": "营销活动",
+    "fields": []
+   }
+  ]
  },
  "unchanged": {
-  "count": 2431
+  "count": 2430
  },
  "has_change": true,
  "status": "CHANGED"
