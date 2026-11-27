@@ -1,84 +1,22 @@
 {
- "generated_at": "2026-11-26T03:06:54+0000",
+ "generated_at": "2026-11-27T02:59:25+0000",
  "current_count": 2439,
- "previous_count": 2434,
+ "previous_count": 2439,
  "added": {
-  "count": 7,
-  "items": [
-   {
-    "tariff_id": "CMCC-26HE201502",
-    "name": "咪咕影之刃零专属福利",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201503",
-    "name": "咪咕游戏主机会员畅享版150元",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201504",
-    "name": "咪咕游戏主机会员畅享版150元-两个月体验",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201505",
-    "name": "咪咕游戏主机会员畅享版100元-两个月体验",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201506",
-    "name": "咪咕游戏主机会员畅享版100元",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201507",
-    "name": "咪咕游戏主机会员畅享版200元-两个月体验",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-26HE201508",
-    "name": "咪咕游戏主机会员畅享版200元",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "removed": {
-  "count": 2,
-  "items": [
-   {
-    "tariff_id": "CMCC-25HE202884",
-    "name": "承德家庭财产保障服务20元档次-2年版",
-    "category": "加装包"
-   },
-   {
-    "tariff_id": "CMCC-25HE202885",
-    "name": "承德家庭财产保障服务20元档次-3年版",
-    "category": "加装包"
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "modified": {
-  "count": 2,
-  "items": [
-   {
-    "tariff_id": "CMCC-26HE200250",
-    "name": "动感地带品牌套餐-39元档（新）",
-    "category": "套餐",
-    "fields": [
-     "description"
-    ]
-   },
-   {
-    "tariff_id": "CMCC-26HE200309",
-    "name": "和家庭计划免10元功能费优惠(副卡专用版)",
-    "category": "营销活动",
-    "fields": []
-   }
-  ]
+  "count": 0,
+  "items": []
  },
  "unchanged": {
-  "count": 2430
+  "count": 2439
  },
- "has_change": true,
- "status": "CHANGED"
+ "has_change": false,
+ "status": "NO_CHANGE"
 }

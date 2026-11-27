@@ -1,8 +1,8 @@
 {
  "operator": "ctcc",
- "generated_at": "2026-11-26T02:32:26+0000",
+ "generated_at": "2026-11-27T02:30:53+0000",
  "overall": "PASS",
- "item_count": 795,
+ "item_count": 790,
  "previous_count": 795,
  "checks": [
   {
@@ -28,7 +28,7 @@
   {
    "check": "detail_completeness",
    "status": "PASS",
-   "detail": "795 条；name 覆盖 795/795，details 覆盖 795/795（阈值 0.95）"
+   "detail": "790 条；name 覆盖 790/790，details 覆盖 790/790（阈值 0.95）"
   },
   {
    "check": "no_duplicates",
@@ -43,7 +43,7 @@
   {
    "check": "no_abnormal_drop",
    "status": "PASS",
-   "detail": "上次 795 条 → 本次 795 条（下降 0 条 / 0%）"
+   "detail": "上次 795 条 → 本次 790 条（下降 5 条 / 1%）"
   }
  ],
  "category_results": [
@@ -55,14 +55,14 @@
   },
   {
    "category": "加装包",
-   "expected": 500,
-   "collected": 500,
+   "expected": 502,
+   "collected": 502,
    "error": ""
   },
   {
    "category": "营销活动",
-   "expected": 223,
-   "collected": 223,
+   "expected": 216,
+   "collected": 216,
    "error": ""
   },
   {

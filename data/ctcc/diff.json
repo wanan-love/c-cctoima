@@ -1,22 +1,635 @@
 {
- "generated_at": "2026-11-26T03:06:55+0000",
- "current_count": 795,
+ "generated_at": "2026-11-27T02:59:25+0000",
+ "current_count": 790,
  "previous_count": 795,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100262",
+    "name": "【分月转兑】扶贫专用-200M宽带-120元36个月-转兑（201808）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100263",
+    "name": "助残专用-天翼高清月费优惠-10元24-转兑（202105）",
+    "category": "营销活动"
+   }
+  ]
  },
  "removed": {
-  "count": 0,
-  "items": []
+  "count": 7,
+  "items": [
+   {
+    "tariff_id": "CTCC-26HE100035",
+    "name": "【分月转兑】公众-设备利旧标识-利旧路由器-转兑（202204）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100036",
+    "name": "【分月转兑】公众-设备利旧标识-利旧摄像头-转兑（202204）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100040",
+    "name": "【分月转兑】公众-设备利旧专用标识（201801）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100041",
+    "name": "【分月转兑】公众-设备自备标识-光猫机顶盒-转兑（201805）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100042",
+    "name": "【分月转兑】公众-设备租用标识-高清机顶盒-转兑（201803）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100043",
+    "name": "【分月转兑】公众-设备租用标识-光猫-转兑（201803）",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CTCC-26HE100078",
+    "name": "【分月转兑】靓号预存--0元",
+    "category": "营销活动"
+   }
+  ]
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 81,
+  "items": [
+   {
+    "tariff_id": "CTCC-24HE100054",
+    "name": "亲情网优惠",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE100091",
+    "name": "“随心选”信息化产品定向优惠包40元",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE100138",
+    "name": "副卡功能费优惠可选包（优惠至0元）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE101899",
+    "name": "视频彩铃心动会员折扣至1元",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE101907",
+    "name": "通信助理0折促销",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE101919",
+    "name": "通信助理智能版折扣至1元",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102048",
+    "name": "eSIM一号双终端服务副卡功能费0折 （主副卡套餐客户专用）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-24HE102100",
+    "name": "一号双终端功能费减免",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102274",
+    "name": "天翼防骚扰+（收费版）促销",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102324",
+    "name": "纯积分兑100分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102325",
+    "name": "纯积分兑200分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102326",
+    "name": "纯积分兑50分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102327",
+    "name": "纯积分兑600分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102328",
+    "name": "纯积分兑换100条短信",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102329",
+    "name": "纯积分兑换10GB流量包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102330",
+    "name": "纯积分兑换10G流量加餐包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102331",
+    "name": "纯积分兑换200条短信",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102332",
+    "name": "纯积分兑换20GB流量包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102333",
+    "name": "纯积分兑换350分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102334",
+    "name": "纯积分兑换400条短信",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102335",
+    "name": "纯积分兑换5GB流量包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102337",
+    "name": "纯积分兑换5天30GB暖心包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102338",
+    "name": "纯积分兑换6G流量加餐包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102340",
+    "name": "纯积分兑换视频彩铃-基础版",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102342",
+    "name": "纯积分兑换天翼云盘黄金会员-促销-价值5元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102343",
+    "name": "纯积分兑换翼支付权益半年包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102344",
+    "name": "纯积分兑换翼支付权益季包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102345",
+    "name": "积分兑换100分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102346",
+    "name": "积分兑换10GB流量包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102350",
+    "name": "积分兑换全屋WiFi上门调测服务",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102351",
+    "name": "积分兑换视频彩铃半年包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102354",
+    "name": "积分兑换双频万兆光猫一体机",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102359",
+    "name": "积分兑换翼支付权益季包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102360",
+    "name": "来电名片10元（纯积分兑换202107）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102361",
+    "name": "来电名片10元（积分兑换202101）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102362",
+    "name": "全屋WiFi上门调测服务（积分专用）-价值50元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102363",
+    "name": "全屋WiFi应用服务（积分专用）-价值20元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102364",
+    "name": "全屋WiFi终端设备-1台（积分专用）-229元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102365",
+    "name": "天翼看家上门调测服务（积分专用）价值70元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102445",
+    "name": "积分兑换200分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102446",
+    "name": "积分兑换20GB流量包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102448",
+    "name": "积分兑换350分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102450",
+    "name": "积分兑换5GB流量包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102451",
+    "name": "积分兑换5天20GB暖心包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102452",
+    "name": "积分兑换5天30GB暖心包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102453",
+    "name": "积分兑换600分钟包月语音包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102456",
+    "name": "积分兑换FTTR调测费",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-24HE102488",
+    "name": "【分月转兑】首月优惠 （赠送60元话费）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100147",
+    "name": "促销-话费优惠10元/月（24个月有效）",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100149",
+    "name": "促销-话费优惠5元/月（24个月有效）",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-25HE100158",
+    "name": "积分兑换FTTR199调测包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100159",
+    "name": "积分兑换FTTR299调测包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-25HE100390",
+    "name": "积分到期提醒标识包",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100037",
+    "name": "【分月转兑】公众-设备利旧标识性-高清机顶盒-转兑（201803）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100038",
+    "name": "【分月转兑】公众-设备利旧标识性-双口光猫-转兑（201803）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100039",
+    "name": "【分月转兑】公众-设备利旧标识性-四口光猫-转兑（201803）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100046",
+    "name": "副卡功能费优惠可选包（优惠至10元）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100058",
+    "name": "星卡10元套餐减免促销",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100119",
+    "name": "促销-套餐优惠（239元套餐优惠至167元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100120",
+    "name": "促销-套餐优惠（239元套餐优惠至167元）（次月生效）",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100121",
+    "name": "促销-套餐优惠（299元套餐优惠至209元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100122",
+    "name": "促销-套餐优惠（299元套餐优惠至209元）（次月生效）",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100123",
+    "name": "促销-套餐优惠（399元套餐优惠至279元）（立即生效）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100124",
+    "name": "促销-套餐优惠（399元套餐优惠至279元）（次月生效）",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100125",
+    "name": "客户回馈-宽带补贴5元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100126",
+    "name": "客户回馈-宽带补贴20元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100128",
+    "name": "客户回馈-话费补贴20元（2个月）",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100129",
+    "name": "客户回馈-话费补贴10元（1个月）",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100130",
+    "name": "客户回馈-话费补贴20元（1个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100131",
+    "name": "客户回馈-话费补贴5元（3个月）",
+    "category": "营销活动",
+    "fields": [
+     "price"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100132",
+    "name": "客户回馈-话费补贴5元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "validity"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100133",
+    "name": "客户回馈-话费补贴10元（3个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100134",
+    "name": "客户回馈-话费补贴10元（2个月）",
+    "category": "营销活动",
+    "fields": [
+     "price",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100135",
+    "name": "客户回馈-话费补贴20元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100136",
+    "name": "客户回馈-话费补贴10元（6个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100137",
+    "name": "客户回馈-宽带补贴10元（12个月）",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100148",
+    "name": "智家产品话费补贴360元-36个月",
+    "category": "营销活动",
+    "fields": [
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100219",
+    "name": "网龄回馈流量包（高星级专享）1积分-2GB",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100220",
+    "name": "网龄回馈流量包（高星级专享）1积分-3GB",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CTCC-26HE100250",
+    "name": "存量维系-套餐月费优惠包-单宽融合当月优惠",
+    "category": "加装包",
+    "fields": [
+     "eligibility",
+     "category"
+    ]
+   },
+   {
+    "tariff_id": "CTCC-26HE100257",
+    "name": "阿福卡升级版宽带月费优惠包",
+    "category": "加装包",
+    "fields": [
+     "validity",
+     "eligibility",
+     "category"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 795
+  "count": 707
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
