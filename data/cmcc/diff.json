@@ -1,22 +1,145 @@
 {
- "generated_at": "2026-11-27T02:59:25+0000",
- "current_count": 2439,
+ "generated_at": "2026-11-28T02:47:42+0000",
+ "current_count": 2445,
  "previous_count": 2439,
  "added": {
-  "count": 0,
-  "items": []
+  "count": 6,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE201786",
+    "name": "沧州华油尊享流量包-35G",
+    "category": "营销活动"
+   },
+   {
+    "tariff_id": "CMCC-25HE201789",
+    "name": "沧州华油尊享礼包-32元（12个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE201793",
+    "name": "沧州华油尊享礼包-36元（24个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE201794",
+    "name": "沧州华油尊享礼包-20元（12个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE201795",
+    "name": "沧州华油尊享礼包-40元（24个月）",
+    "category": "加装包"
+   },
+   {
+    "tariff_id": "CMCC-25HE201796",
+    "name": "沧州华油尊享礼包-36元（12个月）",
+    "category": "加装包"
+   }
+  ]
  },
  "removed": {
   "count": 0,
   "items": []
  },
  "modified": {
-  "count": 0,
-  "items": []
+  "count": 12,
+  "items": [
+   {
+    "tariff_id": "CMCC-25HE201787",
+    "name": "沧州华油尊享语音包-200分钟",
+    "category": "营销活动",
+    "fields": []
+   },
+   {
+    "tariff_id": "CMCC-25HE201788",
+    "name": "沧州华油尊享礼包-10元",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CMCC-25HE201790",
+    "name": "沧州华油尊享礼包-20元（24个月）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CMCC-25HE202084",
+    "name": "全球通权益成长礼包",
+    "category": "营销活动",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203075",
+    "name": "极光TV会员",
+    "category": "加装包",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-25HE203230",
+    "name": "移动优选PLUS会员年包49元档（新机）",
+    "category": "加装包",
+    "fields": []
+   },
+   {
+    "tariff_id": "CMCC-26HE200300",
+    "name": "50元返费优惠2026版（36个月）",
+    "category": "营销活动",
+    "fields": [
+     "validity",
+     "eligibility"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200339",
+    "name": "少儿宝",
+    "category": "加装包",
+    "fields": [
+     "traffic",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200345",
+    "name": "萌保保",
+    "category": "加装包",
+    "fields": [
+     "traffic",
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200447",
+    "name": "爱家TV酷喵VIP",
+    "category": "加装包",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200857",
+    "name": "爱家TV酷喵VIP（亲情付）",
+    "category": "加装包",
+    "fields": [
+     "description"
+    ]
+   },
+   {
+    "tariff_id": "CMCC-26HE200858",
+    "name": "极光TV会员（亲情付）",
+    "category": "加装包",
+    "fields": [
+     "description"
+    ]
+   }
+  ]
  },
  "unchanged": {
-  "count": 2439
+  "count": 2427
  },
- "has_change": false,
- "status": "NO_CHANGE"
+ "has_change": true,
+ "status": "CHANGED"
 }
